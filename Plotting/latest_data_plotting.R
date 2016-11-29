@@ -4,7 +4,7 @@ library(Hmisc)
 library(ggplot2)
 
 #organising data
-qDataL = read.delim('Qualtrics_RAW_21.11.16.txt')
+qDataL = read.delim('./Data/Qualtrics_RAW_21.11.16.txt')
 # Remove the rows with 'NA's
 qDataL = na.omit(qDataL)
 
@@ -66,6 +66,7 @@ Confidence <- qData$CONFIDENCE
 Correct <- qData$CORRECT
 Switching <-qData$Switched
 Prop.Disagreed <- qData$prop_disagreed
+noDisagreed <- qData$noDisagreed
 
 
 ##plotting conf (taken from plotting_18_10_16.R in pilotData folder)
@@ -112,6 +113,15 @@ switchingPropPlot <- ggplot(qData, aes(Prop.Disagreed, Switching, color= Sex)) +
   scale_y_continuous(limits=c(0,1)) 
 switchingPropPlot
 
+#switching per no.disagreed
+switchingnoDisagreedPlot <- ggplot(qData, aes(noDisagreed, Switching, color= Sex)) +
+  stat_summary(fun.y = mean, geom = "point", size = 2.8) +
+  stat_summary(fun.data = mean_cl_normal, geom = "errorbar", width = 0.2) +
+  geom_smooth(method= "lm", se= FALSE,  colour= "red", formula=y ~ poly(x, 3, raw=TRUE)) +
+  theme_bw() +
+  scale_y_continuous(limits=c(0,1)) 
+switchingnoDisagreedPlot
+
 #add stat_smooth?
 SmoothSwitchingPropPlot <- ggplot(qData, aes(Prop.Disagreed, Switching, color= Sex)) +
   stat_summary(fun.y = mean, geom = "point", size = 2.8) +
@@ -122,15 +132,18 @@ SmoothSwitchingPropPlot <- ggplot(qData, aes(Prop.Disagreed, Switching, color= S
 SmoothSwitchingPropPlot
 
 #stat smooth per Conf? Can't seem to get it for all conf levels...
-SmoothConfPropPlot <- ggplot(qData, aes(Prop.Disagreed, Switching, color= Confidence)) +
+#try confidence as factor?
+#Confidence <- as.factor(Confidence) nope doesn't work
+#try for no.disagreed as factor
+noDisagreed <- as.factor(noDisagreed)
+
+SmoothConfPropPlot <- ggplot(qData, aes(Prop.Disagreed, Switching, group = Confidence)) +
   stat_summary(fun.y = mean, geom = "point", size = 2.8) +
   stat_summary(fun.data = mean_cl_normal, geom = "errorbar", width = 0.2) +
-  geom_smooth(method= "lm", se= FALSE,  colour= "red", formula=y ~ poly(x, 3, raw=TRUE)) +
+  geom_smooth(method= "lm", se= FALSE,  colour= "pink", formula=y ~ poly(x, 3, raw=TRUE)) +
   theme_bw() +
   scale_y_continuous(limits=c(0,1)) 
 SmoothConfPropPlot
-
-
 
 
 #density plot for confidence?
