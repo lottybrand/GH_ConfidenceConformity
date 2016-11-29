@@ -1,0 +1,23 @@
+
+Iterations = 1001:60981
+Thinning interval = 20 
+Number of chains = 3 
+Sample size per chain = 3000 
+
+1. Empirical mean and standard deviation for each variable,
+   plus standard error of the mean:
+
+              Mean      SD  Naive SE Time-series SE
+b_intercept 0.5058 0.15253 0.0016078      0.0015962
+b_sex       0.1578 0.16240 0.0017118      0.0017110
+sigma_p_abs 0.8043 0.07155 0.0007542      0.0007572
+sigma_q_abs 0.6302 0.10765 0.0011347      0.0011583
+
+2. Quantiles for each variable:
+
+               2.5%     25%    50%    75%  97.5%
+b_intercept  0.2066 0.40292 0.5063 0.6067 0.8055
+b_sex       -0.1606 0.04911 0.1572 0.2640 0.4762
+sigma_p_abs  0.6726 0.75461 0.8024 0.8508 0.9544
+sigma_q_abs  0.4553 0.55516 0.6190 0.6920 0.8744
+

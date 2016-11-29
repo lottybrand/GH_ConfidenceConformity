@@ -1,0 +1,2420 @@
+ID	Age	English	BornInUK	Country	Sex	Condition	QuestionNo	REALQno	Answer	Psaid	CorrectAnswer	correctYN	Correct	Confidence	SecondAnswer	Switched	SaidYes	SaidNo	MajSaid	MajCorrect	MajDiffered	noDisagreed
+1	5	4	2	USA	2	1	1	3	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+1	5	4	2	USA	2	1	2	8	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+1	5	4	2	USA	2	1	3	18	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+1	5	4	2	USA	2	1	5	2	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+1	5	4	2	USA	2	1	7	5	1	yes	1	yes	1	4	1	0	8	4	yes	1	0	4
+1	5	4	2	USA	2	1	8	6	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+1	5	4	2	USA	2	1	9	7	1	yes	1	yes	1	5	1	0	12	0	yes	1	0	0
+1	5	4	2	USA	2	1	11	10	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+1	5	4	2	USA	2	1	13	12	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+1	5	4	2	USA	2	1	15	14	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+1	5	4	2	USA	2	1	21	21	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+1	5	4	2	USA	2	1	22	22	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+1	5	4	2	USA	2	1	23	23	1	yes	1	yes	1	4	1	0	12	0	yes	1	0	0
+1	5	4	2	USA	2	1	24	24	2	no	2	no	1	4	2	0	0	12	no	1	0	0
+2	2	4	1		2	1	1	3	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+2	2	4	1		2	1	2	8	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+2	2	4	1		2	1	3	18	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+2	2	4	1		2	1	4	1	1	yes	1	yes	1	4	1	0	12	0	yes	1	0	0
+2	2	4	1		2	1	5	2	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+2	2	4	1		2	1	6	4	2	no	2	no	1	5	2	0	2	10	no	1	0	2
+2	2	4	1		2	1	7	5	1	yes	1	yes	1	4	1	0	12	0	yes	1	0	0
+2	2	4	1		2	1	9	7	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+2	2	4	1		2	1	10	9	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+2	2	4	1		2	1	11	10	2	no	2	no	1	5	2	0	2	10	no	1	0	2
+2	2	4	1		2	1	16	15	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+2	2	4	1		2	1	20	20	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+2	2	4	1		2	1	22	22	2	no	2	no	1	4	2	0	2	10	no	1	0	2
+3	5	6	2	Indonesia	2	1	1	3	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+3	5	6	2	Indonesia	2	1	3	18	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+3	5	6	2	Indonesia	2	1	4	1	1	yes	1	yes	1	4	1	0	8	4	yes	1	0	4
+3	5	6	2	Indonesia	2	1	7	5	1	yes	1	yes	1	5	1	0	12	0	yes	1	0	0
+3	5	6	2	Indonesia	2	1	10	9	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+3	5	6	2	Indonesia	2	1	12	11	1	yes	1	yes	1	3	1	0	12	0	yes	1	0	0
+3	5	6	2	Indonesia	2	1	13	12	2	no	2	no	1	4	2	0	2	10	no	1	0	2
+3	5	6	2	Indonesia	2	1	14	13	1	yes	1	yes	1	2	1	0	12	0	yes	1	0	0
+3	5	6	2	Indonesia	2	1	15	14	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+3	5	6	2	Indonesia	2	1	17	16	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+3	5	6	2	Indonesia	2	1	19	19	1	yes	1	yes	1	3	1	0	10	2	yes	1	0	2
+3	5	6	2	Indonesia	2	1	21	21	2	no	1	yes	0	3	2	0	0	12	no	0	0	0
+3	5	6	2	Indonesia	2	1	24	24	2	no	2	no	1	3	2	0	2	10	no	1	0	2
+4	5	5	2	USA	2	2	1	3	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+4	5	5	2	USA	2	2	2	8	2	no	2	no	1	2	2	0	0	12	no	1	0	0
+4	5	5	2	USA	2	2	4	1	2	no	1	yes	0	0	2	0	0	12	no	0	0	0
+4	5	5	2	USA	2	2	6	4	2	no	2	no	1	3	2	0	0	12	no	1	0	0
+4	5	5	2	USA	2	2	8	6	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+4	5	5	2	USA	2	2	9	7	1	yes	1	yes	1	3	1	0	8	4	yes	1	0	4
+4	5	5	2	USA	2	2	10	9	1	yes	1	yes	1	3	1	0	12	0	yes	1	0	0
+4	5	5	2	USA	2	2	14	13	2	no	1	yes	0	3	2	0	0	12	no	0	0	0
+4	5	5	2	USA	2	2	19	19	1	yes	1	yes	1	3	1	0	12	0	yes	1	0	0
+4	5	5	2	USA	2	2	24	24	2	no	2	no	1	4	2	0	2	10	no	1	0	2
+5	5	5	2	Malaysia	1	2	1	3	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+5	5	5	2	Malaysia	1	2	6	4	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+5	5	5	2	Malaysia	1	2	10	9	1	yes	1	yes	1	6	1	0	8	4	yes	1	0	4
+5	5	5	2	Malaysia	1	2	13	12	1	yes	2	no	0	0	1	0	10	2	yes	0	0	2
+5	5	5	2	Malaysia	1	2	14	13	1	yes	1	yes	1	6	1	0	8	4	yes	1	0	4
+5	5	5	2	Malaysia	1	2	16	15	1	yes	1	yes	1	6	1	0	8	4	yes	1	0	4
+5	5	5	2	Malaysia	1	2	18	17	1	yes	1	yes	1	4	1	0	12	0	yes	1	0	0
+5	5	5	2	Malaysia	1	2	22	22	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+5	5	5	2	Malaysia	1	2	23	23	1	yes	1	yes	1	3	1	0	12	0	yes	1	0	0
+6	5	4	2	South Africa	2	1	2	8	2	no	2	no	1	6	1	1	0	12	no	1	0	0
+6	5	4	2	South Africa	2	1	6	4	1	yes	2	no	0	6	1	0	8	4	yes	0	0	4
+6	5	4	2	South Africa	2	1	8	6	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+6	5	4	2	South Africa	2	1	12	11	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+6	5	4	2	South Africa	2	1	13	12	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+6	5	4	2	South Africa	2	1	14	13	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+6	5	4	2	South Africa	2	1	15	14	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+6	5	4	2	South Africa	2	1	17	16	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+6	5	4	2	South Africa	2	1	18	17	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+6	5	4	2	South Africa	2	1	19	19	1	yes	1	yes	1	6	1	0	8	4	yes	1	0	4
+6	5	4	2	South Africa	2	1	21	21	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+6	5	4	2	South Africa	2	1	23	23	2	no	1	yes	0	4	2	0	2	10	no	0	0	2
+6	5	4	2	South Africa	2	1	24	24	2	no	2	no	1	2	2	0	4	8	no	1	0	4
+7	5	6	2	China	2	2	3	18	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+7	5	6	2	China	2	2	6	4	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+7	5	6	2	China	2	2	7	5	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+7	5	6	2	China	2	2	8	6	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+7	5	6	2	China	2	2	10	9	1	yes	1	yes	1	6	1	0	8	4	yes	1	0	4
+7	5	6	2	China	2	2	11	10	1	yes	2	no	0	6	1	0	8	4	yes	0	0	4
+7	5	6	2	China	2	2	12	11	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+7	5	6	2	China	2	2	16	15	1	yes	1	yes	1	5	1	0	12	0	yes	1	0	0
+7	5	6	2	China	2	2	17	16	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+7	5	6	2	China	2	2	18	17	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+7	5	6	2	China	2	2	19	19	2	no	1	yes	0	6	2	0	2	10	no	0	0	2
+7	5	6	2	China	2	2	21	21	1	yes	1	yes	1	4	1	0	8	4	yes	1	0	4
+7	5	6	2	China	2	2	22	22	2	no	2	no	1	3	2	0	2	10	no	1	0	2
+7	5	6	2	China	2	2	23	23	2	no	1	yes	0	4	2	0	0	12	no	0	0	0
+8	5	6	2	China	2	1	1	3	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+8	5	6	2	China	2	1	2	8	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+8	5	6	2	China	2	1	3	18	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+8	5	6	2	China	2	1	4	1	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+8	5	6	2	China	2	1	5	2	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+8	5	6	2	China	2	1	7	5	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+8	5	6	2	China	2	1	9	7	1	yes	1	yes	1	4	1	0	8	4	yes	1	0	4
+8	5	6	2	China	2	1	13	12	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+8	5	6	2	China	2	1	15	14	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+8	5	6	2	China	2	1	17	16	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+8	5	6	2	China	2	1	20	20	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+8	5	6	2	China	2	1	21	21	1	yes	1	yes	1	6	1	0	12	0	yes	1	0	0
+8	5	6	2	China	2	1	22	22	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+8	5	6	2	China	2	1	23	23	2	no	1	yes	0	2	2	0	4	8	no	0	0	4
+9	5	6	2	Lithuania	2	1	5	2	2	no	2	no	1	0	2	0	2	10	no	1	0	2
+9	5	6	2	Lithuania	2	1	11	10	2	no	2	no	1	1	2	0	4	8	no	1	0	4
+9	5	6	2	Lithuania	2	1	12	11	1	yes	1	yes	1	1	1	0	8	4	yes	1	0	4
+9	5	6	2	Lithuania	2	1	16	15	1	yes	1	yes	1	5	1	0	8	4	yes	1	0	4
+9	5	6	2	Lithuania	2	1	18	17	1	yes	1	yes	1	6	1	0	12	0	yes	1	0	0
+9	5	6	2	Lithuania	2	1	19	19	2	no	1	yes	0	2	2	0	2	10	no	0	0	2
+9	5	6	2	Lithuania	2	1	20	20	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+10	5	6	2	China	2	2	1	3	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+10	5	6	2	China	2	2	2	8	2	no	2	no	1	1	2	0	0	12	no	1	0	0
+10	5	6	2	China	2	2	3	18	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+10	5	6	2	China	2	2	5	2	2	no	2	no	1	4	2	0	0	12	no	1	0	0
+10	5	6	2	China	2	2	11	10	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+10	5	6	2	China	2	2	12	11	1	yes	1	yes	1	4	1	0	12	0	yes	1	0	0
+10	5	6	2	China	2	2	16	15	2	no	1	yes	0	3	2	0	2	10	no	0	0	2
+10	5	6	2	China	2	2	19	19	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+10	5	6	2	China	2	2	20	20	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+10	5	6	2	China	2	2	21	21	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+10	5	6	2	China	2	2	23	23	1	yes	1	yes	1	5	1	0	8	4	yes	1	0	4
+11	2	5	2	United States	1	2	1	3	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+11	2	5	2	United States	1	2	4	1	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+11	2	5	2	United States	1	2	6	4	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+11	2	5	2	United States	1	2	7	5	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+11	2	5	2	United States	1	2	10	9	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+11	2	5	2	United States	1	2	13	12	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+11	2	5	2	United States	1	2	14	13	1	yes	1	yes	1	3	1	0	8	4	yes	1	0	4
+11	2	5	2	United States	1	2	17	16	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+11	2	5	2	United States	1	2	19	19	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+11	2	5	2	United States	1	2	21	21	1	yes	1	yes	1	6	1	0	12	0	yes	1	0	0
+11	2	5	2	United States	1	2	22	22	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+11	2	5	2	United States	1	2	24	24	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+12	5	4	2	Malaysia	2	2	1	3	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+12	5	4	2	Malaysia	2	2	2	8	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+12	5	4	2	Malaysia	2	2	3	18	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+12	5	4	2	Malaysia	2	2	7	5	1	yes	1	yes	1	5	1	0	12	0	yes	1	0	0
+12	5	4	2	Malaysia	2	2	8	6	2	no	2	no	1	5	2	0	2	10	no	1	0	2
+12	5	4	2	Malaysia	2	2	10	9	1	yes	1	yes	1	6	1	0	12	0	yes	1	0	0
+12	5	4	2	Malaysia	2	2	15	14	2	no	2	no	1	4	2	0	2	10	no	1	0	2
+12	5	4	2	Malaysia	2	2	16	15	1	yes	1	yes	1	4	1	0	8	4	yes	1	0	4
+12	5	4	2	Malaysia	2	2	17	16	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+12	5	4	2	Malaysia	2	2	18	17	1	yes	1	yes	1	5	1	0	8	4	yes	1	0	4
+12	5	4	2	Malaysia	2	2	19	19	1	yes	1	yes	1	5	1	0	8	4	yes	1	0	4
+12	5	4	2	Malaysia	2	2	20	20	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+12	5	4	2	Malaysia	2	2	24	24	2	no	2	no	1	5	2	0	2	10	no	1	0	2
+13	5	6	2	Hungary	2	2	3	18	2	no	2	no	1	6	1	1	4	8	no	1	0	4
+13	5	6	2	Hungary	2	2	6	4	1	yes	2	no	0	3	1	0	12	0	yes	0	0	0
+13	5	6	2	Hungary	2	2	9	7	1	yes	1	yes	1	6	1	0	12	0	yes	1	0	0
+13	5	6	2	Hungary	2	2	10	9	2	no	1	yes	0	3	2	0	0	12	no	0	0	0
+13	5	6	2	Hungary	2	2	12	11	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+13	5	6	2	Hungary	2	2	15	14	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+13	5	6	2	Hungary	2	2	16	15	1	yes	1	yes	1	4	1	0	12	0	yes	1	0	0
+13	5	6	2	Hungary	2	2	17	16	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+13	5	6	2	Hungary	2	2	18	17	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+13	5	6	2	Hungary	2	2	19	19	2	no	1	yes	0	0	2	0	4	8	no	0	0	4
+13	5	6	2	Hungary	2	2	20	20	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+13	5	6	2	Hungary	2	2	22	22	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+13	5	6	2	Hungary	2	2	24	24	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+14	5	5	2	Poland	2	1	1	3	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+14	5	5	2	Poland	2	1	3	18	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+14	5	5	2	Poland	2	1	4	1	1	yes	1	yes	1	1	1	0	12	0	yes	1	0	0
+14	5	5	2	Poland	2	1	9	7	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+14	5	5	2	Poland	2	1	10	9	1	yes	1	yes	1	6	1	0	8	4	yes	1	0	4
+14	5	5	2	Poland	2	1	11	10	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+14	5	5	2	Poland	2	1	13	12	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+14	5	5	2	Poland	2	1	15	14	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+14	5	5	2	Poland	2	1	19	19	1	yes	1	yes	1	5	1	0	8	4	yes	1	0	4
+14	5	5	2	Poland	2	1	20	20	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+14	5	5	2	Poland	2	1	22	22	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+14	5	5	2	Poland	2	1	23	23	2	no	1	yes	0	6	2	0	4	8	no	0	0	4
+14	5	5	2	Poland	2	1	24	24	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+15	5	4	2	USA	1	1	1	3	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+15	5	4	2	USA	1	1	2	8	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+15	5	4	2	USA	1	1	3	18	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+15	5	4	2	USA	1	1	4	1	2	no	1	yes	0	2	2	0	0	12	no	0	0	0
+15	5	4	2	USA	1	1	6	4	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+15	5	4	2	USA	1	1	7	5	1	yes	1	yes	1	5	1	0	8	4	yes	1	0	4
+15	5	4	2	USA	1	1	8	6	2	no	2	no	1	5	2	0	2	10	no	1	0	2
+15	5	4	2	USA	1	1	9	7	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+15	5	4	2	USA	1	1	10	9	1	yes	1	yes	1	5	1	0	12	0	yes	1	0	0
+15	5	4	2	USA	1	1	11	10	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+15	5	4	2	USA	1	1	14	13	1	yes	1	yes	1	5	1	0	12	0	yes	1	0	0
+15	5	4	2	USA	1	1	15	14	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+15	5	4	2	USA	1	1	16	15	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+15	5	4	2	USA	1	1	18	17	1	yes	1	yes	1	4	1	0	12	0	yes	1	0	0
+15	5	4	2	USA	1	1	19	19	1	yes	1	yes	1	5	1	0	12	0	yes	1	0	0
+15	5	4	2	USA	1	1	21	21	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+15	5	4	2	USA	1	1	23	23	1	yes	1	yes	1	4	1	0	12	0	yes	1	0	0
+16	5	6	2	Poland	2	1	1	3	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+16	5	6	2	Poland	2	1	2	8	2	no	2	no	1	4	2	0	0	12	no	1	0	0
+16	5	6	2	Poland	2	1	5	2	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+16	5	6	2	Poland	2	1	9	7	1	yes	1	yes	1	4	1	0	8	4	yes	1	0	4
+16	5	6	2	Poland	2	1	10	9	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+16	5	6	2	Poland	2	1	14	13	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+16	5	6	2	Poland	2	1	17	16	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+16	5	6	2	Poland	2	1	18	17	1	yes	1	yes	1	2	1	0	8	4	yes	1	0	4
+16	5	6	2	Poland	2	1	19	19	2	no	1	yes	0	2	2	0	0	12	no	0	0	0
+17	5	6	2	Norway	2	1	1	3	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+17	5	6	2	Norway	2	1	2	8	2	no	2	no	1	4	2	0	0	12	no	1	0	0
+17	5	6	2	Norway	2	1	3	18	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+17	5	6	2	Norway	2	1	5	2	2	no	2	no	1	3	2	0	2	10	no	1	0	2
+17	5	6	2	Norway	2	1	6	4	2	no	2	no	1	3	2	0	0	12	no	1	0	0
+17	5	6	2	Norway	2	1	7	5	2	no	1	yes	0	6	2	0	0	12	no	0	0	0
+17	5	6	2	Norway	2	1	8	6	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+17	5	6	2	Norway	2	1	11	10	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+17	5	6	2	Norway	2	1	12	11	1	yes	1	yes	1	6	1	0	8	4	yes	1	0	4
+17	5	6	2	Norway	2	1	15	14	2	no	2	no	1	3	2	0	0	12	no	1	0	0
+17	5	6	2	Norway	2	1	23	23	2	no	1	yes	0	2	2	0	2	10	no	0	0	2
+18	5	4	1		1	2	1	3	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+18	5	4	1		1	2	2	8	2	no	2	no	1	3	2	0	0	12	no	1	0	0
+18	5	4	1		1	2	4	1	1	yes	1	yes	1	6	1	0	8	4	yes	1	0	4
+18	5	4	1		1	2	5	2	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+18	5	4	1		1	2	6	4	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+18	5	4	1		1	2	7	5	1	yes	1	yes	1	5	1	0	12	0	yes	1	0	0
+18	5	4	1		1	2	9	7	2	no	1	yes	0	6	2	0	2	10	no	0	0	2
+18	5	4	1		1	2	10	9	1	yes	1	yes	1	4	1	0	8	4	yes	1	0	4
+18	5	4	1		1	2	12	11	1	yes	1	yes	1	4	1	0	12	0	yes	1	0	0
+18	5	4	1		1	2	13	12	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+18	5	4	1		1	2	14	13	1	yes	1	yes	1	5	1	0	12	0	yes	1	0	0
+18	5	4	1		1	2	16	15	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+18	5	4	1		1	2	20	20	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+18	5	4	1		1	2	21	21	1	yes	1	yes	1	2	1	0	8	4	yes	1	0	4
+18	5	4	1		1	2	22	22	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+18	5	4	1		1	2	24	24	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+19	5	6	2	Slovakia	2	1	1	3	1	yes	1	yes	1	3	1	0	10	2	yes	1	0	2
+19	5	6	2	Slovakia	2	1	2	8	2	no	2	no	1	4	1	1	0	12	no	1	0	0
+19	5	6	2	Slovakia	2	1	3	18	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+19	5	6	2	Slovakia	2	1	4	1	1	yes	1	yes	1	2	1	0	12	0	yes	1	0	0
+19	5	6	2	Slovakia	2	1	6	4	2	no	2	no	1	5	2	0	2	10	no	1	0	2
+19	5	6	2	Slovakia	2	1	9	7	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+19	5	6	2	Slovakia	2	1	13	12	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+19	5	6	2	Slovakia	2	1	15	14	2	no	2	no	1	3	2	0	2	10	no	1	0	2
+19	5	6	2	Slovakia	2	1	16	15	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+19	5	6	2	Slovakia	2	1	17	16	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+19	5	6	2	Slovakia	2	1	19	19	1	yes	1	yes	1	4	1	0	12	0	yes	1	0	0
+19	5	6	2	Slovakia	2	1	21	21	1	yes	1	yes	1	4	1	0	8	4	yes	1	0	4
+20	5	6	2	Hong Kong	1	1	1	3	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+20	5	6	2	Hong Kong	1	1	4	1	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+20	5	6	2	Hong Kong	1	1	5	2	2	no	2	no	1	4	2	0	2	10	no	1	0	2
+20	5	6	2	Hong Kong	1	1	6	4	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+20	5	6	2	Hong Kong	1	1	8	6	2	no	2	no	1	5	2	0	2	10	no	1	0	2
+20	5	6	2	Hong Kong	1	1	9	7	2	no	1	yes	0	2	2	0	2	10	no	0	0	2
+20	5	6	2	Hong Kong	1	1	11	10	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+20	5	6	2	Hong Kong	1	1	13	12	1	yes	2	no	0	4	1	0	8	4	yes	0	0	4
+20	5	6	2	Hong Kong	1	1	15	14	2	no	2	no	1	3	2	0	0	12	no	1	0	0
+20	5	6	2	Hong Kong	1	1	17	16	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+20	5	6	2	Hong Kong	1	1	18	17	1	yes	1	yes	1	3	1	0	12	0	yes	1	0	0
+20	5	6	2	Hong Kong	1	1	19	19	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+20	5	6	2	Hong Kong	1	1	21	21	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+20	5	6	2	Hong Kong	1	1	22	22	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+21	5	6	2	TURKEY	2	2	1	3	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+21	5	6	2	TURKEY	2	2	3	18	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+21	5	6	2	TURKEY	2	2	4	1	1	yes	1	yes	1	3	1	0	8	4	yes	1	0	4
+21	5	6	2	TURKEY	2	2	7	5	1	yes	1	yes	1	3	1	0	12	0	yes	1	0	0
+21	5	6	2	TURKEY	2	2	8	6	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+21	5	6	2	TURKEY	2	2	9	7	2	no	1	yes	0	3	2	0	0	12	no	0	0	0
+21	5	6	2	TURKEY	2	2	10	9	1	yes	1	yes	1	5	1	0	12	0	yes	1	0	0
+21	5	6	2	TURKEY	2	2	11	10	1	yes	2	no	0	4	1	0	8	4	yes	0	0	4
+21	5	6	2	TURKEY	2	2	12	11	1	yes	1	yes	1	4	1	0	8	4	yes	1	0	4
+21	5	6	2	TURKEY	2	2	13	12	2	no	2	no	1	2	2	0	2	10	no	1	0	2
+21	5	6	2	TURKEY	2	2	14	13	1	yes	1	yes	1	1	1	0	8	4	yes	1	0	4
+21	5	6	2	TURKEY	2	2	17	16	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+21	5	6	2	TURKEY	2	2	21	21	2	no	1	yes	0	2	2	0	0	12	no	0	0	0
+21	5	6	2	TURKEY	2	2	22	22	2	no	2	no	1	5	2	0	2	10	no	1	0	2
+22	5	5	2	Poland	2	2	1	3	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+22	5	5	2	Poland	2	2	4	1	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+22	5	5	2	Poland	2	2	5	2	2	no	2	no	1	2	2	0	4	8	no	1	0	4
+22	5	5	2	Poland	2	2	8	6	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+22	5	5	2	Poland	2	2	10	9	1	yes	1	yes	1	3	1	0	10	2	yes	1	0	2
+22	5	5	2	Poland	2	2	11	10	2	no	2	no	1	4	2	0	0	12	no	1	0	0
+22	5	5	2	Poland	2	2	12	11	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+22	5	5	2	Poland	2	2	13	12	1	yes	2	no	0	4	1	0	12	0	yes	0	0	0
+22	5	5	2	Poland	2	2	14	13	1	yes	1	yes	1	4	1	0	12	0	yes	1	0	0
+22	5	5	2	Poland	2	2	19	19	2	no	1	yes	0	4	2	0	4	8	no	0	0	4
+22	5	5	2	Poland	2	2	20	20	1	yes	2	no	0	4	1	0	10	2	yes	0	0	2
+22	5	5	2	Poland	2	2	22	22	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+22	5	5	2	Poland	2	2	23	23	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+22	5	5	2	Poland	2	2	24	24	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+23	5	6	2	Hong Kong	2	1	1	3	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+23	5	6	2	Hong Kong	2	1	2	8	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+23	5	6	2	Hong Kong	2	1	7	5	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+23	5	6	2	Hong Kong	2	1	9	7	1	yes	1	yes	1	6	1	0	12	0	yes	1	0	0
+23	5	6	2	Hong Kong	2	1	17	16	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+23	5	6	2	Hong Kong	2	1	18	17	1	yes	1	yes	1	3	1	0	10	2	yes	1	0	2
+23	5	6	2	Hong Kong	2	1	19	19	1	yes	1	yes	1	2	1	0	10	2	yes	1	0	2
+23	5	6	2	Hong Kong	2	1	20	20	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+23	5	6	2	Hong Kong	2	1	21	21	1	yes	1	yes	1	4	1	0	12	0	yes	1	0	0
+23	5	6	2	Hong Kong	2	1	24	24	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+24	5	5	2	malaysia	2	2	1	3	1	yes	1	yes	1	2	1	0	10	2	yes	1	0	2
+24	5	5	2	malaysia	2	2	2	8	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+24	5	5	2	malaysia	2	2	3	18	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+24	5	5	2	malaysia	2	2	4	1	2	no	1	yes	0	4	2	0	4	8	no	0	0	4
+24	5	5	2	malaysia	2	2	6	4	1	yes	2	no	0	3	1	0	8	4	yes	0	0	4
+24	5	5	2	malaysia	2	2	9	7	1	yes	1	yes	1	5	1	0	8	4	yes	1	0	4
+24	5	5	2	malaysia	2	2	11	10	1	yes	2	no	0	2	1	0	8	4	yes	0	0	4
+24	5	5	2	malaysia	2	2	12	11	1	yes	1	yes	1	4	1	0	8	4	yes	1	0	4
+24	5	5	2	malaysia	2	2	14	13	2	no	1	yes	0	4	2	0	0	12	no	0	0	0
+24	5	5	2	malaysia	2	2	15	14	2	no	2	no	1	4	2	0	2	10	no	1	0	2
+24	5	5	2	malaysia	2	2	18	17	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+24	5	5	2	malaysia	2	2	22	22	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+24	5	5	2	malaysia	2	2	23	23	2	no	1	yes	0	4	2	0	0	12	no	0	0	0
+25	5	4	2	Canada	2	1	2	8	2	no	2	no	1	2	2	0	0	12	no	1	0	0
+25	5	4	2	Canada	2	1	3	18	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+25	5	4	2	Canada	2	1	4	1	2	no	1	yes	0	3	2	0	4	8	no	0	0	4
+25	5	4	2	Canada	2	1	8	6	2	no	2	no	1	3	2	0	2	10	no	1	0	2
+25	5	4	2	Canada	2	1	9	7	2	no	1	yes	0	6	2	0	4	8	no	0	0	4
+25	5	4	2	Canada	2	1	11	10	2	no	2	no	1	3	2	0	4	8	no	1	0	4
+25	5	4	2	Canada	2	1	12	11	2	no	1	yes	0	3	2	0	0	12	no	0	0	0
+25	5	4	2	Canada	2	1	13	12	1	yes	2	no	0	2	1	0	10	2	yes	0	0	2
+25	5	4	2	Canada	2	1	18	17	2	no	1	yes	0	3	2	0	2	10	no	0	0	2
+25	5	4	2	Canada	2	1	19	19	2	no	1	yes	0	3	2	0	2	10	no	0	0	2
+25	5	4	2	Canada	2	1	22	22	1	yes	2	no	0	3	1	0	10	2	yes	0	0	2
+25	5	4	2	Canada	2	1	23	23	2	no	1	yes	0	3	2	0	4	8	no	0	0	4
+25	5	4	2	Canada	2	1	24	24	1	yes	2	no	0	2	1	0	12	0	yes	0	0	0
+26	5	4	1		2	1	1	3	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+26	5	4	1		2	1	2	8	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+26	5	4	1		2	1	3	18	2	no	2	no	1	3	2	0	4	8	no	1	0	4
+26	5	4	1		2	1	5	2	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+26	5	4	1		2	1	7	5	1	yes	1	yes	1	5	1	0	12	0	yes	1	0	0
+26	5	4	1		2	1	9	7	2	no	1	yes	0	2	2	0	2	10	no	0	0	2
+26	5	4	1		2	1	11	10	2	no	2	no	1	4	2	0	2	10	no	1	0	2
+26	5	4	1		2	1	12	11	1	yes	1	yes	1	5	1	0	12	0	yes	1	0	0
+26	5	4	1		2	1	14	13	1	yes	1	yes	1	5	1	0	8	4	yes	1	0	4
+26	5	4	1		2	1	15	14	2	no	2	no	1	3	2	0	4	8	no	1	0	4
+26	5	4	1		2	1	16	15	1	yes	1	yes	1	4	1	0	8	4	yes	1	0	4
+26	5	4	1		2	1	18	17	1	yes	1	yes	1	4	1	0	8	4	yes	1	0	4
+26	5	4	1		2	1	19	19	1	yes	1	yes	1	5	1	0	12	0	yes	1	0	0
+26	5	4	1		2	1	20	20	2	no	2	no	1	3	2	0	4	8	no	1	0	4
+26	5	4	1		2	1	21	21	1	yes	1	yes	1	5	1	0	12	0	yes	1	0	0
+26	5	4	1		2	1	23	23	1	yes	1	yes	1	1	1	0	12	0	yes	1	0	0
+26	5	4	1		2	1	24	24	2	no	2	no	1	4	2	0	0	12	no	1	0	0
+27	5	4	1		1	1	1	3	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+27	5	4	1		1	1	2	8	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+27	5	4	1		1	1	3	18	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+27	5	4	1		1	1	4	1	1	yes	1	yes	1	5	1	0	8	4	yes	1	0	4
+27	5	4	1		1	1	9	7	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+27	5	4	1		1	1	10	9	1	yes	1	yes	1	5	1	0	12	0	yes	1	0	0
+27	5	4	1		1	1	12	11	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+27	5	4	1		1	1	13	12	2	no	2	no	1	5	2	0	2	10	no	1	0	2
+27	5	4	1		1	1	14	13	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+27	5	4	1		1	1	15	14	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+27	5	4	1		1	1	16	15	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+27	5	4	1		1	1	17	16	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+27	5	4	1		1	1	19	19	1	yes	1	yes	1	5	1	0	8	4	yes	1	0	4
+27	5	4	1		1	1	20	20	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+27	5	4	1		1	1	23	23	1	yes	1	yes	1	5	1	0	8	4	yes	1	0	4
+27	5	4	1		1	1	24	24	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+28	5	6	2	Hungary	2	2	4	1	1	yes	1	yes	1	2	1	0	12	0	yes	1	0	0
+28	5	6	2	Hungary	2	2	7	5	2	no	1	yes	0	4	2	0	4	8	no	0	0	4
+28	5	6	2	Hungary	2	2	8	6	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+28	5	6	2	Hungary	2	2	9	7	1	yes	1	yes	1	1	1	0	12	0	yes	1	0	0
+28	5	6	2	Hungary	2	2	11	10	2	no	2	no	1	4	2	0	2	10	no	1	0	2
+28	5	6	2	Hungary	2	2	13	12	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+28	5	6	2	Hungary	2	2	14	13	1	yes	1	yes	1	4	1	0	12	0	yes	1	0	0
+28	5	6	2	Hungary	2	2	15	14	1	yes	2	no	0	1	1	0	10	2	yes	0	0	2
+28	5	6	2	Hungary	2	2	18	17	2	no	1	yes	0	1	2	0	0	12	no	0	0	0
+28	5	6	2	Hungary	2	2	20	20	1	yes	2	no	0	4	1	0	8	4	yes	0	0	4
+28	5	6	2	Hungary	2	2	24	24	1	yes	2	no	0	4	1	0	8	4	yes	0	0	4
+29	5	6	2	Hungary	2	2	1	3	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+29	5	6	2	Hungary	2	2	3	18	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+29	5	6	2	Hungary	2	2	5	2	1	yes	2	no	0	3	1	0	8	4	yes	0	0	4
+29	5	6	2	Hungary	2	2	7	5	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+29	5	6	2	Hungary	2	2	8	6	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+29	5	6	2	Hungary	2	2	9	7	2	no	1	yes	0	2	2	0	0	12	no	0	0	0
+29	5	6	2	Hungary	2	2	13	12	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+29	5	6	2	Hungary	2	2	16	15	1	yes	1	yes	1	4	1	0	12	0	yes	1	0	0
+29	5	6	2	Hungary	2	2	18	17	1	yes	1	yes	1	0	1	0	12	0	yes	1	0	0
+29	5	6	2	Hungary	2	2	19	19	1	yes	1	yes	1	6	1	0	12	0	yes	1	0	0
+29	5	6	2	Hungary	2	2	20	20	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+29	5	6	2	Hungary	2	2	21	21	2	no	1	yes	0	4	2	0	4	8	no	0	0	4
+29	5	6	2	Hungary	2	2	22	22	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+29	5	6	2	Hungary	2	2	23	23	1	yes	1	yes	1	6	1	0	12	0	yes	1	0	0
+30	5	4	1		2	2	1	3	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+30	5	4	1		2	2	2	8	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+30	5	4	1		2	2	3	18	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+30	5	4	1		2	2	5	2	2	no	2	no	1	4	2	0	0	12	no	1	0	0
+30	5	4	1		2	2	6	4	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+30	5	4	1		2	2	8	6	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+30	5	4	1		2	2	10	9	1	yes	1	yes	1	4	1	0	8	4	yes	1	0	4
+30	5	4	1		2	2	11	10	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+30	5	4	1		2	2	14	13	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+30	5	4	1		2	2	16	15	2	no	1	yes	0	4	2	0	0	12	no	0	0	0
+30	5	4	1		2	2	17	16	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+30	5	4	1		2	2	18	17	1	yes	1	yes	1	5	1	0	8	4	yes	1	0	4
+30	5	4	1		2	2	20	20	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+30	5	4	1		2	2	21	21	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+30	5	4	1		2	2	22	22	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+30	5	4	1		2	2	23	23	2	no	1	yes	0	4	2	0	0	12	no	0	0	0
+31	5	4	2	United States	1	2	1	3	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+31	5	4	2	United States	1	2	2	8	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+31	5	4	2	United States	1	2	4	1	1	yes	1	yes	1	5	1	0	8	4	yes	1	0	4
+31	5	4	2	United States	1	2	7	5	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+31	5	4	2	United States	1	2	8	6	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+31	5	4	2	United States	1	2	10	9	1	yes	1	yes	1	6	1	0	12	0	yes	1	0	0
+31	5	4	2	United States	1	2	13	12	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+31	5	4	2	United States	1	2	23	23	1	yes	1	yes	1	3	1	0	8	4	yes	1	0	4
+32	5	6	2	Denmark	2	1	1	3	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+32	5	6	2	Denmark	2	1	2	8	2	no	2	no	1	4	2	0	0	12	no	1	0	0
+32	5	6	2	Denmark	2	1	3	18	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+32	5	6	2	Denmark	2	1	6	4	2	no	2	no	1	3	2	0	2	10	no	1	0	2
+32	5	6	2	Denmark	2	1	7	5	2	no	1	yes	0	4	2	0	2	10	no	0	0	2
+32	5	6	2	Denmark	2	1	11	10	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+32	5	6	2	Denmark	2	1	13	12	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+32	5	6	2	Denmark	2	1	14	13	1	yes	1	yes	1	4	1	0	8	4	yes	1	0	4
+32	5	6	2	Denmark	2	1	17	16	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+32	5	6	2	Denmark	2	1	19	19	1	yes	1	yes	1	2	1	0	12	0	yes	1	0	0
+32	5	6	2	Denmark	2	1	21	21	1	yes	1	yes	1	3	1	0	10	2	yes	1	0	2
+32	5	6	2	Denmark	2	1	23	23	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+32	5	6	2	Denmark	2	1	24	24	2	no	2	no	1	4	2	0	2	10	no	1	0	2
+33	5	6	2	Czech Republic	2	2	1	3	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+33	5	6	2	Czech Republic	2	2	2	8	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+33	5	6	2	Czech Republic	2	2	5	2	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+33	5	6	2	Czech Republic	2	2	8	6	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+33	5	6	2	Czech Republic	2	2	12	11	1	yes	1	yes	1	4	1	0	8	4	yes	1	0	4
+33	5	6	2	Czech Republic	2	2	14	13	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+33	5	6	2	Czech Republic	2	2	15	14	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+33	5	6	2	Czech Republic	2	2	16	15	1	yes	1	yes	1	5	1	0	12	0	yes	1	0	0
+33	5	6	2	Czech Republic	2	2	20	20	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+33	5	6	2	Czech Republic	2	2	21	21	2	no	1	yes	0	4	2	0	2	10	no	0	0	2
+33	5	6	2	Czech Republic	2	2	23	23	1	yes	1	yes	1	4	1	0	12	0	yes	1	0	0
+33	5	6	2	Czech Republic	2	2	24	24	1	yes	2	no	0	5	1	0	10	2	yes	0	0	2
+34	5	6	2	Indonesia	1	1	1	3	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+34	5	6	2	Indonesia	1	1	2	8	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+34	5	6	2	Indonesia	1	1	3	18	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+34	5	6	2	Indonesia	1	1	4	1	1	yes	1	yes	1	6	1	0	12	0	yes	1	0	0
+34	5	6	2	Indonesia	1	1	5	2	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+34	5	6	2	Indonesia	1	1	9	7	2	no	1	yes	0	2	2	0	0	12	no	0	0	0
+34	5	6	2	Indonesia	1	1	10	9	2	no	1	yes	0	2	2	0	4	8	no	0	0	4
+34	5	6	2	Indonesia	1	1	11	10	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+34	5	6	2	Indonesia	1	1	13	12	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+34	5	6	2	Indonesia	1	1	16	15	1	yes	1	yes	1	4	1	0	8	4	yes	1	0	4
+34	5	6	2	Indonesia	1	1	17	16	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+34	5	6	2	Indonesia	1	1	20	20	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+34	5	6	2	Indonesia	1	1	22	22	2	no	2	no	1	4	2	0	2	10	no	1	0	2
+34	5	6	2	Indonesia	1	1	23	23	2	no	1	yes	0	1	2	0	2	10	no	0	0	2
+35	5	4	2	China	2	2	1	3	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+35	5	4	2	China	2	2	2	8	2	no	2	no	1	4	2	0	0	12	no	1	0	0
+35	5	4	2	China	2	2	3	18	2	no	2	no	1	2	2	0	4	8	no	1	0	4
+35	5	4	2	China	2	2	5	2	1	yes	2	no	0	3	1	0	10	2	yes	0	0	2
+35	5	4	2	China	2	2	6	4	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+35	5	4	2	China	2	2	7	5	1	yes	1	yes	1	4	1	0	8	4	yes	1	0	4
+35	5	4	2	China	2	2	8	6	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+35	5	4	2	China	2	2	9	7	1	yes	1	yes	1	5	1	0	8	4	yes	1	0	4
+35	5	4	2	China	2	2	10	9	1	yes	1	yes	1	2	1	0	10	2	yes	1	0	2
+35	5	4	2	China	2	2	12	11	1	yes	1	yes	1	3	1	0	12	0	yes	1	0	0
+35	5	4	2	China	2	2	16	15	1	yes	1	yes	1	4	1	0	8	4	yes	1	0	4
+35	5	4	2	China	2	2	17	16	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+35	5	4	2	China	2	2	18	17	1	yes	1	yes	1	4	1	0	12	0	yes	1	0	0
+35	5	4	2	China	2	2	20	20	1	yes	2	no	0	6	1	0	12	0	yes	0	0	0
+35	5	4	2	China	2	2	21	21	1	yes	1	yes	1	3	1	0	8	4	yes	1	0	4
+35	5	4	2	China	2	2	23	23	2	no	1	yes	0	5	2	0	0	12	no	0	0	0
+36	5	5	1		2	1	1	3	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+36	5	5	1		2	1	2	8	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+36	5	5	1		2	1	3	18	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+36	5	5	1		2	1	4	1	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+36	5	5	1		2	1	5	2	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+36	5	5	1		2	1	6	4	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+36	5	5	1		2	1	9	7	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+36	5	5	1		2	1	10	9	1	yes	1	yes	1	6	1	0	8	4	yes	1	0	4
+36	5	5	1		2	1	14	13	1	yes	1	yes	1	4	1	0	12	0	yes	1	0	0
+36	5	5	1		2	1	15	14	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+36	5	5	1		2	1	16	15	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+36	5	5	1		2	1	17	16	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+36	5	5	1		2	1	18	17	1	yes	1	yes	1	6	1	0	12	0	yes	1	0	0
+36	5	5	1		2	1	19	19	1	yes	1	yes	1	3	1	0	12	0	yes	1	0	0
+36	5	5	1		2	1	21	21	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+36	5	5	1		2	1	23	23	1	yes	1	yes	1	3	1	0	12	0	yes	1	0	0
+36	5	5	1		2	1	24	24	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+37	5	6	2		2	2	2	8	2	no	2	no	1	2	2	0	0	12	no	1	0	0
+37	5	6	2		2	2	5	2	2	no	2	no	1	4	2	0	2	10	no	1	0	2
+37	5	6	2		2	2	6	4	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+37	5	6	2		2	2	7	5	1	yes	1	yes	1	6	1	0	12	0	yes	1	0	0
+37	5	6	2		2	2	9	7	1	yes	1	yes	1	6	1	0	12	0	yes	1	0	0
+37	5	6	2		2	2	10	9	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+37	5	6	2		2	2	12	11	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+37	5	6	2		2	2	15	14	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+37	5	6	2		2	2	17	16	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+37	5	6	2		2	2	18	17	1	yes	1	yes	1	5	1	0	8	4	yes	1	0	4
+37	5	6	2		2	2	19	19	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+37	5	6	2		2	2	20	20	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+37	5	6	2		2	2	21	21	1	yes	1	yes	1	6	1	0	12	0	yes	1	0	0
+37	5	6	2		2	2	22	22	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+37	5	6	2		2	2	23	23	2	no	1	yes	0	5	2	0	4	8	no	0	0	4
+37	5	6	2		2	2	24	24	2	no	2	no	1	4	2	0	0	12	no	1	0	0
+38	5	4	2	Trinidad and Tobago	2	1	1	3	1	yes	1	yes	1	3	1	0	10	2	yes	1	0	2
+38	5	4	2	Trinidad and Tobago	2	1	5	2	2	no	2	no	1	2	2	0	4	8	no	1	0	4
+38	5	4	2	Trinidad and Tobago	2	1	8	6	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+38	5	4	2	Trinidad and Tobago	2	1	10	9	1	yes	1	yes	1	3	1	0	8	4	yes	1	0	4
+38	5	4	2	Trinidad and Tobago	2	1	13	12	2	no	2	no	1	1	2	0	0	12	no	1	0	0
+38	5	4	2	Trinidad and Tobago	2	1	14	13	1	yes	1	yes	1	2	1	0	12	0	yes	1	0	0
+38	5	4	2	Trinidad and Tobago	2	1	15	14	2	no	2	no	1	4	2	0	0	12	no	1	0	0
+38	5	4	2	Trinidad and Tobago	2	1	22	22	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+39	5	6	2	CHINA	1	2	1	3	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+39	5	6	2	CHINA	1	2	2	8	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+39	5	6	2	CHINA	1	2	3	18	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+39	5	6	2	CHINA	1	2	4	1	1	yes	1	yes	1	6	1	0	8	4	yes	1	0	4
+39	5	6	2	CHINA	1	2	8	6	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+39	5	6	2	CHINA	1	2	9	7	1	yes	1	yes	1	6	1	0	12	0	yes	1	0	0
+39	5	6	2	CHINA	1	2	11	10	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+39	5	6	2	CHINA	1	2	12	11	1	yes	1	yes	1	5	1	0	12	0	yes	1	0	0
+39	5	6	2	CHINA	1	2	13	12	1	yes	2	no	0	5	1	0	8	4	yes	0	0	4
+39	5	6	2	CHINA	1	2	15	14	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+39	5	6	2	CHINA	1	2	16	15	1	yes	1	yes	1	4	1	0	12	0	yes	1	0	0
+39	5	6	2	CHINA	1	2	18	17	1	yes	1	yes	1	6	1	0	8	4	yes	1	0	4
+39	5	6	2	CHINA	1	2	20	20	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+39	5	6	2	CHINA	1	2	24	24	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+40	5	4	1		2	2	1	3	1	yes	1	yes	1	3	1	0	10	2	yes	1	0	2
+40	5	4	1		2	2	2	8	2	no	2	no	1	4	2	0	0	12	no	1	0	0
+40	5	4	1		2	2	4	1	2	no	1	yes	0	1	2	0	4	8	no	0	0	4
+40	5	4	1		2	2	5	2	1	yes	2	no	0	0	1	0	10	2	yes	0	0	2
+40	5	4	1		2	2	6	4	2	no	2	no	1	3	2	0	0	12	no	1	0	0
+40	5	4	1		2	2	7	5	1	yes	1	yes	1	3	1	0	10	2	yes	1	0	2
+40	5	4	1		2	2	8	6	2	no	2	no	1	4	2	0	2	10	no	1	0	2
+40	5	4	1		2	2	9	7	1	yes	1	yes	1	2	1	0	8	4	yes	1	0	4
+40	5	4	1		2	2	10	9	1	yes	1	yes	1	2	1	0	10	2	yes	1	0	2
+40	5	4	1		2	2	13	12	2	no	2	no	1	3	2	0	4	8	no	1	0	4
+40	5	4	1		2	2	14	13	1	yes	1	yes	1	2	1	0	8	4	yes	1	0	4
+40	5	4	1		2	2	16	15	1	yes	1	yes	1	3	1	0	10	2	yes	1	0	2
+40	5	4	1		2	2	18	17	1	yes	1	yes	1	3	1	0	10	2	yes	1	0	2
+40	5	4	1		2	2	19	19	1	yes	1	yes	1	3	1	0	10	2	yes	1	0	2
+40	5	4	1		2	2	21	21	1	yes	1	yes	1	2	1	0	8	4	yes	1	0	4
+40	5	4	1		2	2	22	22	2	no	2	no	1	3	2	0	0	12	no	1	0	0
+40	5	4	1		2	2	24	24	2	no	2	no	1	2	2	0	4	8	no	1	0	4
+41	5	4	2	Canada	2	1	1	3	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+41	5	4	2	Canada	2	1	2	8	2	no	2	no	1	4	2	0	0	12	no	1	0	0
+41	5	4	2	Canada	2	1	3	18	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+41	5	4	2	Canada	2	1	4	1	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+41	5	4	2	Canada	2	1	6	4	2	no	2	no	1	5	2	0	2	10	no	1	0	2
+41	5	4	2	Canada	2	1	7	5	1	yes	1	yes	1	5	1	0	8	4	yes	1	0	4
+41	5	4	2	Canada	2	1	9	7	2	no	1	yes	0	3	2	0	2	10	no	0	0	2
+41	5	4	2	Canada	2	1	10	9	1	yes	1	yes	1	5	1	0	12	0	yes	1	0	0
+41	5	4	2	Canada	2	1	12	11	1	yes	1	yes	1	4	1	0	8	4	yes	1	0	4
+41	5	4	2	Canada	2	1	13	12	1	yes	2	no	0	3	1	0	12	0	yes	0	0	0
+41	5	4	2	Canada	2	1	14	13	2	no	1	yes	0	1	2	0	2	10	no	0	0	2
+41	5	4	2	Canada	2	1	15	14	2	no	2	no	1	3	2	0	4	8	no	1	0	4
+41	5	4	2	Canada	2	1	17	16	2	no	2	no	1	4	2	0	2	10	no	1	0	2
+41	5	4	2	Canada	2	1	20	20	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+41	5	4	2	Canada	2	1	23	23	1	yes	1	yes	1	3	1	0	8	4	yes	1	0	4
+42	5	5	2	Hong Kong	2	1	1	3	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+42	5	5	2	Hong Kong	2	1	9	7	2	no	1	yes	0	4	2	0	4	8	no	0	0	4
+42	5	5	2	Hong Kong	2	1	12	11	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+42	5	5	2	Hong Kong	2	1	13	12	2	no	2	no	1	5	2	0	2	10	no	1	0	2
+42	5	5	2	Hong Kong	2	1	16	15	2	no	1	yes	0	4	2	0	2	10	no	0	0	2
+42	5	5	2	Hong Kong	2	1	19	19	1	yes	1	yes	1	4	1	0	8	4	yes	1	0	4
+42	5	5	2	Hong Kong	2	1	21	21	2	no	1	yes	0	3	2	0	0	12	no	0	0	0
+42	5	5	2	Hong Kong	2	1	23	23	2	no	1	yes	0	4	2	0	0	12	no	0	0	0
+43	5	6	2	Greece	2	2	1	3	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+43	5	6	2	Greece	2	2	2	8	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+43	5	6	2	Greece	2	2	6	4	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+43	5	6	2	Greece	2	2	9	7	1	yes	1	yes	1	5	1	0	8	4	yes	1	0	4
+43	5	6	2	Greece	2	2	12	11	1	yes	1	yes	1	6	1	0	8	4	yes	1	0	4
+43	5	6	2	Greece	2	2	14	13	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+43	5	6	2	Greece	2	2	23	23	2	no	1	yes	0	2	2	0	4	8	no	0	0	4
+43	5	6	2	Greece	2	2	24	24	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+44	5	4	1		1	1	1	3	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+44	5	4	1		1	1	2	8	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+44	5	4	1		1	1	3	18	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+44	5	4	1		1	1	6	4	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+44	5	4	1		1	1	7	5	1	yes	1	yes	1	6	1	0	12	0	yes	1	0	0
+44	5	4	1		1	1	10	9	1	yes	1	yes	1	6	1	0	8	4	yes	1	0	4
+44	5	4	1		1	1	11	10	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+44	5	4	1		1	1	14	13	1	yes	1	yes	1	5	1	0	12	0	yes	1	0	0
+44	5	4	1		1	1	16	15	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+44	5	4	1		1	1	19	19	1	yes	1	yes	1	6	1	0	12	0	yes	1	0	0
+44	5	4	1		1	1	20	20	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+44	5	4	1		1	1	22	22	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+44	5	4	1		1	1	24	24	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+45	5	4	1		2	2	1	3	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+45	5	4	1		2	2	2	8	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+45	5	4	1		2	2	3	18	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+45	5	4	1		2	2	4	1	1	yes	1	yes	1	6	1	0	8	4	yes	1	0	4
+45	5	4	1		2	2	11	10	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+45	5	4	1		2	2	12	11	2	no	1	yes	0	6	2	0	0	12	no	0	0	0
+45	5	4	1		2	2	14	13	1	yes	1	yes	1	6	1	0	8	4	yes	1	0	4
+45	5	4	1		2	2	15	14	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+45	5	4	1		2	2	16	15	1	yes	1	yes	1	3	1	0	8	4	yes	1	0	4
+45	5	4	1		2	2	17	16	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+45	5	4	1		2	2	19	19	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+45	5	4	1		2	2	20	20	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+45	5	4	1		2	2	21	21	1	yes	1	yes	1	5	1	0	12	0	yes	1	0	0
+45	5	4	1		2	2	23	23	1	yes	1	yes	1	3	1	0	8	4	yes	1	0	4
+45	5	4	1		2	2	24	24	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+46	5	5	2	India	2	1	1	3	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+46	5	5	2	India	2	1	3	18	2	no	2	no	1	2	2	0	4	8	no	1	0	4
+46	5	5	2	India	2	1	5	2	1	yes	2	no	0	1	1	0	8	4	yes	0	0	4
+46	5	5	2	India	2	1	7	5	1	yes	1	yes	1	4	1	0	8	4	yes	1	0	4
+46	5	5	2	India	2	1	10	9	1	yes	1	yes	1	5	1	0	12	0	yes	1	0	0
+46	5	5	2	India	2	1	12	11	1	yes	1	yes	1	4	1	0	12	0	yes	1	0	0
+46	5	5	2	India	2	1	14	13	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+46	5	5	2	India	2	1	20	20	2	no	2	no	1	4	2	0	2	10	no	1	0	2
+46	5	5	2	India	2	1	21	21	1	yes	1	yes	1	5	1	0	8	4	yes	1	0	4
+46	5	5	2	India	2	1	22	22	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+46	5	5	2	India	2	1	23	23	2	no	1	yes	0	0	2	0	2	10	no	0	0	2
+47	5	5	2	Malaysia	1	1	1	3	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+47	5	5	2	Malaysia	1	1	3	18	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+47	5	5	2	Malaysia	1	1	4	1	1	yes	1	yes	1	5	1	0	12	0	yes	1	0	0
+47	5	5	2	Malaysia	1	1	5	2	2	no	2	no	1	5	2	0	2	10	no	1	0	2
+47	5	5	2	Malaysia	1	1	6	4	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+47	5	5	2	Malaysia	1	1	7	5	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+47	5	5	2	Malaysia	1	1	8	6	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+47	5	5	2	Malaysia	1	1	12	11	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+47	5	5	2	Malaysia	1	1	17	16	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+47	5	5	2	Malaysia	1	1	18	17	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+48	5	4	2	Zimbabwe	2	2	8	6	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+48	5	4	2	Zimbabwe	2	2	15	14	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+48	5	4	2	Zimbabwe	2	2	16	15	1	yes	1	yes	1	3	1	0	12	0	yes	1	0	0
+48	5	4	2	Zimbabwe	2	2	17	16	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+48	5	4	2	Zimbabwe	2	2	19	19	1	yes	1	yes	1	3	1	0	8	4	yes	1	0	4
+48	5	4	2	Zimbabwe	2	2	20	20	1	yes	2	no	0	4	1	0	12	0	yes	0	0	0
+48	5	4	2	Zimbabwe	2	2	23	23	2	no	1	yes	0	4	2	0	0	12	no	0	0	0
+48	5	4	2	Zimbabwe	2	2	24	24	1	yes	2	no	0	4	1	0	10	2	yes	0	0	2
+49	5	6	2	China	2	2	1	3	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+49	5	6	2	China	2	2	3	18	2	no	2	no	1	0	2	0	4	8	no	1	0	4
+49	5	6	2	China	2	2	6	4	1	yes	2	no	0	2	1	0	8	4	yes	0	0	4
+49	5	6	2	China	2	2	10	9	1	yes	1	yes	1	4	1	0	12	0	yes	1	0	0
+49	5	6	2	China	2	2	13	12	1	yes	2	no	0	4	1	0	12	0	yes	0	0	0
+49	5	6	2	China	2	2	18	17	1	yes	1	yes	1	2	1	0	8	4	yes	1	0	4
+49	5	6	2	China	2	2	19	19	1	yes	1	yes	1	3	1	0	12	0	yes	1	0	0
+49	5	6	2	China	2	2	20	20	1	yes	2	no	0	2	1	0	12	0	yes	0	0	0
+49	5	6	2	China	2	2	21	21	1	yes	1	yes	1	2	1	0	10	2	yes	1	0	2
+49	5	6	2	China	2	2	23	23	1	yes	1	yes	1	2	1	0	8	4	yes	1	0	4
+50	5	5	2	Hong Kong	1	1	1	3	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+50	5	5	2	Hong Kong	1	1	2	8	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+50	5	5	2	Hong Kong	1	1	4	1	1	yes	1	yes	1	2	1	0	10	2	yes	1	0	2
+50	5	5	2	Hong Kong	1	1	5	2	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+50	5	5	2	Hong Kong	1	1	7	5	1	yes	1	yes	1	6	1	0	8	4	yes	1	0	4
+50	5	5	2	Hong Kong	1	1	8	6	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+50	5	5	2	Hong Kong	1	1	10	9	1	yes	1	yes	1	3	1	0	8	4	yes	1	0	4
+50	5	5	2	Hong Kong	1	1	11	10	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+50	5	5	2	Hong Kong	1	1	12	11	1	yes	1	yes	1	3	1	0	12	0	yes	1	0	0
+50	5	5	2	Hong Kong	1	1	13	12	2	no	2	no	1	3	2	0	4	8	no	1	0	4
+50	5	5	2	Hong Kong	1	1	14	13	1	yes	1	yes	1	2	1	0	8	4	yes	1	0	4
+50	5	5	2	Hong Kong	1	1	15	14	2	no	2	no	1	4	2	0	2	10	no	1	0	2
+50	5	5	2	Hong Kong	1	1	17	16	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+50	5	5	2	Hong Kong	1	1	20	20	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+50	5	5	2	Hong Kong	1	1	24	24	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+51	5	6	2	Lithuania	1	1	1	3	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+51	5	6	2	Lithuania	1	1	2	8	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+51	5	6	2	Lithuania	1	1	4	1	1	yes	1	yes	1	4	1	0	8	4	yes	1	0	4
+51	5	6	2	Lithuania	1	1	6	4	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+51	5	6	2	Lithuania	1	1	11	10	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+51	5	6	2	Lithuania	1	1	13	12	2	no	2	no	1	4	2	0	0	12	no	1	0	0
+51	5	6	2	Lithuania	1	1	15	14	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+51	5	6	2	Lithuania	1	1	16	15	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+51	5	6	2	Lithuania	1	1	19	19	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+51	5	6	2	Lithuania	1	1	21	21	1	yes	1	yes	1	6	1	0	12	0	yes	1	0	0
+51	5	6	2	Lithuania	1	1	22	22	2	no	2	no	1	2	2	0	2	10	no	1	0	2
+51	5	6	2	Lithuania	1	1	23	23	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+51	5	6	2	Lithuania	1	1	24	24	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+52	5	6	2	Lithuania	2	2	3	18	2	no	2	no	1	3	2	0	4	8	no	1	0	4
+52	5	6	2	Lithuania	2	2	5	2	2	no	2	no	1	0	2	0	0	12	no	1	0	0
+52	5	6	2	Lithuania	2	2	13	12	1	yes	2	no	0	0	1	0	12	0	yes	0	0	0
+52	5	6	2	Lithuania	2	2	14	13	2	no	1	yes	0	0	2	0	0	12	no	0	0	0
+52	5	6	2	Lithuania	2	2	15	14	2	no	2	no	1	0	2	0	0	12	no	1	0	0
+52	5	6	2	Lithuania	2	2	18	17	2	no	1	yes	0	6	2	0	0	12	no	0	0	0
+52	5	6	2	Lithuania	2	2	19	19	1	yes	1	yes	1	0	1	0	10	2	yes	1	0	2
+52	5	6	2	Lithuania	2	2	20	20	1	yes	2	no	0	0	1	0	12	0	yes	0	0	0
+52	5	6	2	Lithuania	2	2	22	22	2	no	2	no	1	0	2	0	4	8	no	1	0	4
+52	5	6	2	Lithuania	2	2	23	23	2	no	1	yes	0	0	2	0	2	10	no	0	0	2
+53	5	6	2	China	2	1	1	3	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+53	5	6	2	China	2	1	2	8	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+53	5	6	2	China	2	1	3	18	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+53	5	6	2	China	2	1	5	2	2	no	2	no	1	5	2	0	2	10	no	1	0	2
+53	5	6	2	China	2	1	6	4	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+53	5	6	2	China	2	1	7	5	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+53	5	6	2	China	2	1	11	10	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+53	5	6	2	China	2	1	12	11	1	yes	1	yes	1	4	1	0	12	0	yes	1	0	0
+53	5	6	2	China	2	1	16	15	2	no	1	yes	0	2	2	0	4	8	no	0	0	4
+53	5	6	2	China	2	1	17	16	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+53	5	6	2	China	2	1	20	20	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+53	5	6	2	China	2	1	22	22	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+53	5	6	2	China	2	1	23	23	2	no	1	yes	0	4	2	0	4	8	no	0	0	4
+53	5	6	2	China	2	1	24	24	2	no	2	no	1	3	2	0	4	8	no	1	0	4
+54	5	4	1		2	2	1	3	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+54	5	4	1		2	2	2	8	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+54	5	4	1		2	2	3	18	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+54	5	4	1		2	2	4	1	1	yes	1	yes	1	6	1	0	12	0	yes	1	0	0
+54	5	4	1		2	2	5	2	1	yes	2	no	0	3	1	0	8	4	yes	0	0	4
+54	5	4	1		2	2	7	5	1	yes	1	yes	1	5	1	0	12	0	yes	1	0	0
+54	5	4	1		2	2	9	7	1	yes	1	yes	1	6	1	0	12	0	yes	1	0	0
+54	5	4	1		2	2	14	13	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+54	5	4	1		2	2	15	14	1	yes	2	no	0	2	1	0	10	2	yes	0	0	2
+54	5	4	1		2	2	18	17	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+54	5	4	1		2	2	21	21	1	yes	1	yes	1	4	1	0	8	4	yes	1	0	4
+55	5	4	1		2	2	1	3	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+55	5	4	1		2	2	3	18	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+55	5	4	1		2	2	8	6	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+55	5	4	1		2	2	9	7	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+55	5	4	1		2	2	10	9	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+55	5	4	1		2	2	13	12	2	no	2	no	1	4	2	0	2	10	no	1	0	2
+55	5	4	1		2	2	15	14	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+55	5	4	1		2	2	18	17	1	yes	1	yes	1	6	1	0	12	0	yes	1	0	0
+55	5	4	1		2	2	20	20	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+55	5	4	1		2	2	21	21	2	no	1	yes	0	3	2	0	2	10	no	0	0	2
+55	5	4	1		2	2	22	22	2	no	2	no	1	4	2	0	0	12	no	1	0	0
+55	5	4	1		2	2	23	23	2	no	1	yes	0	5	2	0	0	12	no	0	0	0
+56	5	6	2	China	2	1	1	3	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+56	5	6	2	China	2	1	2	8	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+56	5	6	2	China	2	1	3	18	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+56	5	6	2	China	2	1	5	2	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+56	5	6	2	China	2	1	10	9	1	yes	1	yes	1	5	1	0	8	4	yes	1	0	4
+56	5	6	2	China	2	1	11	10	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+56	5	6	2	China	2	1	12	11	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+56	5	6	2	China	2	1	13	12	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+56	5	6	2	China	2	1	14	13	1	yes	1	yes	1	2	1	0	10	2	yes	1	0	2
+56	5	6	2	China	2	1	18	17	1	yes	1	yes	1	5	1	0	8	4	yes	1	0	4
+56	5	6	2	China	2	1	19	19	1	yes	1	yes	1	5	1	0	8	4	yes	1	0	4
+56	5	6	2	China	2	1	21	21	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+56	5	6	2	China	2	1	22	22	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+56	5	6	2	China	2	1	23	23	1	yes	1	yes	1	5	1	0	8	4	yes	1	0	4
+56	5	6	2	China	2	1	24	24	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+57	5	4	2	United States of America	2	2	1	3	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+57	5	4	2	United States of America	2	2	2	8	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+57	5	4	2	United States of America	2	2	4	1	1	yes	1	yes	1	3	1	0	12	0	yes	1	0	0
+57	5	4	2	United States of America	2	2	7	5	1	yes	1	yes	1	3	1	0	10	2	yes	1	0	2
+57	5	4	2	United States of America	2	2	8	6	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+57	5	4	2	United States of America	2	2	11	10	1	yes	2	no	0	2	1	0	12	0	yes	0	0	0
+57	5	4	2	United States of America	2	2	14	13	1	yes	1	yes	1	5	1	0	12	0	yes	1	0	0
+57	5	4	2	United States of America	2	2	16	15	1	yes	1	yes	1	2	1	0	10	2	yes	1	0	2
+57	5	4	2	United States of America	2	2	17	16	2	no	2	no	1	4	2	0	0	12	no	1	0	0
+57	5	4	2	United States of America	2	2	18	17	1	yes	1	yes	1	2	1	0	10	2	yes	1	0	2
+57	5	4	2	United States of America	2	2	21	21	1	yes	1	yes	1	3	1	0	12	0	yes	1	0	0
+57	5	4	2	United States of America	2	2	23	23	2	no	1	yes	0	1	2	0	2	10	no	0	0	2
+57	5	4	2	United States of America	2	2	24	24	2	no	2	no	1	3	2	0	2	10	no	1	0	2
+58	5	5	2	Lithuania	2	1	1	3	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+58	5	5	2	Lithuania	2	1	2	8	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+58	5	5	2	Lithuania	2	1	3	18	2	no	2	no	1	2	2	0	4	8	no	1	0	4
+58	5	5	2	Lithuania	2	1	5	2	1	yes	2	no	0	3	1	0	12	0	yes	0	0	0
+58	5	5	2	Lithuania	2	1	8	6	2	no	2	no	1	4	2	0	0	12	no	1	0	0
+58	5	5	2	Lithuania	2	1	10	9	1	yes	1	yes	1	6	1	0	8	4	yes	1	0	4
+58	5	5	2	Lithuania	2	1	11	10	2	no	2	no	1	4	2	0	2	10	no	1	0	2
+58	5	5	2	Lithuania	2	1	13	12	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+58	5	5	2	Lithuania	2	1	17	16	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+58	5	5	2	Lithuania	2	1	18	17	2	no	1	yes	0	3	2	0	2	10	no	0	0	2
+58	5	5	2	Lithuania	2	1	19	19	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+58	5	5	2	Lithuania	2	1	20	20	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+58	5	5	2	Lithuania	2	1	21	21	1	yes	1	yes	1	6	1	0	12	0	yes	1	0	0
+58	5	5	2	Lithuania	2	1	24	24	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+59	5	4	1		2	2	1	3	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+59	5	4	1		2	2	2	8	2	no	2	no	1	2	2	0	0	12	no	1	0	0
+59	5	4	1		2	2	3	18	2	no	2	no	1	2	2	0	4	8	no	1	0	4
+59	5	4	1		2	2	4	1	2	no	1	yes	0	1	2	0	2	10	no	0	0	2
+59	5	4	1		2	2	5	2	2	no	2	no	1	2	2	0	2	10	no	1	0	2
+59	5	4	1		2	2	10	9	1	yes	1	yes	1	4	1	0	12	0	yes	1	0	0
+59	5	4	1		2	2	11	10	2	no	2	no	1	2	2	0	4	8	no	1	0	4
+59	5	4	1		2	2	12	11	1	yes	1	yes	1	1	1	0	8	4	yes	1	0	4
+59	5	4	1		2	2	15	14	1	yes	2	no	0	1	1	0	12	0	yes	0	0	0
+59	5	4	1		2	2	16	15	1	yes	1	yes	1	2	1	0	12	0	yes	1	0	0
+59	5	4	1		2	2	17	16	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+59	5	4	1		2	2	18	17	2	no	1	yes	0	4	2	0	4	8	no	0	0	4
+59	5	4	1		2	2	19	19	1	yes	1	yes	1	2	1	0	8	4	yes	1	0	4
+59	5	4	1		2	2	20	20	1	yes	2	no	0	3	1	0	10	2	yes	0	0	2
+59	5	4	1		2	2	21	21	1	yes	1	yes	1	3	1	0	10	2	yes	1	0	2
+59	5	4	1		2	2	22	22	2	no	2	no	1	4	2	0	2	10	no	1	0	2
+59	5	4	1		2	2	24	24	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+60	5	4	1		2	2	1	3	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+60	5	4	1		2	2	3	18	2	no	2	no	1	3	2	0	4	8	no	1	0	4
+60	5	4	1		2	2	4	1	1	yes	1	yes	1	3	1	0	12	0	yes	1	0	0
+60	5	4	1		2	2	6	4	2	no	2	no	1	3	2	0	2	10	no	1	0	2
+60	5	4	1		2	2	7	5	1	yes	1	yes	1	4	1	0	8	4	yes	1	0	4
+60	5	4	1		2	2	8	6	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+60	5	4	1		2	2	11	10	2	no	2	no	1	3	2	0	4	8	no	1	0	4
+60	5	4	1		2	2	12	11	1	yes	1	yes	1	2	1	0	8	4	yes	1	0	4
+60	5	4	1		2	2	15	14	2	no	2	no	1	3	2	0	4	8	no	1	0	4
+60	5	4	1		2	2	17	16	2	no	2	no	1	3	2	0	4	8	no	1	0	4
+60	5	4	1		2	2	18	17	1	yes	1	yes	1	3	1	0	12	0	yes	1	0	0
+60	5	4	1		2	2	20	20	2	no	2	no	1	3	2	0	0	12	no	1	0	0
+60	5	4	1		2	2	23	23	1	yes	1	yes	1	3	1	0	10	2	yes	1	0	2
+61	5	4	1		1	1	1	3	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+61	5	4	1		1	1	2	8	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+61	5	4	1		1	1	3	18	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+61	5	4	1		1	1	4	1	1	yes	1	yes	1	4	1	0	8	4	yes	1	0	4
+61	5	4	1		1	1	5	2	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+61	5	4	1		1	1	6	4	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+61	5	4	1		1	1	8	6	2	no	2	no	1	5	2	0	2	10	no	1	0	2
+61	5	4	1		1	1	9	7	1	yes	1	yes	1	2	1	0	12	0	yes	1	0	0
+61	5	4	1		1	1	13	12	2	no	2	no	1	5	2	0	2	10	no	1	0	2
+61	5	4	1		1	1	17	16	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+61	5	4	1		1	1	18	17	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+61	5	4	1		1	1	19	19	1	yes	1	yes	1	4	1	0	12	0	yes	1	0	0
+61	5	4	1		1	1	22	22	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+62	5	4	2	USA	2	2	1	3	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+62	5	4	2	USA	2	2	2	8	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+62	5	4	2	USA	2	2	3	18	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+62	5	4	2	USA	2	2	6	4	1	yes	2	no	0	3	1	0	12	0	yes	0	0	0
+62	5	4	2	USA	2	2	9	7	1	yes	1	yes	1	5	1	0	8	4	yes	1	0	4
+62	5	4	2	USA	2	2	11	10	2	no	2	no	1	4	2	0	0	12	no	1	0	0
+62	5	4	2	USA	2	2	13	12	2	no	2	no	1	1	2	0	0	12	no	1	0	0
+62	5	4	2	USA	2	2	14	13	1	yes	1	yes	1	4	1	0	12	0	yes	1	0	0
+62	5	4	2	USA	2	2	15	14	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+62	5	4	2	USA	2	2	22	22	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+62	5	4	2	USA	2	2	23	23	1	yes	1	yes	1	5	1	0	12	0	yes	1	0	0
+63	5	4	2	USA	2	1	1	3	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+63	5	4	2	USA	2	1	2	8	2	no	2	no	1	3	2	0	0	12	no	1	0	0
+63	5	4	2	USA	2	1	6	4	1	yes	2	no	0	3	1	0	12	0	yes	0	0	0
+63	5	4	2	USA	2	1	7	5	1	yes	1	yes	1	3	1	0	12	0	yes	1	0	0
+63	5	4	2	USA	2	1	8	6	2	no	2	no	1	4	2	0	2	10	no	1	0	2
+63	5	4	2	USA	2	1	9	7	1	yes	1	yes	1	4	1	0	12	0	yes	1	0	0
+63	5	4	2	USA	2	1	10	9	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+63	5	4	2	USA	2	1	12	11	1	yes	1	yes	1	4	1	0	12	0	yes	1	0	0
+63	5	4	2	USA	2	1	13	12	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+63	5	4	2	USA	2	1	16	15	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+63	5	4	2	USA	2	1	23	23	1	yes	1	yes	1	3	1	0	10	2	yes	1	0	2
+64	5	5	2	Malaysia	1	1	1	3	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+64	5	5	2	Malaysia	1	1	2	8	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+64	5	5	2	Malaysia	1	1	3	18	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+64	5	5	2	Malaysia	1	1	4	1	1	yes	1	yes	1	5	1	0	8	4	yes	1	0	4
+64	5	5	2	Malaysia	1	1	8	6	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+64	5	5	2	Malaysia	1	1	14	13	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+64	5	5	2	Malaysia	1	1	15	14	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+64	5	5	2	Malaysia	1	1	20	20	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+64	5	5	2	Malaysia	1	1	24	24	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+65	2	4	2	Australia	2	2	1	3	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+65	2	4	2	Australia	2	2	2	8	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+65	2	4	2	Australia	2	2	6	4	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+65	2	4	2	Australia	2	2	7	5	2	no	1	yes	0	1	2	0	2	10	no	0	0	2
+65	2	4	2	Australia	2	2	9	7	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+65	2	4	2	Australia	2	2	15	14	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+65	2	4	2	Australia	2	2	19	19	1	yes	1	yes	1	6	1	0	12	0	yes	1	0	0
+65	2	4	2	Australia	2	2	20	20	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+65	2	4	2	Australia	2	2	22	22	1	yes	2	no	0	5	1	0	8	4	yes	0	0	4
+65	2	4	2	Australia	2	2	23	23	2	no	1	yes	0	6	2	0	0	12	no	0	0	0
+66	5	5	2	Colombia	2	1	1	3	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+66	5	5	2	Colombia	2	1	2	8	2	no	2	no	1	3	2	0	0	12	no	1	0	0
+66	5	5	2	Colombia	2	1	10	9	1	yes	1	yes	1	5	1	0	12	0	yes	1	0	0
+66	5	5	2	Colombia	2	1	13	12	2	no	2	no	1	5	2	0	2	10	no	1	0	2
+66	5	5	2	Colombia	2	1	16	15	1	yes	1	yes	1	6	1	0	8	4	yes	1	0	4
+66	5	5	2	Colombia	2	1	18	17	1	yes	1	yes	1	5	1	0	12	0	yes	1	0	0
+66	5	5	2	Colombia	2	1	20	20	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+66	5	5	2	Colombia	2	1	23	23	2	no	1	yes	0	4	1	1	2	10	no	0	0	2
+66	5	5	2	Colombia	2	1	24	24	2	no	2	no	1	4	2	0	0	12	no	1	0	0
+67	5	6	2	Poland	1	2	1	3	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+67	5	6	2	Poland	1	2	2	8	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+67	5	6	2	Poland	1	2	4	1	1	yes	1	yes	1	5	1	0	12	0	yes	1	0	0
+67	5	6	2	Poland	1	2	6	4	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+67	5	6	2	Poland	1	2	10	9	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+67	5	6	2	Poland	1	2	11	10	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+67	5	6	2	Poland	1	2	15	14	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+67	5	6	2	Poland	1	2	22	22	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+67	5	6	2	Poland	1	2	23	23	1	yes	1	yes	1	3	1	0	12	0	yes	1	0	0
+67	5	6	2	Poland	1	2	24	24	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+68	5	4	2	USA	1	2	1	3	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+68	5	4	2	USA	1	2	2	8	2	no	2	no	1	1	2	0	0	12	no	1	0	0
+68	5	4	2	USA	1	2	3	18	2	no	2	no	1	5	1	1	4	8	no	1	0	4
+68	5	4	2	USA	1	2	4	1	1	yes	1	yes	1	3	1	0	10	2	yes	1	0	2
+68	5	4	2	USA	1	2	5	2	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+68	5	4	2	USA	1	2	7	5	1	yes	1	yes	1	6	1	0	12	0	yes	1	0	0
+68	5	4	2	USA	1	2	10	9	1	yes	1	yes	1	5	1	0	8	4	yes	1	0	4
+68	5	4	2	USA	1	2	12	11	1	yes	1	yes	1	4	1	0	8	4	yes	1	0	4
+68	5	4	2	USA	1	2	13	12	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+68	5	4	2	USA	1	2	14	13	1	yes	1	yes	1	6	1	0	8	4	yes	1	0	4
+68	5	4	2	USA	1	2	15	14	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+68	5	4	2	USA	1	2	18	17	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+68	5	4	2	USA	1	2	21	21	1	yes	1	yes	1	6	1	0	12	0	yes	1	0	0
+68	5	4	2	USA	1	2	22	22	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+68	5	4	2	USA	1	2	23	23	1	yes	1	yes	1	2	1	0	8	4	yes	1	0	4
+69	5	5	2	Malaysia	1	1	1	3	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+69	5	5	2	Malaysia	1	1	2	8	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+69	5	5	2	Malaysia	1	1	3	18	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+69	5	5	2	Malaysia	1	1	8	6	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+69	5	5	2	Malaysia	1	1	9	7	1	yes	1	yes	1	5	1	0	8	4	yes	1	0	4
+69	5	5	2	Malaysia	1	1	17	16	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+69	5	5	2	Malaysia	1	1	19	19	1	yes	1	yes	1	6	1	0	8	4	yes	1	0	4
+69	5	5	2	Malaysia	1	1	20	20	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+69	5	5	2	Malaysia	1	1	21	21	1	yes	1	yes	1	5	1	0	8	4	yes	1	0	4
+69	5	5	2	Malaysia	1	1	24	24	1	yes	2	no	0	4	1	0	12	0	yes	0	0	0
+70	5	4	1		1	2	1	3	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+70	5	4	1		1	2	2	8	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+70	5	4	1		1	2	3	18	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+70	5	4	1		1	2	5	2	2	no	2	no	1	4	2	0	2	10	no	1	0	2
+70	5	4	1		1	2	7	5	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+70	5	4	1		1	2	8	6	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+70	5	4	1		1	2	9	7	2	no	1	yes	0	6	2	0	4	8	no	0	0	4
+70	5	4	1		1	2	10	9	1	yes	1	yes	1	6	1	0	12	0	yes	1	0	0
+70	5	4	1		1	2	11	10	2	no	2	no	1	5	2	0	2	10	no	1	0	2
+70	5	4	1		1	2	13	12	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+70	5	4	1		1	2	15	14	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+70	5	4	1		1	2	17	16	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+70	5	4	1		1	2	20	20	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+70	5	4	1		1	2	21	21	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+70	5	4	1		1	2	22	22	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+70	5	4	1		1	2	23	23	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+71	5	4	1		1	1	1	3	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+71	5	4	1		1	1	3	18	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+71	5	4	1		1	1	4	1	2	no	1	yes	0	5	2	0	4	8	no	0	0	4
+71	5	4	1		1	1	5	2	1	yes	2	no	0	2	1	0	10	2	yes	0	0	2
+71	5	4	1		1	1	6	4	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+71	5	4	1		1	1	8	6	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+71	5	4	1		1	1	9	7	1	yes	1	yes	1	3	1	0	12	0	yes	1	0	0
+71	5	4	1		1	1	11	10	1	yes	2	no	0	2	1	0	12	0	yes	0	0	0
+71	5	4	1		1	1	12	11	1	yes	1	yes	1	4	1	0	12	0	yes	1	0	0
+71	5	4	1		1	1	13	12	1	yes	2	no	0	2	1	0	8	4	yes	0	0	4
+71	5	4	1		1	1	17	16	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+71	5	4	1		1	1	18	17	1	yes	1	yes	1	2	1	0	12	0	yes	1	0	0
+71	5	4	1		1	1	19	19	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+71	5	4	1		1	1	20	20	2	no	2	no	1	5	2	0	2	10	no	1	0	2
+71	5	4	1		1	1	23	23	2	no	1	yes	0	5	2	0	4	8	no	0	0	4
+71	5	4	1		1	1	24	24	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+72	5	4	1		1	1	1	3	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+72	5	4	1		1	1	5	2	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+72	5	4	1		1	1	7	5	1	yes	1	yes	1	5	1	0	8	4	yes	1	0	4
+72	5	4	1		1	1	8	6	2	no	2	no	1	4	2	0	0	12	no	1	0	0
+72	5	4	1		1	1	10	9	2	no	1	yes	0	4	2	0	0	12	no	0	0	0
+72	5	4	1		1	1	11	10	1	yes	2	no	0	4	1	0	12	0	yes	0	0	0
+72	5	4	1		1	1	14	13	1	yes	1	yes	1	5	1	0	12	0	yes	1	0	0
+72	5	4	1		1	1	15	14	1	yes	2	no	0	4	1	0	10	2	yes	0	0	2
+72	5	4	1		1	1	17	16	2	no	2	no	1	4	2	0	2	10	no	1	0	2
+72	5	4	1		1	1	21	21	2	no	1	yes	0	4	2	0	4	8	no	0	0	4
+72	5	4	1		1	1	22	22	2	no	2	no	1	3	2	0	4	8	no	1	0	4
+72	5	4	1		1	1	23	23	2	no	1	yes	0	4	2	0	4	8	no	0	0	4
+72	5	4	1		1	1	24	24	2	no	2	no	1	4	2	0	0	12	no	1	0	0
+73	5	4	1		1	2	1	3	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+73	5	4	1		1	2	3	18	2	no	2	no	1	6	1	1	4	8	no	1	0	4
+73	5	4	1		1	2	4	1	2	no	1	yes	0	6	2	0	0	12	no	0	0	0
+73	5	4	1		1	2	9	7	2	no	1	yes	0	4	2	0	2	10	no	0	0	2
+73	5	4	1		1	2	12	11	1	yes	1	yes	1	3	1	0	10	2	yes	1	0	2
+73	5	4	1		1	2	15	14	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+73	5	4	1		1	2	16	15	1	yes	1	yes	1	4	1	0	12	0	yes	1	0	0
+73	5	4	1		1	2	18	17	1	yes	1	yes	1	4	1	0	8	4	yes	1	0	4
+73	5	4	1		1	2	19	19	1	yes	1	yes	1	2	1	0	12	0	yes	1	0	0
+73	5	4	1		1	2	20	20	2	no	2	no	1	3	1	1	4	8	no	1	0	4
+73	5	4	1		1	2	22	22	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+74	5	4	2	USA	1	2	1	3	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+74	5	4	2	USA	1	2	2	8	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+74	5	4	2	USA	1	2	4	1	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+74	5	4	2	USA	1	2	5	2	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+74	5	4	2	USA	1	2	6	4	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+74	5	4	2	USA	1	2	7	5	1	yes	1	yes	1	6	1	0	12	0	yes	1	0	0
+74	5	4	2	USA	1	2	10	9	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+74	5	4	2	USA	1	2	11	10	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+74	5	4	2	USA	1	2	15	14	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+74	5	4	2	USA	1	2	16	15	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+74	5	4	2	USA	1	2	17	16	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+74	5	4	2	USA	1	2	18	17	1	yes	1	yes	1	6	1	0	12	0	yes	1	0	0
+74	5	4	2	USA	1	2	21	21	1	yes	1	yes	1	6	1	0	12	0	yes	1	0	0
+74	5	4	2	USA	1	2	24	24	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+75	5	4	1		1	1	2	8	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+75	5	4	1		1	1	4	1	2	no	1	yes	0	5	2	0	4	8	no	0	0	4
+75	5	4	1		1	1	6	4	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+75	5	4	1		1	1	7	5	1	yes	1	yes	1	6	1	0	8	4	yes	1	0	4
+75	5	4	1		1	1	9	7	1	yes	1	yes	1	6	1	0	8	4	yes	1	0	4
+75	5	4	1		1	1	11	10	1	yes	2	no	0	5	1	0	10	2	yes	0	0	2
+75	5	4	1		1	1	13	12	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+75	5	4	1		1	1	14	13	1	yes	1	yes	1	4	1	0	8	4	yes	1	0	4
+75	5	4	1		1	1	15	14	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+75	5	4	1		1	1	20	20	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+75	5	4	1		1	1	21	21	1	yes	1	yes	1	6	1	0	8	4	yes	1	0	4
+75	5	4	1		1	1	22	22	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+75	5	4	1		1	1	24	24	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+76	5	6	2	Germany	1	1	1	3	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+76	5	6	2	Germany	1	1	3	18	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+76	5	6	2	Germany	1	1	4	1	1	yes	1	yes	1	4	1	0	8	4	yes	1	0	4
+76	5	6	2	Germany	1	1	5	2	2	no	2	no	1	2	2	0	2	10	no	1	0	2
+76	5	6	2	Germany	1	1	8	6	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+76	5	6	2	Germany	1	1	11	10	2	no	2	no	1	4	2	0	2	10	no	1	0	2
+76	5	6	2	Germany	1	1	14	13	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+76	5	6	2	Germany	1	1	16	15	2	no	1	yes	0	2	2	0	2	10	no	0	0	2
+76	5	6	2	Germany	1	1	18	17	2	no	1	yes	0	3	2	0	0	12	no	0	0	0
+76	5	6	2	Germany	1	1	19	19	1	yes	1	yes	1	4	1	0	8	4	yes	1	0	4
+76	5	6	2	Germany	1	1	20	20	1	yes	2	no	0	4	1	0	8	4	yes	0	0	4
+76	5	6	2	Germany	1	1	21	21	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+77	5	6	2	Lithuania	1	2	1	3	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+77	5	6	2	Lithuania	1	2	2	8	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+77	5	6	2	Lithuania	1	2	3	18	2	no	2	no	1	3	2	0	4	8	no	1	0	4
+77	5	6	2	Lithuania	1	2	4	1	1	yes	1	yes	1	6	1	0	12	0	yes	1	0	0
+77	5	6	2	Lithuania	1	2	7	5	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+77	5	6	2	Lithuania	1	2	8	6	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+77	5	6	2	Lithuania	1	2	9	7	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+77	5	6	2	Lithuania	1	2	10	9	1	yes	1	yes	1	6	1	0	8	4	yes	1	0	4
+77	5	6	2	Lithuania	1	2	11	10	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+77	5	6	2	Lithuania	1	2	12	11	1	yes	1	yes	1	6	1	0	8	4	yes	1	0	4
+77	5	6	2	Lithuania	1	2	16	15	1	yes	1	yes	1	5	1	0	8	4	yes	1	0	4
+77	5	6	2	Lithuania	1	2	17	16	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+77	5	6	2	Lithuania	1	2	18	17	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+77	5	6	2	Lithuania	1	2	20	20	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+78	2	6	2	hungary	1	1	1	3	1	yes	1	yes	1	0	1	0	10	2	yes	1	0	2
+78	2	6	2	hungary	1	1	2	8	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+78	2	6	2	hungary	1	1	7	5	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+78	2	6	2	hungary	1	1	9	7	1	yes	1	yes	1	6	1	0	12	0	yes	1	0	0
+78	2	6	2	hungary	1	1	11	10	1	yes	2	no	0	6	1	0	12	0	yes	0	0	0
+78	2	6	2	hungary	1	1	13	12	1	yes	2	no	0	6	1	0	8	4	yes	0	0	4
+78	2	6	2	hungary	1	1	15	14	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+78	2	6	2	hungary	1	1	16	15	2	no	1	yes	0	6	2	0	2	10	no	0	0	2
+78	2	6	2	hungary	1	1	18	17	2	no	1	yes	0	6	2	0	0	12	no	0	0	0
+78	2	6	2	hungary	1	1	21	21	1	yes	1	yes	1	6	1	0	12	0	yes	1	0	0
+78	2	6	2	hungary	1	1	22	22	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+79	2	4	1		1	1	1	3	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+79	2	4	1		1	1	3	18	2	no	2	no	1	0	2	0	4	8	no	1	0	4
+79	2	4	1		1	1	4	1	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+79	2	4	1		1	1	5	2	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+79	2	4	1		1	1	7	5	1	yes	1	yes	1	6	1	0	8	4	yes	1	0	4
+79	2	4	1		1	1	8	6	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+79	2	4	1		1	1	9	7	2	no	1	yes	0	6	2	0	4	8	no	0	0	4
+79	2	4	1		1	1	12	11	2	no	1	yes	0	6	2	0	0	12	no	0	0	0
+79	2	4	1		1	1	13	12	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+79	2	4	1		1	1	14	13	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+79	2	4	1		1	1	16	15	1	yes	1	yes	1	6	1	0	12	0	yes	1	0	0
+79	2	4	1		1	1	18	17	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+79	2	4	1		1	1	19	19	1	yes	1	yes	1	4	1	0	12	0	yes	1	0	0
+79	2	4	1		1	1	22	22	1	yes	2	no	0	6	1	0	8	4	yes	0	0	4
+79	2	4	1		1	1	23	23	1	yes	1	yes	1	4	1	0	8	4	yes	1	0	4
+80	5	4	2	Australia	1	2	4	1	1	yes	1	yes	1	3	1	0	8	4	yes	1	0	4
+80	5	4	2	Australia	1	2	7	5	1	yes	1	yes	1	4	1	0	12	0	yes	1	0	0
+80	5	4	2	Australia	1	2	8	6	1	yes	2	no	0	6	1	0	8	4	yes	0	0	4
+80	5	4	2	Australia	1	2	10	9	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+80	5	4	2	Australia	1	2	11	10	1	yes	2	no	0	4	1	0	8	4	yes	0	0	4
+80	5	4	2	Australia	1	2	12	11	1	yes	1	yes	1	4	1	0	12	0	yes	1	0	0
+80	5	4	2	Australia	1	2	15	14	2	no	2	no	1	4	2	0	0	12	no	1	0	0
+80	5	4	2	Australia	1	2	19	19	1	yes	1	yes	1	1	1	0	10	2	yes	1	0	2
+80	5	4	2	Australia	1	2	20	20	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+80	5	4	2	Australia	1	2	24	24	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+81	5	6	2	Italy	1	2	2	8	2	no	2	no	1	2	2	0	0	12	no	1	0	0
+81	5	6	2	Italy	1	2	3	18	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+81	5	6	2	Italy	1	2	5	2	2	no	2	no	1	2	2	0	4	8	no	1	0	4
+81	5	6	2	Italy	1	2	8	6	2	no	2	no	1	5	2	0	2	10	no	1	0	2
+81	5	6	2	Italy	1	2	10	9	1	yes	1	yes	1	6	1	0	8	4	yes	1	0	4
+81	5	6	2	Italy	1	2	13	12	2	no	2	no	1	4	2	0	0	12	no	1	0	0
+81	5	6	2	Italy	1	2	16	15	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+81	5	6	2	Italy	1	2	19	19	1	yes	1	yes	1	5	1	0	8	4	yes	1	0	4
+81	5	6	2	Italy	1	2	20	20	2	no	2	no	1	4	2	0	2	10	no	1	0	2
+81	5	6	2	Italy	1	2	21	21	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+82	5	4	1		1	2	1	3	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+82	5	4	1		1	2	3	18	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+82	5	4	1		1	2	4	1	2	no	1	yes	0	5	1	1	0	12	no	0	0	0
+82	5	4	1		1	2	6	4	1	yes	2	no	0	3	1	0	10	2	yes	0	0	2
+82	5	4	1		1	2	7	5	1	yes	1	yes	1	5	1	0	8	4	yes	1	0	4
+82	5	4	1		1	2	8	6	2	no	2	no	1	4	2	0	0	12	no	1	0	0
+82	5	4	1		1	2	10	9	1	yes	1	yes	1	3	1	0	10	2	yes	1	0	2
+82	5	4	1		1	2	11	10	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+82	5	4	1		1	2	13	12	2	no	2	no	1	2	2	0	2	10	no	1	0	2
+82	5	4	1		1	2	14	13	1	yes	1	yes	1	4	1	0	12	0	yes	1	0	0
+82	5	4	1		1	2	15	14	2	no	2	no	1	3	2	0	0	12	no	1	0	0
+82	5	4	1		1	2	17	16	2	no	2	no	1	3	2	0	0	12	no	1	0	0
+82	5	4	1		1	2	20	20	2	no	2	no	1	4	2	0	0	12	no	1	0	0
+82	5	4	1		1	2	24	24	2	no	2	no	1	2	2	0	0	12	no	1	0	0
+83	5	6	2	Hungary	1	2	1	3	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+83	5	6	2	Hungary	1	2	3	18	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+83	5	6	2	Hungary	1	2	4	1	1	yes	1	yes	1	5	1	0	12	0	yes	1	0	0
+83	5	6	2	Hungary	1	2	5	2	1	yes	2	no	0	3	1	0	8	4	yes	0	0	4
+83	5	6	2	Hungary	1	2	10	9	1	yes	1	yes	1	5	1	0	12	0	yes	1	0	0
+83	5	6	2	Hungary	1	2	11	10	1	yes	2	no	0	5	1	0	10	2	yes	0	0	2
+83	5	6	2	Hungary	1	2	12	11	2	no	1	yes	0	4	2	0	2	10	no	0	0	2
+83	5	6	2	Hungary	1	2	13	12	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+83	5	6	2	Hungary	1	2	15	14	2	no	2	no	1	4	2	0	2	10	no	1	0	2
+83	5	6	2	Hungary	1	2	16	15	1	yes	1	yes	1	5	1	0	12	0	yes	1	0	0
+83	5	6	2	Hungary	1	2	17	16	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+83	5	6	2	Hungary	1	2	18	17	1	yes	1	yes	1	6	1	0	8	4	yes	1	0	4
+83	5	6	2	Hungary	1	2	23	23	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+83	5	6	2	Hungary	1	2	24	24	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+84	5	5	2	South Korea	1	1	1	3	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+84	5	5	2	South Korea	1	1	2	8	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+84	5	5	2	South Korea	1	1	3	18	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+84	5	5	2	South Korea	1	1	4	1	1	yes	1	yes	1	5	1	0	12	0	yes	1	0	0
+84	5	5	2	South Korea	1	1	5	2	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+84	5	5	2	South Korea	1	1	6	4	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+84	5	5	2	South Korea	1	1	8	6	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+84	5	5	2	South Korea	1	1	9	7	1	yes	1	yes	1	4	1	0	12	0	yes	1	0	0
+84	5	5	2	South Korea	1	1	10	9	1	yes	1	yes	1	6	1	0	12	0	yes	1	0	0
+84	5	5	2	South Korea	1	1	16	15	1	yes	1	yes	1	5	1	0	8	4	yes	1	0	4
+84	5	5	2	South Korea	1	1	17	16	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+84	5	5	2	South Korea	1	1	19	19	1	yes	1	yes	1	6	1	0	8	4	yes	1	0	4
+84	5	5	2	South Korea	1	1	22	22	2	no	2	no	1	4	2	0	0	12	no	1	0	0
+84	5	5	2	South Korea	1	1	23	23	1	yes	1	yes	1	4	1	0	12	0	yes	1	0	0
+84	5	5	2	South Korea	1	1	24	24	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+85	5	4	1		1	1	1	3	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+85	5	4	1		1	1	2	8	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+85	5	4	1		1	1	3	18	2	no	2	no	1	3	2	0	4	8	no	1	0	4
+85	5	4	1		1	1	9	7	1	yes	1	yes	1	4	1	0	8	4	yes	1	0	4
+85	5	4	1		1	1	11	10	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+85	5	4	1		1	1	14	13	2	no	1	yes	0	4	2	0	4	8	no	0	0	4
+85	5	4	1		1	1	16	15	1	yes	1	yes	1	2	1	0	8	4	yes	1	0	4
+85	5	4	1		1	1	18	17	1	yes	1	yes	1	5	1	0	12	0	yes	1	0	0
+85	5	4	1		1	1	20	20	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+85	5	4	1		1	1	21	21	1	yes	1	yes	1	5	1	0	8	4	yes	1	0	4
+85	5	4	1		1	1	22	22	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+85	5	4	1		1	1	23	23	2	no	1	yes	0	3	2	0	2	10	no	0	0	2
+85	5	4	1		1	1	24	24	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+86	5	6	2	Hungary	1	2	1	3	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+86	5	6	2	Hungary	1	2	2	8	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+86	5	6	2	Hungary	1	2	3	18	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+86	5	6	2	Hungary	1	2	7	5	1	yes	1	yes	1	6	1	0	12	0	yes	1	0	0
+86	5	6	2	Hungary	1	2	8	6	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+86	5	6	2	Hungary	1	2	12	11	1	yes	1	yes	1	2	1	0	10	2	yes	1	0	2
+86	5	6	2	Hungary	1	2	13	12	1	yes	2	no	0	3	1	0	8	4	yes	0	0	4
+86	5	6	2	Hungary	1	2	14	13	1	yes	1	yes	1	5	1	0	8	4	yes	1	0	4
+86	5	6	2	Hungary	1	2	15	14	2	no	2	no	1	5	2	0	2	10	no	1	0	2
+86	5	6	2	Hungary	1	2	16	15	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+86	5	6	2	Hungary	1	2	17	16	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+86	5	6	2	Hungary	1	2	18	17	1	yes	1	yes	1	2	1	0	10	2	yes	1	0	2
+86	5	6	2	Hungary	1	2	19	19	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+86	5	6	2	Hungary	1	2	21	21	1	yes	1	yes	1	5	1	0	12	0	yes	1	0	0
+86	5	6	2	Hungary	1	2	23	23	2	no	1	yes	0	4	2	0	0	12	no	0	0	0
+86	5	6	2	Hungary	1	2	24	24	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+87	5	5	2	Cameroon	1	1	1	3	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+87	5	5	2	Cameroon	1	1	2	8	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+87	5	5	2	Cameroon	1	1	3	18	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+87	5	5	2	Cameroon	1	1	5	2	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+87	5	5	2	Cameroon	1	1	6	4	2	no	2	no	1	5	2	0	2	10	no	1	0	2
+87	5	5	2	Cameroon	1	1	9	7	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+87	5	5	2	Cameroon	1	1	10	9	1	yes	1	yes	1	6	1	0	8	4	yes	1	0	4
+87	5	5	2	Cameroon	1	1	14	13	1	yes	1	yes	1	4	1	0	8	4	yes	1	0	4
+87	5	5	2	Cameroon	1	1	18	17	1	yes	1	yes	1	6	1	0	8	4	yes	1	0	4
+87	5	5	2	Cameroon	1	1	20	20	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+87	5	5	2	Cameroon	1	1	21	21	1	yes	1	yes	1	5	1	0	8	4	yes	1	0	4
+87	5	5	2	Cameroon	1	1	22	22	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+87	5	5	2	Cameroon	1	1	23	23	2	no	1	yes	0	4	2	0	2	10	no	0	0	2
+88	5	4	1		1	1	3	18	2	no	2	no	1	3	2	0	4	8	no	1	0	4
+88	5	4	1		1	1	7	5	1	yes	1	yes	1	2	1	0	10	2	yes	1	0	2
+88	5	4	1		1	1	9	7	2	no	1	yes	0	4	2	0	4	8	no	0	0	4
+88	5	4	1		1	1	11	10	2	no	2	no	1	3	2	0	2	10	no	1	0	2
+88	5	4	1		1	1	12	11	1	yes	1	yes	1	2	1	0	8	4	yes	1	0	4
+88	5	4	1		1	1	14	13	2	no	1	yes	0	4	2	0	2	10	no	0	0	2
+88	5	4	1		1	1	16	15	2	no	1	yes	0	2	2	0	0	12	no	0	0	0
+88	5	4	1		1	1	19	19	1	yes	1	yes	1	3	1	0	12	0	yes	1	0	0
+88	5	4	1		1	1	20	20	1	yes	2	no	0	3	1	0	8	4	yes	0	0	4
+88	5	4	1		1	1	21	21	1	yes	1	yes	1	2	1	0	10	2	yes	1	0	2
+88	5	4	1		1	1	22	22	2	no	2	no	1	4	2	0	0	12	no	1	0	0
+89	5	4	2	Ireland	1	1	1	3	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+89	5	4	2	Ireland	1	1	2	8	2	no	2	no	1	4	2	0	0	12	no	1	0	0
+89	5	4	2	Ireland	1	1	3	18	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+89	5	4	2	Ireland	1	1	4	1	2	no	1	yes	0	4	2	0	4	8	no	0	0	4
+89	5	4	2	Ireland	1	1	5	2	1	yes	2	no	0	4	1	0	12	0	yes	0	0	0
+89	5	4	2	Ireland	1	1	6	4	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+89	5	4	2	Ireland	1	1	7	5	2	no	1	yes	0	4	2	0	4	8	no	0	0	4
+89	5	4	2	Ireland	1	1	14	13	1	yes	1	yes	1	4	1	0	8	4	yes	1	0	4
+89	5	4	2	Ireland	1	1	17	16	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+89	5	4	2	Ireland	1	1	18	17	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+89	5	4	2	Ireland	1	1	20	20	2	no	2	no	1	4	2	0	2	10	no	1	0	2
+89	5	4	2	Ireland	1	1	21	21	1	yes	1	yes	1	6	1	0	12	0	yes	1	0	0
+89	5	4	2	Ireland	1	1	22	22	1	yes	2	no	0	6	1	0	8	4	yes	0	0	4
+89	5	4	2	Ireland	1	1	24	24	1	yes	2	no	0	6	1	0	8	4	yes	0	0	4
+90	5	4	1		1	2	1	3	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+90	5	4	1		1	2	2	8	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+90	5	4	1		1	2	3	18	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+90	5	4	1		1	2	5	2	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+90	5	4	1		1	2	8	6	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+90	5	4	1		1	2	12	11	1	yes	1	yes	1	5	1	0	12	0	yes	1	0	0
+90	5	4	1		1	2	14	13	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+90	5	4	1		1	2	16	15	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+90	5	4	1		1	2	18	17	1	yes	1	yes	1	6	1	0	12	0	yes	1	0	0
+90	5	4	1		1	2	22	22	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+90	5	4	1		1	2	23	23	1	yes	1	yes	1	4	1	0	8	4	yes	1	0	4
+91	5	4	1		1	2	1	3	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+91	5	4	1		1	2	2	8	2	no	2	no	1	4	2	0	0	12	no	1	0	0
+91	5	4	1		1	2	3	18	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+91	5	4	1		1	2	5	2	2	no	2	no	1	0	2	0	2	10	no	1	0	2
+91	5	4	1		1	2	6	4	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+91	5	4	1		1	2	7	5	1	yes	1	yes	1	4	1	0	8	4	yes	1	0	4
+91	5	4	1		1	2	10	9	1	yes	1	yes	1	5	1	0	8	4	yes	1	0	4
+91	5	4	1		1	2	11	10	2	no	2	no	1	4	2	0	0	12	no	1	0	0
+91	5	4	1		1	2	12	11	1	yes	1	yes	1	2	2	1	10	2	yes	1	0	2
+91	5	4	1		1	2	13	12	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+91	5	4	1		1	2	14	13	1	yes	1	yes	1	2	1	0	10	2	yes	1	0	2
+91	5	4	1		1	2	15	14	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+91	5	4	1		1	2	16	15	2	no	1	yes	0	2	2	0	4	8	no	0	0	4
+91	5	4	1		1	2	17	16	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+91	5	4	1		1	2	18	17	1	yes	1	yes	1	3	1	0	8	4	yes	1	0	4
+91	5	4	1		1	2	20	20	2	no	2	no	1	2	2	0	4	8	no	1	0	4
+91	5	4	1		1	2	21	21	1	yes	1	yes	1	0	1	0	8	4	yes	1	0	4
+91	5	4	1		1	2	22	22	1	yes	2	no	0	2	1	0	8	4	yes	0	0	4
+91	5	4	1		1	2	23	23	2	no	1	yes	0	1	2	0	0	12	no	0	0	0
+91	5	4	1		1	2	24	24	2	no	2	no	1	2	2	0	0	12	no	1	0	0
+92	2	4	2	Ireland	1	2	1	3	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+92	2	4	2	Ireland	1	2	4	1	1	yes	1	yes	1	4	1	0	8	4	yes	1	0	4
+92	2	4	2	Ireland	1	2	8	6	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+92	2	4	2	Ireland	1	2	9	7	1	yes	1	yes	1	4	1	0	12	0	yes	1	0	0
+92	2	4	2	Ireland	1	2	11	10	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+92	2	4	2	Ireland	1	2	13	12	1	yes	2	no	0	3	1	0	8	4	yes	0	0	4
+92	2	4	2	Ireland	1	2	14	13	2	no	1	yes	0	2	2	0	2	10	no	0	0	2
+92	2	4	2	Ireland	1	2	15	14	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+92	2	4	2	Ireland	1	2	16	15	1	yes	1	yes	1	5	1	0	12	0	yes	1	0	0
+92	2	4	2	Ireland	1	2	18	17	2	no	1	yes	0	5	2	0	4	8	no	0	0	4
+92	2	4	2	Ireland	1	2	19	19	1	yes	1	yes	1	5	1	0	8	4	yes	1	0	4
+92	2	4	2	Ireland	1	2	23	23	1	yes	1	yes	1	5	1	0	12	0	yes	1	0	0
+92	2	4	2	Ireland	1	2	24	24	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+93	5	6	2	Germany	1	2	1	3	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+93	5	6	2	Germany	1	2	3	18	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+93	5	6	2	Germany	1	2	5	2	2	no	2	no	1	3	2	0	0	12	no	1	0	0
+93	5	6	2	Germany	1	2	8	6	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+93	5	6	2	Germany	1	2	12	11	1	yes	1	yes	1	6	1	0	8	4	yes	1	0	4
+93	5	6	2	Germany	1	2	14	13	1	yes	1	yes	1	4	1	0	12	0	yes	1	0	0
+93	5	6	2	Germany	1	2	15	14	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+93	5	6	2	Germany	1	2	17	16	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+93	5	6	2	Germany	1	2	21	21	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+93	5	6	2	Germany	1	2	22	22	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+93	5	6	2	Germany	1	2	23	23	2	no	1	yes	0	6	2	0	2	10	no	0	0	2
+93	5	6	2	Germany	1	2	24	24	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+94	5	4	1		1	2	1	3	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+94	5	4	1		1	2	4	1	2	no	1	yes	0	4	2	0	2	10	no	0	0	2
+94	5	4	1		1	2	8	6	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+94	5	4	1		1	2	10	9	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+94	5	4	1		1	2	13	12	1	yes	2	no	0	5	1	0	10	2	yes	0	0	2
+94	5	4	1		1	2	14	13	2	no	1	yes	0	3	2	0	4	8	no	0	0	4
+94	5	4	1		1	2	17	16	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+94	5	4	1		1	2	19	19	1	yes	1	yes	1	3	1	0	8	4	yes	1	0	4
+94	5	4	1		1	2	21	21	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+95	5	4	1		1	1	1	3	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+95	5	4	1		1	1	2	8	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+95	5	4	1		1	1	3	18	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+95	5	4	1		1	1	4	1	1	yes	1	yes	1	3	1	0	8	4	yes	1	0	4
+95	5	4	1		1	1	6	4	2	no	2	no	1	5	2	0	2	10	no	1	0	2
+95	5	4	1		1	1	8	6	2	no	2	no	1	5	2	0	2	10	no	1	0	2
+95	5	4	1		1	1	14	13	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+95	5	4	1		1	1	16	15	1	yes	1	yes	1	4	1	0	8	4	yes	1	0	4
+95	5	4	1		1	1	17	16	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+95	5	4	1		1	1	21	21	2	no	1	yes	0	3	2	0	2	10	no	0	0	2
+95	5	4	1		1	1	22	22	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+95	5	4	1		1	1	23	23	2	no	1	yes	0	2	2	0	2	10	no	0	0	2
+95	5	4	1		1	1	24	24	1	yes	2	no	0	5	1	0	10	2	yes	0	0	2
+96	5	4	1		1	1	1	3	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+96	5	4	1		1	1	4	1	1	yes	1	yes	1	3	1	0	12	0	yes	1	0	0
+96	5	4	1		1	1	7	5	1	yes	1	yes	1	6	1	0	12	0	yes	1	0	0
+96	5	4	1		1	1	9	7	1	yes	1	yes	1	5	1	0	12	0	yes	1	0	0
+96	5	4	1		1	1	10	9	1	yes	1	yes	1	6	1	0	8	4	yes	1	0	4
+96	5	4	1		1	1	12	11	1	yes	1	yes	1	4	1	0	8	4	yes	1	0	4
+96	5	4	1		1	1	13	12	1	yes	2	no	0	6	1	0	8	4	yes	0	0	4
+96	5	4	1		1	1	15	14	1	yes	2	no	0	4	1	0	10	2	yes	0	0	2
+96	5	4	1		1	1	18	17	1	yes	1	yes	1	3	1	0	10	2	yes	1	0	2
+96	5	4	1		1	1	20	20	1	yes	2	no	0	2	1	0	8	4	yes	0	0	4
+96	5	4	1		1	1	21	21	1	yes	1	yes	1	5	1	0	8	4	yes	1	0	4
+96	5	4	1		1	1	24	24	2	no	2	no	1	5	2	0	2	10	no	1	0	2
+97	5	4	2	United States	1	2	2	8	2	no	2	no	1	4	2	0	0	12	no	1	0	0
+97	5	4	2	United States	1	2	3	18	2	no	2	no	1	1	2	0	4	8	no	1	0	4
+97	5	4	2	United States	1	2	5	2	2	no	2	no	1	5	2	0	2	10	no	1	0	2
+97	5	4	2	United States	1	2	8	6	1	yes	2	no	0	4	1	0	12	0	yes	0	0	0
+97	5	4	2	United States	1	2	9	7	1	yes	1	yes	1	4	1	0	8	4	yes	1	0	4
+97	5	4	2	United States	1	2	10	9	2	no	1	yes	0	4	2	0	2	10	no	0	0	2
+97	5	4	2	United States	1	2	12	11	1	yes	1	yes	1	3	1	0	12	0	yes	1	0	0
+97	5	4	2	United States	1	2	14	13	1	yes	1	yes	1	3	1	0	8	4	yes	1	0	4
+97	5	4	2	United States	1	2	16	15	1	yes	1	yes	1	3	1	0	12	0	yes	1	0	0
+97	5	4	2	United States	1	2	17	16	1	yes	2	no	0	1	1	0	12	0	yes	0	0	0
+97	5	4	2	United States	1	2	19	19	2	no	1	yes	0	5	2	0	0	12	no	0	0	0
+97	5	4	2	United States	1	2	20	20	2	no	2	no	1	4	2	0	2	10	no	1	0	2
+97	5	4	2	United States	1	2	22	22	1	yes	2	no	0	4	1	0	12	0	yes	0	0	0
+97	5	4	2	United States	1	2	23	23	1	yes	1	yes	1	1	1	0	12	0	yes	1	0	0
+97	5	4	2	United States	1	2	24	24	2	no	2	no	1	2	2	0	0	12	no	1	0	0
+98	5	4	2	United States	1	1	1	3	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+98	5	4	2	United States	1	1	2	8	2	no	2	no	1	4	2	0	0	12	no	1	0	0
+98	5	4	2	United States	1	1	3	18	2	no	2	no	1	5	2	0	4	8	no	1	0	4
+98	5	4	2	United States	1	1	4	1	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+98	5	4	2	United States	1	1	7	5	1	yes	1	yes	1	5	1	0	8	4	yes	1	0	4
+98	5	4	2	United States	1	1	8	6	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+98	5	4	2	United States	1	1	12	11	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+98	5	4	2	United States	1	1	17	16	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+98	5	4	2	United States	1	1	19	19	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+98	5	4	2	United States	1	1	22	22	2	no	2	no	1	5	2	0	2	10	no	1	0	2
+98	5	4	2	United States	1	1	23	23	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+99	5	6	2	Lithuania	1	2	1	3	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+99	5	6	2	Lithuania	1	2	2	8	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+99	5	6	2	Lithuania	1	2	3	18	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+99	5	6	2	Lithuania	1	2	5	2	1	yes	2	no	0	3	1	0	8	4	yes	0	0	4
+99	5	6	2	Lithuania	1	2	6	4	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+99	5	6	2	Lithuania	1	2	7	5	1	yes	1	yes	1	4	1	0	10	2	yes	1	0	2
+99	5	6	2	Lithuania	1	2	10	9	1	yes	1	yes	1	6	1	0	12	0	yes	1	0	0
+99	5	6	2	Lithuania	1	2	11	10	1	yes	2	no	0	4	1	0	8	4	yes	0	0	4
+99	5	6	2	Lithuania	1	2	13	12	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+99	5	6	2	Lithuania	1	2	14	13	1	yes	1	yes	1	4	1	0	12	0	yes	1	0	0
+99	5	6	2	Lithuania	1	2	15	14	2	no	2	no	1	6	2	0	2	10	no	1	0	2
+99	5	6	2	Lithuania	1	2	18	17	1	yes	1	yes	1	5	1	0	12	0	yes	1	0	0
+99	5	6	2	Lithuania	1	2	19	19	1	yes	1	yes	1	5	1	0	12	0	yes	1	0	0
+99	5	6	2	Lithuania	1	2	20	20	2	no	2	no	1	6	2	0	4	8	no	1	0	4
+99	5	6	2	Lithuania	1	2	22	22	1	yes	2	no	0	6	1	0	10	2	yes	0	0	2
+100	5	4	2	Malaysia	1	2	5	2	1	yes	2	no	0	3	1	0	8	4	yes	0	0	4
+100	5	4	2	Malaysia	1	2	7	5	1	yes	1	yes	1	5	1	0	12	0	yes	1	0	0
+100	5	4	2	Malaysia	1	2	8	6	2	no	2	no	1	3	2	0	4	8	no	1	0	4
+100	5	4	2	Malaysia	1	2	10	9	1	yes	1	yes	1	3	1	0	12	0	yes	1	0	0
+100	5	4	2	Malaysia	1	2	11	10	1	yes	2	no	0	3	1	0	8	4	yes	0	0	4
+100	5	4	2	Malaysia	1	2	18	17	1	yes	1	yes	1	3	1	0	8	4	yes	1	0	4
+100	5	4	2	Malaysia	1	2	19	19	2	no	1	yes	0	4	2	0	0	12	no	0	0	0
+101	5	5	2	Malaysia	1	1	1	3	1	yes	1	yes	1	6	1	0	10	2	yes	1	0	2
+101	5	5	2	Malaysia	1	1	2	8	2	no	2	no	1	6	2	0	0	12	no	1	0	0
+101	5	5	2	Malaysia	1	1	3	18	2	no	2	no	1	4	2	0	4	8	no	1	0	4
+101	5	5	2	Malaysia	1	1	6	4	2	no	2	no	1	2	2	0	4	8	no	1	0	4
+101	5	5	2	Malaysia	1	1	7	5	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+101	5	5	2	Malaysia	1	1	8	6	2	no	2	no	1	5	2	0	2	10	no	1	0	2
+101	5	5	2	Malaysia	1	1	9	7	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+101	5	5	2	Malaysia	1	1	12	11	1	yes	1	yes	1	5	1	0	12	0	yes	1	0	0
+101	5	5	2	Malaysia	1	1	15	14	2	no	2	no	1	5	1	1	2	10	no	1	0	2
+101	5	5	2	Malaysia	1	1	16	15	1	yes	1	yes	1	5	1	0	12	0	yes	1	0	0
+101	5	5	2	Malaysia	1	1	18	17	1	yes	1	yes	1	4	1	0	12	0	yes	1	0	0
+101	5	5	2	Malaysia	1	1	19	19	1	yes	1	yes	1	5	1	0	10	2	yes	1	0	2
+101	5	5	2	Malaysia	1	1	20	20	2	no	2	no	1	5	2	0	0	12	no	1	0	0
+101	5	5	2	Malaysia	1	1	23	23	1	yes	1	yes	1	3	1	0	8	4	yes	1	0	4
+1	5	4	2	USA	2	1	4	1	1	yes	1	yes	1	4	2	1	0	12	no	0	1	12
+1	5	4	2	USA	2	1	6	4	2	no	2	no	1	5	2	0	10	2	yes	0	1	10
+1	5	4	2	USA	2	1	10	9	1	yes	1	yes	1	5	1	0	2	10	no	0	1	10
+1	5	4	2	USA	2	1	12	11	1	yes	1	yes	1	5	1	0	0	12	no	0	1	12
+1	5	4	2	USA	2	1	14	13	1	yes	1	yes	1	4	1	0	4	8	no	0	1	8
+1	5	4	2	USA	2	1	16	15	1	yes	1	yes	1	5	1	0	2	10	no	0	1	10
+1	5	4	2	USA	2	1	17	16	2	no	2	no	1	2	1	1	12	0	yes	0	1	12
+1	5	4	2	USA	2	1	18	17	2	no	1	yes	0	1	1	1	10	2	yes	1	1	10
+1	5	4	2	USA	2	1	19	19	1	yes	1	yes	1	3	2	1	0	12	no	0	1	12
+1	5	4	2	USA	2	1	20	20	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+2	2	4	1		2	1	8	6	2	no	2	no	1	5	2	0	8	4	yes	0	1	8
+2	2	4	1		2	1	12	11	1	yes	1	yes	1	4	1	0	4	8	no	0	1	8
+2	2	4	1		2	1	13	12	1	yes	2	no	0	5	1	0	0	12	no	1	1	12
+2	2	4	1		2	1	14	13	1	yes	1	yes	1	5	1	0	2	10	no	0	1	10
+2	2	4	1		2	1	15	14	2	no	2	no	1	5	2	0	10	2	yes	0	1	10
+2	2	4	1		2	1	17	16	2	no	2	no	1	5	2	0	12	0	yes	0	1	12
+2	2	4	1		2	1	18	17	1	yes	1	yes	1	5	1	0	0	12	no	0	1	12
+2	2	4	1		2	1	19	19	1	yes	1	yes	1	4	1	0	4	8	no	0	1	8
+2	2	4	1		2	1	21	21	1	yes	1	yes	1	4	1	0	4	8	no	0	1	8
+2	2	4	1		2	1	23	23	1	yes	1	yes	1	4	1	0	0	12	no	0	1	12
+2	2	4	1		2	1	24	24	2	no	2	no	1	5	2	0	12	0	yes	0	1	12
+3	5	6	2	Indonesia	2	1	2	8	1	yes	2	no	0	3	1	0	0	12	no	1	1	12
+3	5	6	2	Indonesia	2	1	5	2	1	yes	2	no	0	4	1	0	4	8	no	1	1	8
+3	5	6	2	Indonesia	2	1	6	4	1	yes	2	no	0	4	1	0	2	10	no	1	1	10
+3	5	6	2	Indonesia	2	1	8	6	2	no	2	no	1	4	2	0	12	0	yes	0	1	12
+3	5	6	2	Indonesia	2	1	9	7	1	yes	1	yes	1	4	1	0	4	8	no	0	1	8
+3	5	6	2	Indonesia	2	1	11	10	2	no	2	no	1	4	2	0	8	4	yes	0	1	8
+3	5	6	2	Indonesia	2	1	16	15	1	yes	1	yes	1	2	1	0	0	12	no	0	1	12
+3	5	6	2	Indonesia	2	1	18	17	1	yes	1	yes	1	4	1	0	4	8	no	0	1	8
+3	5	6	2	Indonesia	2	1	20	20	2	no	2	no	1	4	2	0	10	2	yes	0	1	10
+3	5	6	2	Indonesia	2	1	22	22	2	no	2	no	1	4	2	0	8	4	yes	0	1	8
+3	5	6	2	Indonesia	2	1	23	23	2	no	1	yes	0	4	2	0	10	2	yes	1	1	10
+4	5	5	2	USA	2	2	3	18	1	yes	2	no	0	3	1	0	4	8	no	1	1	8
+4	5	5	2	USA	2	2	5	2	2	no	2	no	1	2	1	1	10	2	yes	0	1	10
+4	5	5	2	USA	2	2	7	5	1	yes	1	yes	1	4	1	0	4	8	no	0	1	8
+4	5	5	2	USA	2	2	11	10	1	yes	2	no	0	2	2	1	2	10	no	1	1	10
+4	5	5	2	USA	2	2	12	11	2	no	1	yes	0	2	1	1	8	4	yes	1	1	8
+4	5	5	2	USA	2	2	13	12	2	no	2	no	1	3	1	1	8	4	yes	0	1	8
+4	5	5	2	USA	2	2	15	14	2	no	2	no	1	3	2	0	8	4	yes	0	1	8
+4	5	5	2	USA	2	2	16	15	2	no	1	yes	0	2	1	1	12	0	yes	1	1	12
+4	5	5	2	USA	2	2	17	16	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+4	5	5	2	USA	2	2	18	17	1	yes	1	yes	1	2	2	1	2	10	no	0	1	10
+4	5	5	2	USA	2	2	20	20	2	no	2	no	1	0	1	1	12	0	yes	0	1	12
+4	5	5	2	USA	2	2	21	21	2	no	1	yes	0	0	1	1	12	0	yes	1	1	12
+4	5	5	2	USA	2	2	22	22	2	no	2	no	1	4	2	0	12	0	yes	0	1	12
+4	5	5	2	USA	2	2	23	23	1	yes	1	yes	1	3	1	0	4	8	no	0	1	8
+5	5	5	2	Malaysia	1	2	2	8	1	yes	2	no	0	5	1	0	0	12	no	1	1	12
+5	5	5	2	Malaysia	1	2	3	18	1	yes	2	no	0	6	1	0	4	8	no	1	1	8
+5	5	5	2	Malaysia	1	2	4	1	1	yes	1	yes	1	6	1	0	2	10	no	0	1	10
+5	5	5	2	Malaysia	1	2	5	2	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+5	5	5	2	Malaysia	1	2	7	5	1	yes	1	yes	1	6	1	0	2	10	no	0	1	10
+5	5	5	2	Malaysia	1	2	8	6	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+5	5	5	2	Malaysia	1	2	9	7	1	yes	1	yes	1	6	1	0	2	10	no	0	1	10
+5	5	5	2	Malaysia	1	2	11	10	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+5	5	5	2	Malaysia	1	2	12	11	1	yes	1	yes	1	6	1	0	2	10	no	0	1	10
+5	5	5	2	Malaysia	1	2	15	14	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+5	5	5	2	Malaysia	1	2	17	16	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+5	5	5	2	Malaysia	1	2	19	19	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+5	5	5	2	Malaysia	1	2	20	20	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+5	5	5	2	Malaysia	1	2	21	21	1	yes	1	yes	1	6	1	0	2	10	no	0	1	10
+5	5	5	2	Malaysia	1	2	24	24	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+6	5	4	2	South Africa	2	1	1	3	2	no	1	yes	0	0	1	1	10	2	yes	1	1	10
+6	5	4	2	South Africa	2	1	3	18	1	yes	2	no	0	5	1	0	4	8	no	1	1	8
+6	5	4	2	South Africa	2	1	4	1	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+6	5	4	2	South Africa	2	1	5	2	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+6	5	4	2	South Africa	2	1	7	5	1	yes	1	yes	1	6	1	0	0	12	no	0	1	12
+6	5	4	2	South Africa	2	1	9	7	1	yes	1	yes	1	6	1	0	0	12	no	0	1	12
+6	5	4	2	South Africa	2	1	10	9	1	yes	1	yes	1	4	1	0	4	8	no	0	1	8
+6	5	4	2	South Africa	2	1	11	10	2	no	2	no	1	5	1	1	12	0	yes	0	1	12
+6	5	4	2	South Africa	2	1	16	15	2	no	1	yes	0	6	2	0	10	2	yes	1	1	10
+6	5	4	2	South Africa	2	1	20	20	1	yes	2	no	0	4	2	1	2	10	no	1	1	10
+6	5	4	2	South Africa	2	1	22	22	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+7	5	6	2	China	2	2	1	3	2	no	1	yes	0	4	2	0	10	2	yes	1	1	10
+7	5	6	2	China	2	2	2	8	1	yes	2	no	0	4	1	0	0	12	no	1	1	12
+7	5	6	2	China	2	2	4	1	1	yes	1	yes	1	6	1	0	2	10	no	0	1	10
+7	5	6	2	China	2	2	5	2	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+7	5	6	2	China	2	2	9	7	2	no	1	yes	0	4	1	1	12	0	yes	1	1	12
+7	5	6	2	China	2	2	13	12	2	no	2	no	1	5	1	1	12	0	yes	0	1	12
+7	5	6	2	China	2	2	14	13	1	yes	1	yes	1	5	1	0	2	10	no	0	1	10
+7	5	6	2	China	2	2	15	14	2	no	2	no	1	5	2	0	12	0	yes	0	1	12
+7	5	6	2	China	2	2	20	20	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+7	5	6	2	China	2	2	24	24	1	yes	2	no	0	6	1	0	0	12	no	1	1	12
+8	5	6	2	China	2	1	6	4	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+8	5	6	2	China	2	1	8	6	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+8	5	6	2	China	2	1	10	9	1	yes	1	yes	1	6	1	0	0	12	no	0	1	12
+8	5	6	2	China	2	1	11	10	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+8	5	6	2	China	2	1	12	11	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+8	5	6	2	China	2	1	14	13	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+8	5	6	2	China	2	1	16	15	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+8	5	6	2	China	2	1	18	17	1	yes	1	yes	1	6	1	0	2	10	no	0	1	10
+8	5	6	2	China	2	1	19	19	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+8	5	6	2	China	2	1	24	24	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+9	5	6	2	Lithuania	2	1	1	3	2	no	1	yes	0	5	2	0	10	2	yes	1	1	10
+9	5	6	2	Lithuania	2	1	2	8	1	yes	2	no	0	6	1	0	0	12	no	1	1	12
+9	5	6	2	Lithuania	2	1	3	18	1	yes	2	no	0	5	1	0	4	8	no	1	1	8
+9	5	6	2	Lithuania	2	1	4	1	2	no	1	yes	0	1	1	1	8	4	yes	1	1	8
+9	5	6	2	Lithuania	2	1	6	4	2	no	2	no	1	4	2	0	12	0	yes	0	1	12
+9	5	6	2	Lithuania	2	1	7	5	1	yes	1	yes	1	5	1	0	2	10	no	0	1	10
+9	5	6	2	Lithuania	2	1	8	6	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+9	5	6	2	Lithuania	2	1	9	7	1	yes	1	yes	1	4	2	1	2	10	no	0	1	10
+9	5	6	2	Lithuania	2	1	10	9	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+9	5	6	2	Lithuania	2	1	13	12	2	no	2	no	1	3	2	0	12	0	yes	0	1	12
+9	5	6	2	Lithuania	2	1	14	13	1	yes	1	yes	1	4	1	0	0	12	no	0	1	12
+9	5	6	2	Lithuania	2	1	15	14	2	no	2	no	1	5	2	0	10	2	yes	0	1	10
+9	5	6	2	Lithuania	2	1	17	16	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+9	5	6	2	Lithuania	2	1	21	21	1	yes	1	yes	1	4	1	0	2	10	no	0	1	10
+9	5	6	2	Lithuania	2	1	22	22	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+9	5	6	2	Lithuania	2	1	23	23	2	no	1	yes	0	4	2	0	10	2	yes	1	1	10
+9	5	6	2	Lithuania	2	1	24	24	2	no	2	no	1	1	1	1	12	0	yes	0	1	12
+10	5	6	2	China	2	2	4	1	2	no	1	yes	0	3	2	0	10	2	yes	1	1	10
+10	5	6	2	China	2	2	6	4	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+10	5	6	2	China	2	2	7	5	1	yes	1	yes	1	4	2	1	4	8	no	0	1	8
+10	5	6	2	China	2	2	8	6	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+10	5	6	2	China	2	2	9	7	1	yes	1	yes	1	6	2	1	0	12	no	0	1	12
+10	5	6	2	China	2	2	10	9	1	yes	1	yes	1	4	2	1	0	12	no	0	1	12
+10	5	6	2	China	2	2	13	12	1	yes	2	no	0	4	2	1	0	12	no	1	1	12
+10	5	6	2	China	2	2	14	13	2	no	1	yes	0	1	1	1	10	2	yes	1	1	10
+10	5	6	2	China	2	2	15	14	2	no	2	no	1	5	2	0	8	4	yes	0	1	8
+10	5	6	2	China	2	2	17	16	2	no	2	no	1	5	2	0	10	2	yes	0	1	10
+10	5	6	2	China	2	2	18	17	1	yes	1	yes	1	4	2	1	4	8	no	0	1	8
+10	5	6	2	China	2	2	22	22	2	no	2	no	1	5	2	0	8	4	yes	0	1	8
+10	5	6	2	China	2	2	24	24	2	no	2	no	1	5	2	0	8	4	yes	0	1	8
+11	2	5	2	United States	1	2	2	8	1	yes	2	no	0	2	2	1	0	12	no	1	1	12
+11	2	5	2	United States	1	2	3	18	1	yes	2	no	0	6	1	0	4	8	no	1	1	8
+11	2	5	2	United States	1	2	5	2	2	no	2	no	1	3	2	0	12	0	yes	0	1	12
+11	2	5	2	United States	1	2	8	6	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+11	2	5	2	United States	1	2	9	7	1	yes	1	yes	1	5	1	0	4	8	no	0	1	8
+11	2	5	2	United States	1	2	11	10	1	yes	2	no	0	2	2	1	4	8	no	1	1	8
+11	2	5	2	United States	1	2	12	11	1	yes	1	yes	1	1	2	1	2	10	no	0	1	10
+11	2	5	2	United States	1	2	15	14	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+11	2	5	2	United States	1	2	16	15	1	yes	1	yes	1	6	1	0	0	12	no	0	1	12
+11	2	5	2	United States	1	2	18	17	1	yes	1	yes	1	5	1	0	0	12	no	0	1	12
+11	2	5	2	United States	1	2	20	20	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+11	2	5	2	United States	1	2	23	23	2	no	1	yes	0	3	1	1	8	4	yes	1	1	8
+12	5	4	2	Malaysia	2	2	4	1	1	yes	1	yes	1	3	1	0	4	8	no	0	1	8
+12	5	4	2	Malaysia	2	2	5	2	2	no	2	no	1	4	2	0	10	2	yes	0	1	10
+12	5	4	2	Malaysia	2	2	6	4	2	no	2	no	1	4	2	0	10	2	yes	0	1	10
+12	5	4	2	Malaysia	2	2	9	7	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+12	5	4	2	Malaysia	2	2	11	10	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+12	5	4	2	Malaysia	2	2	12	11	1	yes	1	yes	1	5	1	0	2	10	no	0	1	10
+12	5	4	2	Malaysia	2	2	13	12	2	no	2	no	1	5	2	0	8	4	yes	0	1	8
+12	5	4	2	Malaysia	2	2	14	13	1	yes	1	yes	1	3	1	0	4	8	no	0	1	8
+12	5	4	2	Malaysia	2	2	21	21	1	yes	1	yes	1	3	1	0	4	8	no	0	1	8
+12	5	4	2	Malaysia	2	2	22	22	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+12	5	4	2	Malaysia	2	2	23	23	1	yes	1	yes	1	3	1	0	2	10	no	0	1	10
+13	5	6	2	Hungary	2	2	1	3	2	no	1	yes	0	4	1	1	10	2	yes	1	1	10
+13	5	6	2	Hungary	2	2	2	8	1	yes	2	no	0	4	2	1	0	12	no	1	1	12
+13	5	6	2	Hungary	2	2	4	1	1	yes	1	yes	1	2	2	1	0	12	no	0	1	12
+13	5	6	2	Hungary	2	2	5	2	2	no	2	no	1	4	1	1	8	4	yes	0	1	8
+13	5	6	2	Hungary	2	2	7	5	1	yes	1	yes	1	0	2	1	4	8	no	0	1	8
+13	5	6	2	Hungary	2	2	8	6	2	no	2	no	1	4	1	1	10	2	yes	0	1	10
+13	5	6	2	Hungary	2	2	11	10	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+13	5	6	2	Hungary	2	2	13	12	1	yes	2	no	0	6	1	0	0	12	no	1	1	12
+13	5	6	2	Hungary	2	2	14	13	1	yes	1	yes	1	5	1	0	2	10	no	0	1	10
+13	5	6	2	Hungary	2	2	21	21	1	yes	1	yes	1	4	2	1	0	12	no	0	1	12
+13	5	6	2	Hungary	2	2	23	23	2	no	1	yes	0	0	1	1	10	2	yes	1	1	10
+14	5	5	2	Poland	2	1	2	8	1	yes	2	no	0	3	1	0	0	12	no	1	1	12
+14	5	5	2	Poland	2	1	5	2	1	yes	2	no	0	1	1	0	4	8	no	1	1	8
+14	5	5	2	Poland	2	1	6	4	2	no	2	no	1	5	2	0	10	2	yes	0	1	10
+14	5	5	2	Poland	2	1	7	5	1	yes	1	yes	1	5	1	0	0	12	no	0	1	12
+14	5	5	2	Poland	2	1	8	6	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+14	5	5	2	Poland	2	1	12	11	1	yes	1	yes	1	4	1	0	4	8	no	0	1	8
+14	5	5	2	Poland	2	1	14	13	1	yes	1	yes	1	4	1	0	4	8	no	0	1	8
+14	5	5	2	Poland	2	1	16	15	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+14	5	5	2	Poland	2	1	17	16	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+14	5	5	2	Poland	2	1	18	17	1	yes	1	yes	1	5	1	0	0	12	no	0	1	12
+14	5	5	2	Poland	2	1	21	21	1	yes	1	yes	1	5	1	0	0	12	no	0	1	12
+15	5	4	2	USA	1	1	5	2	2	no	2	no	1	4	2	0	8	4	yes	0	1	8
+15	5	4	2	USA	1	1	12	11	1	yes	1	yes	1	4	1	0	0	12	no	0	1	12
+15	5	4	2	USA	1	1	13	12	2	no	2	no	1	5	2	0	10	2	yes	0	1	10
+15	5	4	2	USA	1	1	17	16	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+15	5	4	2	USA	1	1	20	20	2	no	2	no	1	5	2	0	8	4	yes	0	1	8
+15	5	4	2	USA	1	1	22	22	2	no	2	no	1	5	2	0	8	4	yes	0	1	8
+15	5	4	2	USA	1	1	24	24	2	no	2	no	1	5	2	0	8	4	yes	0	1	8
+16	5	6	2	Poland	2	1	3	18	1	yes	2	no	0	4	1	0	4	8	no	1	1	8
+16	5	6	2	Poland	2	1	4	1	1	yes	1	yes	1	1	1	0	4	8	no	0	1	8
+16	5	6	2	Poland	2	1	6	4	2	no	2	no	1	4	2	0	8	4	yes	0	1	8
+16	5	6	2	Poland	2	1	7	5	1	yes	1	yes	1	5	1	0	2	10	no	0	1	10
+16	5	6	2	Poland	2	1	8	6	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+16	5	6	2	Poland	2	1	11	10	2	no	2	no	1	2	1	1	12	0	yes	0	1	12
+16	5	6	2	Poland	2	1	12	11	1	yes	1	yes	1	4	1	0	0	12	no	0	1	12
+16	5	6	2	Poland	2	1	13	12	2	no	2	no	1	2	2	0	12	0	yes	0	1	12
+16	5	6	2	Poland	2	1	15	14	2	no	2	no	1	6	1	1	12	0	yes	0	1	12
+16	5	6	2	Poland	2	1	16	15	1	yes	1	yes	1	4	1	0	0	12	no	0	1	12
+16	5	6	2	Poland	2	1	20	20	2	no	2	no	1	5	2	0	12	0	yes	0	1	12
+16	5	6	2	Poland	2	1	21	21	1	yes	1	yes	1	4	1	0	2	10	no	0	1	10
+16	5	6	2	Poland	2	1	22	22	2	no	2	no	1	2	2	0	10	2	yes	0	1	10
+16	5	6	2	Poland	2	1	23	23	2	no	1	yes	0	5	2	0	12	0	yes	1	1	12
+16	5	6	2	Poland	2	1	24	24	2	no	2	no	1	5	2	0	10	2	yes	0	1	10
+17	5	6	2	Norway	2	1	4	1	1	yes	1	yes	1	5	1	0	2	10	no	0	1	10
+17	5	6	2	Norway	2	1	9	7	1	yes	1	yes	1	4	1	0	0	12	no	0	1	12
+17	5	6	2	Norway	2	1	10	9	1	yes	1	yes	1	4	1	0	4	8	no	0	1	8
+17	5	6	2	Norway	2	1	13	12	2	no	2	no	1	3	2	0	8	4	yes	0	1	8
+17	5	6	2	Norway	2	1	14	13	1	yes	1	yes	1	5	1	0	0	12	no	0	1	12
+17	5	6	2	Norway	2	1	16	15	1	yes	1	yes	1	6	1	0	2	10	no	0	1	10
+17	5	6	2	Norway	2	1	17	16	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+17	5	6	2	Norway	2	1	18	17	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+17	5	6	2	Norway	2	1	19	19	1	yes	1	yes	1	6	1	0	2	10	no	0	1	10
+17	5	6	2	Norway	2	1	20	20	2	no	2	no	1	2	2	0	10	2	yes	0	1	10
+17	5	6	2	Norway	2	1	21	21	1	yes	1	yes	1	4	1	0	4	8	no	0	1	8
+17	5	6	2	Norway	2	1	22	22	2	no	2	no	1	3	2	0	10	2	yes	0	1	10
+17	5	6	2	Norway	2	1	24	24	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+18	5	4	1		1	2	3	18	1	yes	2	no	0	4	1	0	4	8	no	1	1	8
+18	5	4	1		1	2	8	6	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+18	5	4	1		1	2	11	10	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+18	5	4	1		1	2	15	14	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+18	5	4	1		1	2	17	16	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+18	5	4	1		1	2	18	17	1	yes	1	yes	1	2	2	1	2	10	no	0	1	10
+18	5	4	1		1	2	19	19	1	yes	1	yes	1	5	1	0	2	10	no	0	1	10
+18	5	4	1		1	2	23	23	2	no	1	yes	0	2	1	1	10	2	yes	1	1	10
+19	5	6	2	Slovakia	2	1	5	2	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+19	5	6	2	Slovakia	2	1	7	5	1	yes	1	yes	1	4	2	1	2	10	no	0	1	10
+19	5	6	2	Slovakia	2	1	8	6	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+19	5	6	2	Slovakia	2	1	10	9	1	yes	1	yes	1	4	1	0	2	10	no	0	1	10
+19	5	6	2	Slovakia	2	1	11	10	2	no	2	no	1	5	2	0	10	2	yes	0	1	10
+19	5	6	2	Slovakia	2	1	12	11	1	yes	1	yes	1	4	2	1	2	10	no	0	1	10
+19	5	6	2	Slovakia	2	1	14	13	1	yes	1	yes	1	4	1	0	4	8	no	0	1	8
+19	5	6	2	Slovakia	2	1	18	17	1	yes	1	yes	1	3	1	0	0	12	no	0	1	12
+19	5	6	2	Slovakia	2	1	20	20	2	no	2	no	1	3	1	1	10	2	yes	0	1	10
+19	5	6	2	Slovakia	2	1	22	22	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+19	5	6	2	Slovakia	2	1	23	23	1	yes	1	yes	1	3	1	0	4	8	no	0	1	8
+19	5	6	2	Slovakia	2	1	24	24	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+20	5	6	2	Hong Kong	1	1	2	8	1	yes	2	no	0	4	1	0	0	12	no	1	1	12
+20	5	6	2	Hong Kong	1	1	3	18	1	yes	2	no	0	5	1	0	4	8	no	1	1	8
+20	5	6	2	Hong Kong	1	1	7	5	1	yes	1	yes	1	4	1	0	0	12	no	0	1	12
+20	5	6	2	Hong Kong	1	1	10	9	1	yes	1	yes	1	6	1	0	0	12	no	0	1	12
+20	5	6	2	Hong Kong	1	1	12	11	2	no	1	yes	0	5	2	0	12	0	yes	1	1	12
+20	5	6	2	Hong Kong	1	1	14	13	1	yes	1	yes	1	5	1	0	0	12	no	0	1	12
+20	5	6	2	Hong Kong	1	1	16	15	1	yes	1	yes	1	5	1	0	2	10	no	0	1	10
+20	5	6	2	Hong Kong	1	1	20	20	2	no	2	no	1	5	2	0	12	0	yes	0	1	12
+20	5	6	2	Hong Kong	1	1	23	23	1	yes	1	yes	1	2	2	1	0	12	no	0	1	12
+20	5	6	2	Hong Kong	1	1	24	24	2	no	2	no	1	4	2	0	10	2	yes	0	1	10
+21	5	6	2	TURKEY	2	2	2	8	1	yes	2	no	0	4	2	1	0	12	no	1	1	12
+21	5	6	2	TURKEY	2	2	5	2	2	no	2	no	1	5	2	0	8	4	yes	0	1	8
+21	5	6	2	TURKEY	2	2	6	4	2	no	2	no	1	3	1	1	12	0	yes	0	1	12
+21	5	6	2	TURKEY	2	2	15	14	2	no	2	no	1	4	2	0	8	4	yes	0	1	8
+21	5	6	2	TURKEY	2	2	16	15	1	yes	1	yes	1	4	1	0	4	8	no	0	1	8
+21	5	6	2	TURKEY	2	2	18	17	1	yes	1	yes	1	4	1	0	2	10	no	0	1	10
+21	5	6	2	TURKEY	2	2	19	19	1	yes	1	yes	1	4	2	1	0	12	no	0	1	12
+21	5	6	2	TURKEY	2	2	20	20	2	no	2	no	1	5	2	0	8	4	yes	0	1	8
+21	5	6	2	TURKEY	2	2	23	23	1	yes	1	yes	1	4	2	1	2	10	no	0	1	10
+21	5	6	2	TURKEY	2	2	24	24	1	yes	2	no	0	3	2	1	2	10	no	1	1	10
+22	5	5	2	Poland	2	2	2	8	1	yes	2	no	0	4	1	0	0	12	no	1	1	12
+22	5	5	2	Poland	2	2	3	18	1	yes	2	no	0	2	1	0	4	8	no	1	1	8
+22	5	5	2	Poland	2	2	6	4	1	yes	2	no	0	5	1	0	0	12	no	1	1	12
+22	5	5	2	Poland	2	2	7	5	2	no	1	yes	0	3	2	0	8	4	yes	1	1	8
+22	5	5	2	Poland	2	2	9	7	1	yes	1	yes	1	3	1	0	4	8	no	0	1	8
+22	5	5	2	Poland	2	2	15	14	1	yes	2	no	0	3	2	1	4	8	no	1	1	8
+22	5	5	2	Poland	2	2	16	15	2	no	1	yes	0	0	2	0	8	4	yes	1	1	8
+22	5	5	2	Poland	2	2	17	16	2	no	2	no	1	4	2	0	8	4	yes	0	1	8
+22	5	5	2	Poland	2	2	18	17	1	yes	1	yes	1	4	1	0	4	8	no	0	1	8
+22	5	5	2	Poland	2	2	21	21	2	no	1	yes	0	4	2	0	8	4	yes	1	1	8
+23	5	6	2	Hong Kong	2	1	3	18	1	yes	2	no	0	4	1	0	4	8	no	1	1	8
+23	5	6	2	Hong Kong	2	1	4	1	1	yes	1	yes	1	1	2	1	0	12	no	0	1	12
+23	5	6	2	Hong Kong	2	1	5	2	2	no	2	no	1	4	2	0	12	0	yes	0	1	12
+23	5	6	2	Hong Kong	2	1	6	4	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+23	5	6	2	Hong Kong	2	1	8	6	2	no	2	no	1	5	2	0	12	0	yes	0	1	12
+23	5	6	2	Hong Kong	2	1	10	9	1	yes	1	yes	1	6	1	0	2	10	no	0	1	10
+23	5	6	2	Hong Kong	2	1	11	10	2	no	2	no	1	2	2	0	12	0	yes	0	1	12
+23	5	6	2	Hong Kong	2	1	12	11	1	yes	1	yes	1	4	1	0	0	12	no	0	1	12
+23	5	6	2	Hong Kong	2	1	13	12	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+23	5	6	2	Hong Kong	2	1	14	13	1	yes	1	yes	1	2	1	0	2	10	no	0	1	10
+23	5	6	2	Hong Kong	2	1	15	14	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+23	5	6	2	Hong Kong	2	1	16	15	1	yes	1	yes	1	2	2	1	0	12	no	0	1	12
+23	5	6	2	Hong Kong	2	1	22	22	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+23	5	6	2	Hong Kong	2	1	23	23	1	yes	1	yes	1	3	1	0	2	10	no	0	1	10
+24	5	5	2	malaysia	2	2	5	2	2	no	2	no	1	3	2	0	10	2	yes	0	1	10
+24	5	5	2	malaysia	2	2	7	5	1	yes	1	yes	1	4	1	0	4	8	no	0	1	8
+24	5	5	2	malaysia	2	2	8	6	2	no	2	no	1	5	2	0	8	4	yes	0	1	8
+24	5	5	2	malaysia	2	2	10	9	1	yes	1	yes	1	5	1	0	0	12	no	0	1	12
+24	5	5	2	malaysia	2	2	13	12	1	yes	2	no	0	3	1	0	0	12	no	1	1	12
+24	5	5	2	malaysia	2	2	16	15	1	yes	1	yes	1	4	1	0	4	8	no	0	1	8
+24	5	5	2	malaysia	2	2	17	16	2	no	2	no	1	5	2	0	10	2	yes	0	1	10
+24	5	5	2	malaysia	2	2	19	19	2	no	1	yes	0	5	2	0	8	4	yes	1	1	8
+24	5	5	2	malaysia	2	2	20	20	2	no	2	no	1	5	2	0	12	0	yes	0	1	12
+24	5	5	2	malaysia	2	2	21	21	1	yes	1	yes	1	5	1	0	2	10	no	0	1	10
+24	5	5	2	malaysia	2	2	24	24	1	yes	2	no	0	3	1	0	4	8	no	1	1	8
+25	5	4	2	Canada	2	1	1	3	2	no	1	yes	0	4	1	1	10	2	yes	1	1	10
+25	5	4	2	Canada	2	1	5	2	1	yes	2	no	0	3	2	1	2	10	no	1	1	10
+25	5	4	2	Canada	2	1	6	4	2	no	2	no	1	3	2	0	12	0	yes	0	1	12
+25	5	4	2	Canada	2	1	7	5	2	no	1	yes	0	3	2	0	8	4	yes	1	1	8
+25	5	4	2	Canada	2	1	10	9	2	no	1	yes	0	3	2	0	10	2	yes	1	1	10
+25	5	4	2	Canada	2	1	14	13	1	yes	1	yes	1	2	2	1	2	10	no	0	1	10
+25	5	4	2	Canada	2	1	15	14	2	no	2	no	1	3	2	0	8	4	yes	0	1	8
+25	5	4	2	Canada	2	1	16	15	2	no	1	yes	0	3	1	1	12	0	yes	1	1	12
+25	5	4	2	Canada	2	1	17	16	2	no	2	no	1	2	2	0	12	0	yes	0	1	12
+25	5	4	2	Canada	2	1	20	20	1	yes	2	no	0	3	1	0	2	10	no	1	1	10
+25	5	4	2	Canada	2	1	21	21	1	yes	1	yes	1	3	1	0	0	12	no	0	1	12
+26	5	4	1		2	1	4	1	1	yes	1	yes	1	5	1	0	0	12	no	0	1	12
+26	5	4	1		2	1	6	4	2	no	2	no	1	1	1	1	8	4	yes	0	1	8
+26	5	4	1		2	1	8	6	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+26	5	4	1		2	1	10	9	1	yes	1	yes	1	2	1	0	2	10	no	0	1	10
+26	5	4	1		2	1	13	12	2	no	2	no	1	1	1	1	12	0	yes	0	1	12
+26	5	4	1		2	1	17	16	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+26	5	4	1		2	1	22	22	2	no	2	no	1	4	2	0	8	4	yes	0	1	8
+27	5	4	1		1	1	5	2	2	no	2	no	1	6	1	1	12	0	yes	0	1	12
+27	5	4	1		1	1	6	4	2	no	2	no	1	4	2	0	10	2	yes	0	1	10
+27	5	4	1		1	1	7	5	1	yes	1	yes	1	6	1	0	2	10	no	0	1	10
+27	5	4	1		1	1	8	6	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+27	5	4	1		1	1	11	10	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+27	5	4	1		1	1	18	17	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+27	5	4	1		1	1	21	21	1	yes	1	yes	1	6	1	0	2	10	no	0	1	10
+27	5	4	1		1	1	22	22	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+28	5	6	2	Hungary	2	2	1	3	2	no	1	yes	0	0	1	1	10	2	yes	1	1	10
+28	5	6	2	Hungary	2	2	2	8	1	yes	2	no	0	4	1	0	0	12	no	1	1	12
+28	5	6	2	Hungary	2	2	3	18	1	yes	2	no	0	4	1	0	4	8	no	1	1	8
+28	5	6	2	Hungary	2	2	5	2	1	yes	2	no	0	4	1	0	4	8	no	1	1	8
+28	5	6	2	Hungary	2	2	6	4	1	yes	2	no	0	4	1	0	2	10	no	1	1	10
+28	5	6	2	Hungary	2	2	10	9	1	yes	1	yes	1	5	1	0	4	8	no	0	1	8
+28	5	6	2	Hungary	2	2	12	11	1	yes	1	yes	1	4	1	0	4	8	no	0	1	8
+28	5	6	2	Hungary	2	2	16	15	1	yes	1	yes	1	1	2	1	2	10	no	0	1	10
+28	5	6	2	Hungary	2	2	17	16	2	no	2	no	1	4	2	0	12	0	yes	0	1	12
+28	5	6	2	Hungary	2	2	19	19	1	yes	1	yes	1	1	2	1	0	12	no	0	1	12
+28	5	6	2	Hungary	2	2	21	21	1	yes	1	yes	1	4	1	0	4	8	no	0	1	8
+28	5	6	2	Hungary	2	2	22	22	2	no	2	no	1	4	2	0	8	4	yes	0	1	8
+28	5	6	2	Hungary	2	2	23	23	2	no	1	yes	0	4	2	0	8	4	yes	1	1	8
+29	5	6	2	Hungary	2	2	2	8	1	yes	2	no	0	2	2	1	0	12	no	1	1	12
+29	5	6	2	Hungary	2	2	4	1	1	yes	1	yes	1	4	1	0	2	10	no	0	1	10
+29	5	6	2	Hungary	2	2	6	4	1	yes	2	no	0	2	1	0	0	12	no	1	1	12
+29	5	6	2	Hungary	2	2	10	9	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+29	5	6	2	Hungary	2	2	11	10	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+29	5	6	2	Hungary	2	2	12	11	1	yes	1	yes	1	6	1	0	2	10	no	0	1	10
+29	5	6	2	Hungary	2	2	14	13	1	yes	1	yes	1	1	1	0	4	8	no	0	1	8
+29	5	6	2	Hungary	2	2	15	14	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+29	5	6	2	Hungary	2	2	17	16	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+29	5	6	2	Hungary	2	2	24	24	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+30	5	4	1		2	2	4	1	1	yes	1	yes	1	5	1	0	2	10	no	0	1	10
+30	5	4	1		2	2	7	5	1	yes	1	yes	1	5	1	0	0	12	no	0	1	12
+30	5	4	1		2	2	9	7	2	no	1	yes	0	4	2	0	8	4	yes	1	1	8
+30	5	4	1		2	2	12	11	1	yes	1	yes	1	4	1	0	4	8	no	0	1	8
+30	5	4	1		2	2	13	12	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+30	5	4	1		2	2	15	14	2	no	2	no	1	5	2	0	12	0	yes	0	1	12
+30	5	4	1		2	2	19	19	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+30	5	4	1		2	2	24	24	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+31	5	4	2	United States	1	2	3	18	1	yes	2	no	0	4	1	0	4	8	no	1	1	8
+31	5	4	2	United States	1	2	5	2	2	no	2	no	1	5	2	0	8	4	yes	0	1	8
+31	5	4	2	United States	1	2	6	4	2	no	2	no	1	4	2	0	8	4	yes	0	1	8
+31	5	4	2	United States	1	2	9	7	2	no	1	yes	0	4	2	0	10	2	yes	1	1	10
+31	5	4	2	United States	1	2	11	10	2	no	2	no	1	4	1	1	12	0	yes	0	1	12
+31	5	4	2	United States	1	2	12	11	1	yes	1	yes	1	5	1	0	0	12	no	0	1	12
+31	5	4	2	United States	1	2	14	13	1	yes	1	yes	1	6	1	0	0	12	no	0	1	12
+31	5	4	2	United States	1	2	15	14	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+31	5	4	2	United States	1	2	16	15	1	yes	1	yes	1	4	1	0	4	8	no	0	1	8
+31	5	4	2	United States	1	2	17	16	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+31	5	4	2	United States	1	2	18	17	1	yes	1	yes	1	4	1	0	0	12	no	0	1	12
+31	5	4	2	United States	1	2	19	19	2	no	1	yes	0	4	2	0	8	4	yes	1	1	8
+31	5	4	2	United States	1	2	20	20	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+31	5	4	2	United States	1	2	21	21	1	yes	1	yes	1	6	2	1	0	12	no	0	1	12
+31	5	4	2	United States	1	2	22	22	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+31	5	4	2	United States	1	2	24	24	2	no	2	no	1	4	2	0	8	4	yes	0	1	8
+32	5	6	2	Denmark	2	1	4	1	1	yes	1	yes	1	4	1	0	4	8	no	0	1	8
+32	5	6	2	Denmark	2	1	5	2	2	no	2	no	1	3	1	1	12	0	yes	0	1	12
+32	5	6	2	Denmark	2	1	8	6	2	no	2	no	1	4	2	0	12	0	yes	0	1	12
+32	5	6	2	Denmark	2	1	9	7	1	yes	1	yes	1	2	2	1	0	12	no	0	1	12
+32	5	6	2	Denmark	2	1	10	9	1	yes	1	yes	1	4	2	1	0	12	no	0	1	12
+32	5	6	2	Denmark	2	1	12	11	1	yes	1	yes	1	3	2	1	2	10	no	0	1	10
+32	5	6	2	Denmark	2	1	15	14	2	no	2	no	1	4	2	0	10	2	yes	0	1	10
+32	5	6	2	Denmark	2	1	16	15	1	yes	1	yes	1	3	2	1	2	10	no	0	1	10
+32	5	6	2	Denmark	2	1	18	17	1	yes	1	yes	1	4	1	0	2	10	no	0	1	10
+32	5	6	2	Denmark	2	1	20	20	2	no	2	no	1	3	2	0	8	4	yes	0	1	8
+32	5	6	2	Denmark	2	1	22	22	2	no	2	no	1	4	2	0	10	2	yes	0	1	10
+33	5	6	2	Czech Republic	2	2	3	18	1	yes	2	no	0	5	1	0	4	8	no	1	1	8
+33	5	6	2	Czech Republic	2	2	4	1	1	yes	1	yes	1	5	1	0	0	12	no	0	1	12
+33	5	6	2	Czech Republic	2	2	6	4	2	no	2	no	1	5	2	0	12	0	yes	0	1	12
+33	5	6	2	Czech Republic	2	2	7	5	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+33	5	6	2	Czech Republic	2	2	9	7	1	yes	1	yes	1	4	1	0	4	8	no	0	1	8
+33	5	6	2	Czech Republic	2	2	10	9	1	yes	1	yes	1	4	1	0	2	10	no	0	1	10
+33	5	6	2	Czech Republic	2	2	11	10	2	no	2	no	1	3	1	1	10	2	yes	0	1	10
+33	5	6	2	Czech Republic	2	2	13	12	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+33	5	6	2	Czech Republic	2	2	17	16	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+33	5	6	2	Czech Republic	2	2	18	17	2	no	1	yes	0	6	2	0	10	2	yes	1	1	10
+33	5	6	2	Czech Republic	2	2	19	19	1	yes	1	yes	1	5	1	0	2	10	no	0	1	10
+33	5	6	2	Czech Republic	2	2	22	22	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+34	5	6	2	Indonesia	1	1	6	4	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+34	5	6	2	Indonesia	1	1	7	5	1	yes	1	yes	1	6	1	0	2	10	no	0	1	10
+34	5	6	2	Indonesia	1	1	8	6	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+34	5	6	2	Indonesia	1	1	12	11	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+34	5	6	2	Indonesia	1	1	14	13	1	yes	1	yes	1	5	1	0	0	12	no	0	1	12
+34	5	6	2	Indonesia	1	1	15	14	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+34	5	6	2	Indonesia	1	1	18	17	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+34	5	6	2	Indonesia	1	1	19	19	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+34	5	6	2	Indonesia	1	1	21	21	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+34	5	6	2	Indonesia	1	1	24	24	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+35	5	4	2	China	2	2	4	1	2	no	1	yes	0	4	2	0	10	2	yes	1	1	10
+35	5	4	2	China	2	2	11	10	1	yes	2	no	0	2	2	1	2	10	no	1	1	10
+35	5	4	2	China	2	2	13	12	2	no	2	no	1	1	1	1	10	2	yes	0	1	10
+35	5	4	2	China	2	2	14	13	1	yes	1	yes	1	3	2	1	2	10	no	0	1	10
+35	5	4	2	China	2	2	15	14	1	yes	2	no	0	2	2	1	0	12	no	1	1	12
+35	5	4	2	China	2	2	19	19	1	yes	1	yes	1	3	2	1	0	12	no	0	1	12
+35	5	4	2	China	2	2	22	22	2	no	2	no	1	5	1	1	10	2	yes	0	1	10
+35	5	4	2	China	2	2	24	24	2	no	2	no	1	2	1	1	12	0	yes	0	1	12
+36	5	5	1		2	1	7	5	1	yes	1	yes	1	4	2	1	0	12	no	0	1	12
+36	5	5	1		2	1	8	6	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+36	5	5	1		2	1	11	10	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+36	5	5	1		2	1	12	11	1	yes	1	yes	1	6	1	0	0	12	no	0	1	12
+36	5	5	1		2	1	13	12	2	no	2	no	1	3	1	1	10	2	yes	0	1	10
+36	5	5	1		2	1	20	20	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+36	5	5	1		2	1	22	22	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+37	5	6	2		2	2	1	3	2	no	1	yes	0	6	2	0	10	2	yes	1	1	10
+37	5	6	2		2	2	3	18	1	yes	2	no	0	5	1	0	4	8	no	1	1	8
+37	5	6	2		2	2	4	1	2	no	1	yes	0	5	2	0	12	0	yes	1	1	12
+37	5	6	2		2	2	8	6	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+37	5	6	2		2	2	11	10	2	no	2	no	1	4	2	0	8	4	yes	0	1	8
+37	5	6	2		2	2	13	12	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+37	5	6	2		2	2	14	13	1	yes	1	yes	1	3	1	0	4	8	no	0	1	8
+37	5	6	2		2	2	16	15	1	yes	1	yes	1	1	1	0	0	12	no	0	1	12
+38	5	4	2	Trinidad and Tobago	2	1	2	8	1	yes	2	no	0	2	1	0	0	12	no	1	1	12
+38	5	4	2	Trinidad and Tobago	2	1	3	18	1	yes	2	no	0	3	1	0	4	8	no	1	1	8
+38	5	4	2	Trinidad and Tobago	2	1	4	1	1	yes	1	yes	1	3	2	1	2	10	no	0	1	10
+38	5	4	2	Trinidad and Tobago	2	1	6	4	2	no	2	no	1	4	2	0	12	0	yes	0	1	12
+38	5	4	2	Trinidad and Tobago	2	1	7	5	2	no	1	yes	0	3	2	0	12	0	yes	1	1	12
+38	5	4	2	Trinidad and Tobago	2	1	9	7	1	yes	1	yes	1	3	1	0	2	10	no	0	1	10
+38	5	4	2	Trinidad and Tobago	2	1	11	10	1	yes	2	no	0	3	1	0	4	8	no	1	1	8
+38	5	4	2	Trinidad and Tobago	2	1	12	11	1	yes	1	yes	1	3	1	0	2	10	no	0	1	10
+38	5	4	2	Trinidad and Tobago	2	1	16	15	1	yes	1	yes	1	3	1	0	0	12	no	0	1	12
+38	5	4	2	Trinidad and Tobago	2	1	17	16	2	no	2	no	1	5	2	0	10	2	yes	0	1	10
+38	5	4	2	Trinidad and Tobago	2	1	18	17	1	yes	1	yes	1	1	2	1	2	10	no	0	1	10
+38	5	4	2	Trinidad and Tobago	2	1	19	19	1	yes	1	yes	1	4	1	0	2	10	no	0	1	10
+38	5	4	2	Trinidad and Tobago	2	1	20	20	2	no	2	no	1	5	2	0	12	0	yes	0	1	12
+38	5	4	2	Trinidad and Tobago	2	1	21	21	1	yes	1	yes	1	3	1	0	4	8	no	0	1	8
+38	5	4	2	Trinidad and Tobago	2	1	23	23	2	no	1	yes	0	6	2	0	10	2	yes	1	1	10
+38	5	4	2	Trinidad and Tobago	2	1	24	24	1	yes	2	no	0	3	1	0	4	8	no	1	1	8
+39	5	6	2	CHINA	1	2	5	2	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+39	5	6	2	CHINA	1	2	6	4	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+39	5	6	2	CHINA	1	2	7	5	1	yes	1	yes	1	6	1	0	0	12	no	0	1	12
+39	5	6	2	CHINA	1	2	10	9	1	yes	1	yes	1	6	1	0	2	10	no	0	1	10
+39	5	6	2	CHINA	1	2	14	13	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+39	5	6	2	CHINA	1	2	17	16	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+39	5	6	2	CHINA	1	2	19	19	1	yes	1	yes	1	6	1	0	0	12	no	0	1	12
+39	5	6	2	CHINA	1	2	21	21	1	yes	1	yes	1	6	1	0	2	10	no	0	1	10
+39	5	6	2	CHINA	1	2	22	22	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+39	5	6	2	CHINA	1	2	23	23	1	yes	1	yes	1	5	1	0	2	10	no	0	1	10
+40	5	4	1		2	2	3	18	1	yes	2	no	0	4	1	0	4	8	no	1	1	8
+40	5	4	1		2	2	11	10	2	no	2	no	1	2	2	0	10	2	yes	0	1	10
+40	5	4	1		2	2	12	11	1	yes	1	yes	1	3	1	0	4	8	no	0	1	8
+40	5	4	1		2	2	15	14	2	no	2	no	1	2	2	0	8	4	yes	0	1	8
+40	5	4	1		2	2	17	16	2	no	2	no	1	2	2	0	8	4	yes	0	1	8
+40	5	4	1		2	2	20	20	1	yes	2	no	0	2	1	0	2	10	no	1	1	10
+40	5	4	1		2	2	23	23	1	yes	1	yes	1	3	1	0	4	8	no	0	1	8
+41	5	4	2	Canada	2	1	5	2	1	yes	2	no	0	4	1	0	0	12	no	1	1	12
+41	5	4	2	Canada	2	1	8	6	2	no	2	no	1	5	2	0	10	2	yes	0	1	10
+41	5	4	2	Canada	2	1	11	10	1	yes	2	no	0	4	1	0	2	10	no	1	1	10
+41	5	4	2	Canada	2	1	16	15	1	yes	1	yes	1	3	1	0	4	8	no	0	1	8
+41	5	4	2	Canada	2	1	18	17	1	yes	1	yes	1	2	2	1	4	8	no	0	1	8
+41	5	4	2	Canada	2	1	19	19	1	yes	1	yes	1	3	1	0	4	8	no	0	1	8
+41	5	4	2	Canada	2	1	21	21	2	no	1	yes	0	4	2	0	12	0	yes	1	1	12
+41	5	4	2	Canada	2	1	22	22	1	yes	2	no	0	4	1	0	2	10	no	1	1	10
+41	5	4	2	Canada	2	1	24	24	2	no	2	no	1	3	1	1	10	2	yes	0	1	10
+42	5	5	2	Hong Kong	2	1	2	8	1	yes	2	no	0	3	1	0	0	12	no	1	1	12
+42	5	5	2	Hong Kong	2	1	3	18	1	yes	2	no	0	3	1	0	4	8	no	1	1	8
+42	5	5	2	Hong Kong	2	1	4	1	1	yes	1	yes	1	4	1	0	0	12	no	0	1	12
+42	5	5	2	Hong Kong	2	1	5	2	2	no	2	no	1	3	2	0	8	4	yes	0	1	8
+42	5	5	2	Hong Kong	2	1	6	4	2	no	2	no	1	4	2	0	10	2	yes	0	1	10
+42	5	5	2	Hong Kong	2	1	7	5	1	yes	1	yes	1	5	1	0	2	10	no	0	1	10
+42	5	5	2	Hong Kong	2	1	8	6	2	no	2	no	1	5	2	0	12	0	yes	0	1	12
+42	5	5	2	Hong Kong	2	1	10	9	1	yes	1	yes	1	5	1	0	0	12	no	0	1	12
+42	5	5	2	Hong Kong	2	1	11	10	2	no	2	no	1	5	2	0	12	0	yes	0	1	12
+42	5	5	2	Hong Kong	2	1	14	13	1	yes	1	yes	1	5	1	0	4	8	no	0	1	8
+42	5	5	2	Hong Kong	2	1	15	14	2	no	2	no	1	4	2	0	10	2	yes	0	1	10
+42	5	5	2	Hong Kong	2	1	17	16	2	no	2	no	1	5	2	0	10	2	yes	0	1	10
+42	5	5	2	Hong Kong	2	1	18	17	1	yes	1	yes	1	4	1	0	0	12	no	0	1	12
+42	5	5	2	Hong Kong	2	1	20	20	2	no	2	no	1	4	2	0	8	4	yes	0	1	8
+42	5	5	2	Hong Kong	2	1	22	22	1	yes	2	no	0	3	2	1	4	8	no	1	1	8
+42	5	5	2	Hong Kong	2	1	24	24	2	no	2	no	1	4	2	0	12	0	yes	0	1	12
+43	5	6	2	Greece	2	2	3	18	1	yes	2	no	0	4	2	1	4	8	no	1	1	8
+43	5	6	2	Greece	2	2	4	1	1	yes	1	yes	1	5	1	0	2	10	no	0	1	10
+43	5	6	2	Greece	2	2	5	2	2	no	2	no	1	4	2	0	10	2	yes	0	1	10
+43	5	6	2	Greece	2	2	7	5	1	yes	1	yes	1	5	1	0	4	8	no	0	1	8
+43	5	6	2	Greece	2	2	8	6	1	yes	2	no	0	6	1	0	2	10	no	1	1	10
+43	5	6	2	Greece	2	2	10	9	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+43	5	6	2	Greece	2	2	11	10	1	yes	2	no	0	2	2	1	4	8	no	1	1	8
+43	5	6	2	Greece	2	2	13	12	1	yes	2	no	0	2	2	1	4	8	no	1	1	8
+43	5	6	2	Greece	2	2	15	14	2	no	2	no	1	5	2	0	12	0	yes	0	1	12
+43	5	6	2	Greece	2	2	16	15	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+43	5	6	2	Greece	2	2	17	16	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+43	5	6	2	Greece	2	2	18	17	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+43	5	6	2	Greece	2	2	19	19	1	yes	1	yes	1	6	1	0	0	12	no	0	1	12
+43	5	6	2	Greece	2	2	20	20	2	no	2	no	1	4	2	0	8	4	yes	0	1	8
+43	5	6	2	Greece	2	2	21	21	1	yes	1	yes	1	6	1	0	2	10	no	0	1	10
+43	5	6	2	Greece	2	2	22	22	2	no	2	no	1	5	2	0	12	0	yes	0	1	12
+44	5	4	1		1	1	4	1	1	yes	1	yes	1	4	2	1	4	8	no	0	1	8
+44	5	4	1		1	1	5	2	1	yes	2	no	0	2	2	1	4	8	no	1	1	8
+44	5	4	1		1	1	8	6	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+44	5	4	1		1	1	9	7	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+44	5	4	1		1	1	12	11	1	yes	1	yes	1	5	1	0	2	10	no	0	1	10
+44	5	4	1		1	1	13	12	1	yes	2	no	0	4	2	1	2	10	no	1	1	10
+44	5	4	1		1	1	15	14	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+44	5	4	1		1	1	17	16	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+44	5	4	1		1	1	18	17	1	yes	1	yes	1	5	1	0	2	10	no	0	1	10
+44	5	4	1		1	1	21	21	1	yes	1	yes	1	6	1	0	0	12	no	0	1	12
+44	5	4	1		1	1	23	23	2	no	1	yes	0	6	2	0	10	2	yes	1	1	10
+45	5	4	1		2	2	5	2	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+45	5	4	1		2	2	6	4	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+45	5	4	1		2	2	7	5	1	yes	1	yes	1	6	1	0	0	12	no	0	1	12
+45	5	4	1		2	2	8	6	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+45	5	4	1		2	2	9	7	2	no	1	yes	0	6	2	0	12	0	yes	1	1	12
+45	5	4	1		2	2	10	9	1	yes	1	yes	1	6	1	0	0	12	no	0	1	12
+45	5	4	1		2	2	13	12	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+45	5	4	1		2	2	18	17	2	no	1	yes	0	6	2	0	12	0	yes	1	1	12
+45	5	4	1		2	2	22	22	2	no	2	no	1	5	2	0	10	2	yes	0	1	10
+46	5	5	2	India	2	1	2	8	1	yes	2	no	0	2	2	1	0	12	no	1	1	12
+46	5	5	2	India	2	1	4	1	1	yes	1	yes	1	2	1	0	2	10	no	0	1	10
+46	5	5	2	India	2	1	6	4	2	no	2	no	1	5	2	0	8	4	yes	0	1	8
+46	5	5	2	India	2	1	8	6	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+46	5	5	2	India	2	1	9	7	1	yes	1	yes	1	5	1	0	0	12	no	0	1	12
+46	5	5	2	India	2	1	11	10	2	no	2	no	1	1	1	1	10	2	yes	0	1	10
+46	5	5	2	India	2	1	13	12	2	no	2	no	1	2	2	0	8	4	yes	0	1	8
+46	5	5	2	India	2	1	15	14	2	no	2	no	1	5	2	0	10	2	yes	0	1	10
+46	5	5	2	India	2	1	16	15	1	yes	1	yes	1	5	1	0	0	12	no	0	1	12
+46	5	5	2	India	2	1	17	16	2	no	2	no	1	5	2	0	12	0	yes	0	1	12
+46	5	5	2	India	2	1	18	17	1	yes	1	yes	1	6	1	0	0	12	no	0	1	12
+46	5	5	2	India	2	1	19	19	1	yes	1	yes	1	4	1	0	4	8	no	0	1	8
+46	5	5	2	India	2	1	24	24	2	no	2	no	1	4	2	0	8	4	yes	0	1	8
+47	5	5	2	Malaysia	1	1	2	8	1	yes	2	no	0	4	2	1	0	12	no	1	1	12
+47	5	5	2	Malaysia	1	1	9	7	2	no	1	yes	0	3	2	0	10	2	yes	1	1	10
+47	5	5	2	Malaysia	1	1	10	9	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+47	5	5	2	Malaysia	1	1	11	10	2	no	2	no	1	4	2	0	12	0	yes	0	1	12
+47	5	5	2	Malaysia	1	1	13	12	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+47	5	5	2	Malaysia	1	1	14	13	1	yes	1	yes	1	6	1	0	0	12	no	0	1	12
+47	5	5	2	Malaysia	1	1	15	14	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+47	5	5	2	Malaysia	1	1	16	15	1	yes	1	yes	1	5	1	0	2	10	no	0	1	10
+47	5	5	2	Malaysia	1	1	19	19	1	yes	1	yes	1	6	1	0	2	10	no	0	1	10
+47	5	5	2	Malaysia	1	1	20	20	2	no	2	no	1	4	2	0	10	2	yes	0	1	10
+47	5	5	2	Malaysia	1	1	21	21	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+47	5	5	2	Malaysia	1	1	22	22	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+47	5	5	2	Malaysia	1	1	23	23	2	no	1	yes	0	6	2	0	12	0	yes	1	1	12
+47	5	5	2	Malaysia	1	1	24	24	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+48	5	4	2	Zimbabwe	2	2	1	3	2	no	1	yes	0	5	1	1	10	2	yes	1	1	10
+48	5	4	2	Zimbabwe	2	2	2	8	1	yes	2	no	0	3	2	1	0	12	no	1	1	12
+48	5	4	2	Zimbabwe	2	2	3	18	1	yes	2	no	0	3	2	1	4	8	no	1	1	8
+48	5	4	2	Zimbabwe	2	2	4	1	1	yes	1	yes	1	4	2	1	0	12	no	0	1	12
+48	5	4	2	Zimbabwe	2	2	5	2	1	yes	2	no	0	3	2	1	0	12	no	1	1	12
+48	5	4	2	Zimbabwe	2	2	6	4	2	no	2	no	1	4	1	1	12	0	yes	0	1	12
+48	5	4	2	Zimbabwe	2	2	7	5	1	yes	1	yes	1	5	1	0	4	8	no	0	1	8
+48	5	4	2	Zimbabwe	2	2	9	7	1	yes	1	yes	1	4	1	0	2	10	no	0	1	10
+48	5	4	2	Zimbabwe	2	2	10	9	1	yes	1	yes	1	4	1	0	2	10	no	0	1	10
+48	5	4	2	Zimbabwe	2	2	11	10	2	no	2	no	1	5	2	0	8	4	yes	0	1	8
+48	5	4	2	Zimbabwe	2	2	12	11	1	yes	1	yes	1	4	1	0	4	8	no	0	1	8
+48	5	4	2	Zimbabwe	2	2	13	12	1	yes	2	no	0	5	1	0	0	12	no	1	1	12
+48	5	4	2	Zimbabwe	2	2	14	13	1	yes	1	yes	1	3	2	1	2	10	no	0	1	10
+48	5	4	2	Zimbabwe	2	2	18	17	2	no	1	yes	0	6	2	0	8	4	yes	1	1	8
+48	5	4	2	Zimbabwe	2	2	21	21	2	no	1	yes	0	3	1	1	10	2	yes	1	1	10
+48	5	4	2	Zimbabwe	2	2	22	22	1	yes	2	no	0	3	2	1	2	10	no	1	1	10
+49	5	6	2	China	2	2	2	8	1	yes	2	no	0	4	1	0	0	12	no	1	1	12
+49	5	6	2	China	2	2	4	1	1	yes	1	yes	1	2	1	0	0	12	no	0	1	12
+49	5	6	2	China	2	2	5	2	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+49	5	6	2	China	2	2	7	5	1	yes	1	yes	1	3	1	0	4	8	no	0	1	8
+49	5	6	2	China	2	2	8	6	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+49	5	6	2	China	2	2	9	7	1	yes	1	yes	1	4	1	0	2	10	no	0	1	10
+49	5	6	2	China	2	2	11	10	2	no	2	no	1	4	2	0	10	2	yes	0	1	10
+49	5	6	2	China	2	2	12	11	1	yes	1	yes	1	4	1	0	4	8	no	0	1	8
+49	5	6	2	China	2	2	14	13	1	yes	1	yes	1	4	1	0	2	10	no	0	1	10
+49	5	6	2	China	2	2	15	14	2	no	2	no	1	5	2	0	12	0	yes	0	1	12
+49	5	6	2	China	2	2	16	15	1	yes	1	yes	1	2	1	0	4	8	no	0	1	8
+49	5	6	2	China	2	2	17	16	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+49	5	6	2	China	2	2	22	22	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+49	5	6	2	China	2	2	24	24	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+50	5	5	2	Hong Kong	1	1	3	18	1	yes	2	no	0	3	1	0	4	8	no	1	1	8
+50	5	5	2	Hong Kong	1	1	6	4	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+50	5	5	2	Hong Kong	1	1	9	7	1	yes	1	yes	1	4	1	0	0	12	no	0	1	12
+50	5	5	2	Hong Kong	1	1	16	15	1	yes	1	yes	1	3	1	0	2	10	no	0	1	10
+50	5	5	2	Hong Kong	1	1	18	17	1	yes	1	yes	1	5	1	0	4	8	no	0	1	8
+50	5	5	2	Hong Kong	1	1	19	19	2	no	1	yes	0	4	2	0	8	4	yes	1	1	8
+50	5	5	2	Hong Kong	1	1	21	21	1	yes	1	yes	1	4	1	0	0	12	no	0	1	12
+50	5	5	2	Hong Kong	1	1	22	22	2	no	2	no	1	4	2	0	12	0	yes	0	1	12
+50	5	5	2	Hong Kong	1	1	23	23	2	no	1	yes	0	5	2	0	12	0	yes	1	1	12
+51	5	6	2	Lithuania	1	1	3	18	1	yes	2	no	0	6	1	0	4	8	no	1	1	8
+51	5	6	2	Lithuania	1	1	5	2	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+51	5	6	2	Lithuania	1	1	7	5	1	yes	1	yes	1	6	1	0	2	10	no	0	1	10
+51	5	6	2	Lithuania	1	1	8	6	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+51	5	6	2	Lithuania	1	1	9	7	1	yes	1	yes	1	5	1	0	4	8	no	0	1	8
+51	5	6	2	Lithuania	1	1	10	9	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+51	5	6	2	Lithuania	1	1	12	11	1	yes	1	yes	1	4	1	0	2	10	no	0	1	10
+51	5	6	2	Lithuania	1	1	14	13	1	yes	1	yes	1	3	1	0	0	12	no	0	1	12
+51	5	6	2	Lithuania	1	1	17	16	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+51	5	6	2	Lithuania	1	1	18	17	1	yes	1	yes	1	1	1	0	2	10	no	0	1	10
+51	5	6	2	Lithuania	1	1	20	20	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+52	5	6	2	Lithuania	2	2	1	3	2	no	1	yes	0	1	2	0	10	2	yes	1	1	10
+52	5	6	2	Lithuania	2	2	2	8	1	yes	2	no	0	0	1	0	0	12	no	1	1	12
+52	5	6	2	Lithuania	2	2	4	1	2	no	1	yes	0	0	2	0	10	2	yes	1	1	10
+52	5	6	2	Lithuania	2	2	6	4	1	yes	2	no	0	0	1	0	2	10	no	1	1	10
+52	5	6	2	Lithuania	2	2	7	5	2	no	1	yes	0	0	2	0	12	0	yes	1	1	12
+52	5	6	2	Lithuania	2	2	8	6	1	yes	2	no	0	0	1	0	0	12	no	1	1	12
+52	5	6	2	Lithuania	2	2	9	7	2	no	1	yes	0	0	2	0	8	4	yes	1	1	8
+52	5	6	2	Lithuania	2	2	10	9	1	yes	1	yes	1	0	1	0	2	10	no	0	1	10
+52	5	6	2	Lithuania	2	2	11	10	2	no	2	no	1	0	2	0	8	4	yes	0	1	8
+52	5	6	2	Lithuania	2	2	12	11	1	yes	1	yes	1	0	1	0	0	12	no	0	1	12
+52	5	6	2	Lithuania	2	2	16	15	2	no	1	yes	0	0	2	0	12	0	yes	1	1	12
+52	5	6	2	Lithuania	2	2	17	16	1	yes	2	no	0	0	1	0	0	12	no	1	1	12
+52	5	6	2	Lithuania	2	2	21	21	1	yes	1	yes	1	0	1	0	4	8	no	0	1	8
+52	5	6	2	Lithuania	2	2	24	24	2	no	2	no	1	0	2	0	8	4	yes	0	1	8
+53	5	6	2	China	2	1	4	1	1	yes	1	yes	1	4	1	0	2	10	no	0	1	10
+53	5	6	2	China	2	1	8	6	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+53	5	6	2	China	2	1	9	7	2	no	1	yes	0	2	2	0	10	2	yes	1	1	10
+53	5	6	2	China	2	1	10	9	1	yes	1	yes	1	5	1	0	2	10	no	0	1	10
+53	5	6	2	China	2	1	13	12	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+53	5	6	2	China	2	1	14	13	2	no	1	yes	0	2	1	1	12	0	yes	1	1	12
+53	5	6	2	China	2	1	15	14	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+53	5	6	2	China	2	1	18	17	1	yes	1	yes	1	5	1	0	0	12	no	0	1	12
+53	5	6	2	China	2	1	19	19	1	yes	1	yes	1	5	1	0	2	10	no	0	1	10
+53	5	6	2	China	2	1	21	21	1	yes	1	yes	1	4	1	0	4	8	no	0	1	8
+54	5	4	1		2	2	6	4	2	no	2	no	1	5	2	0	8	4	yes	0	1	8
+54	5	4	1		2	2	8	6	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+54	5	4	1		2	2	10	9	1	yes	1	yes	1	6	1	0	0	12	no	0	1	12
+54	5	4	1		2	2	11	10	2	no	2	no	1	5	1	1	12	0	yes	0	1	12
+54	5	4	1		2	2	12	11	2	no	1	yes	0	6	2	0	10	2	yes	1	1	10
+54	5	4	1		2	2	13	12	2	no	2	no	1	4	2	0	10	2	yes	0	1	10
+54	5	4	1		2	2	16	15	1	yes	1	yes	1	5	1	0	0	12	no	0	1	12
+54	5	4	1		2	2	17	16	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+54	5	4	1		2	2	19	19	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+54	5	4	1		2	2	20	20	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+54	5	4	1		2	2	22	22	2	no	2	no	1	2	1	1	10	2	yes	0	1	10
+54	5	4	1		2	2	23	23	1	yes	1	yes	1	1	2	1	4	8	no	0	1	8
+54	5	4	1		2	2	24	24	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+55	5	4	1		2	2	2	8	1	yes	2	no	0	3	1	0	0	12	no	1	1	12
+55	5	4	1		2	2	4	1	1	yes	1	yes	1	4	1	0	4	8	no	0	1	8
+55	5	4	1		2	2	5	2	2	no	2	no	1	4	2	0	8	4	yes	0	1	8
+55	5	4	1		2	2	6	4	2	no	2	no	1	4	2	0	10	2	yes	0	1	10
+55	5	4	1		2	2	7	5	1	yes	1	yes	1	6	1	0	0	12	no	0	1	12
+55	5	4	1		2	2	11	10	2	no	2	no	1	4	2	0	8	4	yes	0	1	8
+55	5	4	1		2	2	12	11	2	no	1	yes	0	4	2	0	8	4	yes	1	1	8
+55	5	4	1		2	2	14	13	1	yes	1	yes	1	3	2	1	4	8	no	0	1	8
+55	5	4	1		2	2	16	15	2	no	1	yes	0	2	1	1	8	4	yes	1	1	8
+55	5	4	1		2	2	17	16	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+55	5	4	1		2	2	19	19	1	yes	1	yes	1	5	2	1	0	12	no	0	1	12
+55	5	4	1		2	2	24	24	2	no	2	no	1	5	2	0	12	0	yes	0	1	12
+56	5	6	2	China	2	1	4	1	1	yes	1	yes	1	4	1	0	2	10	no	0	1	10
+56	5	6	2	China	2	1	6	4	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+56	5	6	2	China	2	1	7	5	1	yes	1	yes	1	5	1	0	0	12	no	0	1	12
+56	5	6	2	China	2	1	8	6	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+56	5	6	2	China	2	1	9	7	1	yes	1	yes	1	5	1	0	2	10	no	0	1	10
+56	5	6	2	China	2	1	15	14	2	no	2	no	1	5	2	0	10	2	yes	0	1	10
+56	5	6	2	China	2	1	16	15	2	no	1	yes	0	5	2	0	8	4	yes	1	1	8
+56	5	6	2	China	2	1	17	16	2	no	2	no	1	5	2	0	12	0	yes	0	1	12
+56	5	6	2	China	2	1	20	20	2	no	2	no	1	5	2	0	8	4	yes	0	1	8
+57	5	4	2	United States of America	2	2	3	18	1	yes	2	no	0	4	1	0	4	8	no	1	1	8
+57	5	4	2	United States of America	2	2	5	2	2	no	2	no	1	2	1	1	10	2	yes	0	1	10
+57	5	4	2	United States of America	2	2	6	4	1	yes	2	no	0	4	1	0	0	12	no	1	1	12
+57	5	4	2	United States of America	2	2	9	7	1	yes	1	yes	1	4	2	1	0	12	no	0	1	12
+57	5	4	2	United States of America	2	2	10	9	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+57	5	4	2	United States of America	2	2	12	11	1	yes	1	yes	1	3	1	0	2	10	no	0	1	10
+57	5	4	2	United States of America	2	2	13	12	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+57	5	4	2	United States of America	2	2	15	14	2	no	2	no	1	4	2	0	12	0	yes	0	1	12
+57	5	4	2	United States of America	2	2	19	19	1	yes	1	yes	1	4	1	0	4	8	no	0	1	8
+57	5	4	2	United States of America	2	2	20	20	2	no	2	no	1	5	2	0	12	0	yes	0	1	12
+57	5	4	2	United States of America	2	2	22	22	2	no	2	no	1	4	2	0	8	4	yes	0	1	8
+58	5	5	2	Lithuania	2	1	4	1	1	yes	1	yes	1	1	2	1	4	8	no	0	1	8
+58	5	5	2	Lithuania	2	1	6	4	2	no	2	no	1	4	2	0	10	2	yes	0	1	10
+58	5	5	2	Lithuania	2	1	7	5	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+58	5	5	2	Lithuania	2	1	9	7	2	no	1	yes	0	3	2	0	10	2	yes	1	1	10
+58	5	5	2	Lithuania	2	1	12	11	1	yes	1	yes	1	2	2	1	0	12	no	0	1	12
+58	5	5	2	Lithuania	2	1	14	13	1	yes	1	yes	1	5	1	0	2	10	no	0	1	10
+58	5	5	2	Lithuania	2	1	15	14	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+58	5	5	2	Lithuania	2	1	16	15	1	yes	1	yes	1	4	1	0	2	10	no	0	1	10
+58	5	5	2	Lithuania	2	1	22	22	2	no	2	no	1	1	1	1	10	2	yes	0	1	10
+58	5	5	2	Lithuania	2	1	23	23	1	yes	1	yes	1	3	2	1	2	10	no	0	1	10
+59	5	4	1		2	2	6	4	2	no	2	no	1	4	2	0	8	4	yes	0	1	8
+59	5	4	1		2	2	7	5	2	no	1	yes	0	2	2	0	10	2	yes	1	1	10
+59	5	4	1		2	2	8	6	2	no	2	no	1	5	2	0	10	2	yes	0	1	10
+59	5	4	1		2	2	9	7	1	yes	1	yes	1	1	2	1	4	8	no	0	1	8
+59	5	4	1		2	2	13	12	2	no	2	no	1	2	2	0	8	4	yes	0	1	8
+59	5	4	1		2	2	14	13	1	yes	1	yes	1	2	2	1	2	10	no	0	1	10
+59	5	4	1		2	2	23	23	2	no	1	yes	0	1	1	1	8	4	yes	1	1	8
+60	5	4	1		2	2	2	8	1	yes	2	no	0	5	1	0	0	12	no	1	1	12
+60	5	4	1		2	2	5	2	2	no	2	no	1	4	2	0	10	2	yes	0	1	10
+60	5	4	1		2	2	9	7	1	yes	1	yes	1	4	1	0	0	12	no	0	1	12
+60	5	4	1		2	2	10	9	1	yes	1	yes	1	3	1	0	2	10	no	0	1	10
+60	5	4	1		2	2	13	12	2	no	2	no	1	0	1	1	10	2	yes	0	1	10
+60	5	4	1		2	2	14	13	1	yes	1	yes	1	4	1	0	0	12	no	0	1	12
+60	5	4	1		2	2	16	15	2	no	1	yes	0	3	2	0	8	4	yes	1	1	8
+60	5	4	1		2	2	19	19	1	yes	1	yes	1	4	1	0	0	12	no	0	1	12
+60	5	4	1		2	2	21	21	1	yes	1	yes	1	3	2	1	0	12	no	0	1	12
+60	5	4	1		2	2	22	22	1	yes	2	no	0	3	1	0	2	10	no	1	1	10
+60	5	4	1		2	2	24	24	2	no	2	no	1	3	1	1	10	2	yes	0	1	10
+61	5	4	1		1	1	7	5	1	yes	1	yes	1	5	1	0	2	10	no	0	1	10
+61	5	4	1		1	1	10	9	1	yes	1	yes	1	5	1	0	0	12	no	0	1	12
+61	5	4	1		1	1	11	10	2	no	2	no	1	5	2	0	12	0	yes	0	1	12
+61	5	4	1		1	1	12	11	1	yes	1	yes	1	5	1	0	4	8	no	0	1	8
+61	5	4	1		1	1	14	13	1	yes	1	yes	1	4	1	0	4	8	no	0	1	8
+61	5	4	1		1	1	15	14	2	no	2	no	1	5	2	0	10	2	yes	0	1	10
+61	5	4	1		1	1	16	15	1	yes	1	yes	1	5	1	0	0	12	no	0	1	12
+61	5	4	1		1	1	20	20	2	no	2	no	1	4	2	0	8	4	yes	0	1	8
+61	5	4	1		1	1	21	21	2	no	1	yes	0	4	2	0	8	4	yes	1	1	8
+61	5	4	1		1	1	23	23	1	yes	1	yes	1	5	1	0	0	12	no	0	1	12
+61	5	4	1		1	1	24	24	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+62	5	4	2	USA	2	2	4	1	1	yes	1	yes	1	4	1	0	0	12	no	0	1	12
+62	5	4	2	USA	2	2	5	2	2	no	2	no	1	4	2	0	8	4	yes	0	1	8
+62	5	4	2	USA	2	2	7	5	1	yes	1	yes	1	4	1	0	2	10	no	0	1	10
+62	5	4	2	USA	2	2	8	6	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+62	5	4	2	USA	2	2	10	9	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+62	5	4	2	USA	2	2	12	11	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+62	5	4	2	USA	2	2	16	15	1	yes	1	yes	1	5	1	0	2	10	no	0	1	10
+62	5	4	2	USA	2	2	17	16	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+62	5	4	2	USA	2	2	18	17	1	yes	1	yes	1	5	1	0	2	10	no	0	1	10
+62	5	4	2	USA	2	2	19	19	1	yes	1	yes	1	5	1	0	2	10	no	0	1	10
+62	5	4	2	USA	2	2	20	20	2	no	2	no	1	1	2	0	10	2	yes	0	1	10
+62	5	4	2	USA	2	2	21	21	1	yes	1	yes	1	6	1	0	2	10	no	0	1	10
+62	5	4	2	USA	2	2	24	24	2	no	2	no	1	5	2	0	12	0	yes	0	1	12
+63	5	4	2	USA	2	1	3	18	1	yes	2	no	0	3	1	0	4	8	no	1	1	8
+63	5	4	2	USA	2	1	4	1	2	no	1	yes	0	4	2	0	10	2	yes	1	1	10
+63	5	4	2	USA	2	1	5	2	1	yes	2	no	0	2	1	0	4	8	no	1	1	8
+63	5	4	2	USA	2	1	11	10	2	no	2	no	1	4	2	0	8	4	yes	0	1	8
+63	5	4	2	USA	2	1	14	13	2	no	1	yes	0	0	2	0	8	4	yes	1	1	8
+63	5	4	2	USA	2	1	15	14	2	no	2	no	1	4	2	0	12	0	yes	0	1	12
+63	5	4	2	USA	2	1	17	16	2	no	2	no	1	4	2	0	10	2	yes	0	1	10
+63	5	4	2	USA	2	1	18	17	1	yes	1	yes	1	3	1	0	0	12	no	0	1	12
+63	5	4	2	USA	2	1	19	19	1	yes	1	yes	1	3	1	0	0	12	no	0	1	12
+63	5	4	2	USA	2	1	20	20	2	no	2	no	1	0	1	1	8	4	yes	0	1	8
+63	5	4	2	USA	2	1	21	21	2	no	1	yes	0	0	2	0	8	4	yes	1	1	8
+63	5	4	2	USA	2	1	22	22	2	no	2	no	1	3	2	0	10	2	yes	0	1	10
+63	5	4	2	USA	2	1	24	24	2	no	2	no	1	4	2	0	10	2	yes	0	1	10
+64	5	5	2	Malaysia	1	1	5	2	2	no	2	no	1	2	1	1	12	0	yes	0	1	12
+64	5	5	2	Malaysia	1	1	6	4	1	yes	2	no	0	4	1	0	2	10	no	1	1	10
+64	5	5	2	Malaysia	1	1	7	5	1	yes	1	yes	1	5	1	0	4	8	no	0	1	8
+64	5	5	2	Malaysia	1	1	9	7	1	yes	1	yes	1	3	1	0	4	8	no	0	1	8
+64	5	5	2	Malaysia	1	1	10	9	1	yes	1	yes	1	6	1	0	0	12	no	0	1	12
+64	5	5	2	Malaysia	1	1	11	10	1	yes	2	no	0	4	1	0	2	10	no	1	1	10
+64	5	5	2	Malaysia	1	1	12	11	1	yes	1	yes	1	4	1	0	0	12	no	0	1	12
+64	5	5	2	Malaysia	1	1	13	12	2	no	2	no	1	5	2	0	12	0	yes	0	1	12
+64	5	5	2	Malaysia	1	1	16	15	1	yes	1	yes	1	5	1	0	0	12	no	0	1	12
+64	5	5	2	Malaysia	1	1	17	16	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+64	5	5	2	Malaysia	1	1	18	17	1	yes	1	yes	1	6	1	0	0	12	no	0	1	12
+64	5	5	2	Malaysia	1	1	19	19	2	no	1	yes	0	0	1	1	12	0	yes	1	1	12
+64	5	5	2	Malaysia	1	1	21	21	1	yes	1	yes	1	4	1	0	4	8	no	0	1	8
+64	5	5	2	Malaysia	1	1	22	22	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+64	5	5	2	Malaysia	1	1	23	23	1	yes	1	yes	1	4	1	0	4	8	no	0	1	8
+65	2	4	2	Australia	2	2	3	18	1	yes	2	no	0	1	2	1	4	8	no	1	1	8
+65	2	4	2	Australia	2	2	4	1	1	yes	1	yes	1	5	1	0	4	8	no	0	1	8
+65	2	4	2	Australia	2	2	5	2	1	yes	2	no	0	1	2	1	2	10	no	1	1	10
+65	2	4	2	Australia	2	2	8	6	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+65	2	4	2	Australia	2	2	10	9	2	no	1	yes	0	6	2	0	12	0	yes	1	1	12
+65	2	4	2	Australia	2	2	11	10	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+65	2	4	2	Australia	2	2	12	11	1	yes	1	yes	1	4	1	0	0	12	no	0	1	12
+65	2	4	2	Australia	2	2	13	12	1	yes	2	no	0	1	1	0	2	10	no	1	1	10
+65	2	4	2	Australia	2	2	14	13	1	yes	1	yes	1	5	1	0	2	10	no	0	1	10
+65	2	4	2	Australia	2	2	16	15	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+65	2	4	2	Australia	2	2	18	17	2	no	1	yes	0	6	2	0	8	4	yes	1	1	8
+65	2	4	2	Australia	2	2	21	21	1	yes	1	yes	1	6	1	0	2	10	no	0	1	10
+65	2	4	2	Australia	2	2	24	24	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+66	5	5	2	Colombia	2	1	3	18	1	yes	2	no	0	5	1	0	4	8	no	1	1	8
+66	5	5	2	Colombia	2	1	4	1	2	no	1	yes	0	1	2	0	8	4	yes	1	1	8
+66	5	5	2	Colombia	2	1	5	2	1	yes	2	no	0	1	2	1	4	8	no	1	1	8
+66	5	5	2	Colombia	2	1	6	4	1	yes	2	no	0	4	1	0	0	12	no	1	1	12
+66	5	5	2	Colombia	2	1	7	5	1	yes	1	yes	1	6	1	0	0	12	no	0	1	12
+66	5	5	2	Colombia	2	1	8	6	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+66	5	5	2	Colombia	2	1	9	7	1	yes	1	yes	1	6	1	0	2	10	no	0	1	10
+66	5	5	2	Colombia	2	1	11	10	2	no	2	no	1	2	1	1	10	2	yes	0	1	10
+66	5	5	2	Colombia	2	1	12	11	1	yes	1	yes	1	3	1	0	2	10	no	0	1	10
+66	5	5	2	Colombia	2	1	14	13	1	yes	1	yes	1	5	1	0	4	8	no	0	1	8
+66	5	5	2	Colombia	2	1	15	14	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+66	5	5	2	Colombia	2	1	17	16	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+66	5	5	2	Colombia	2	1	19	19	1	yes	1	yes	1	4	2	1	4	8	no	0	1	8
+66	5	5	2	Colombia	2	1	21	21	1	yes	1	yes	1	1	2	1	0	12	no	0	1	12
+66	5	5	2	Colombia	2	1	22	22	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+67	5	6	2	Poland	1	2	3	18	1	yes	2	no	0	5	1	0	4	8	no	1	1	8
+67	5	6	2	Poland	1	2	5	2	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+67	5	6	2	Poland	1	2	7	5	1	yes	1	yes	1	6	1	0	0	12	no	0	1	12
+67	5	6	2	Poland	1	2	8	6	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+67	5	6	2	Poland	1	2	9	7	1	yes	1	yes	1	4	1	0	0	12	no	0	1	12
+67	5	6	2	Poland	1	2	12	11	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+67	5	6	2	Poland	1	2	13	12	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+67	5	6	2	Poland	1	2	14	13	1	yes	1	yes	1	5	1	0	0	12	no	0	1	12
+67	5	6	2	Poland	1	2	16	15	2	no	1	yes	0	4	1	1	12	0	yes	1	1	12
+67	5	6	2	Poland	1	2	17	16	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+67	5	6	2	Poland	1	2	18	17	1	yes	1	yes	1	5	1	0	2	10	no	0	1	10
+67	5	6	2	Poland	1	2	19	19	1	yes	1	yes	1	6	1	0	2	10	no	0	1	10
+67	5	6	2	Poland	1	2	20	20	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+67	5	6	2	Poland	1	2	21	21	1	yes	1	yes	1	4	1	0	4	8	no	0	1	8
+68	5	4	2	USA	1	2	6	4	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+68	5	4	2	USA	1	2	8	6	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+68	5	4	2	USA	1	2	9	7	1	yes	1	yes	1	5	1	0	2	10	no	0	1	10
+68	5	4	2	USA	1	2	11	10	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+68	5	4	2	USA	1	2	16	15	2	no	1	yes	0	2	2	0	10	2	yes	1	1	10
+68	5	4	2	USA	1	2	17	16	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+68	5	4	2	USA	1	2	19	19	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+68	5	4	2	USA	1	2	20	20	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+68	5	4	2	USA	1	2	24	24	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+69	5	5	2	Malaysia	1	1	4	1	1	yes	1	yes	1	5	1	0	2	10	no	0	1	10
+69	5	5	2	Malaysia	1	1	5	2	2	no	2	no	1	4	2	0	12	0	yes	0	1	12
+69	5	5	2	Malaysia	1	1	6	4	2	no	2	no	1	5	2	0	8	4	yes	0	1	8
+69	5	5	2	Malaysia	1	1	7	5	1	yes	1	yes	1	3	1	0	4	8	no	0	1	8
+69	5	5	2	Malaysia	1	1	10	9	1	yes	1	yes	1	6	1	0	2	10	no	0	1	10
+69	5	5	2	Malaysia	1	1	11	10	1	yes	2	no	0	4	1	0	4	8	no	1	1	8
+69	5	5	2	Malaysia	1	1	12	11	2	no	1	yes	0	6	2	0	10	2	yes	1	1	10
+69	5	5	2	Malaysia	1	1	13	12	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+69	5	5	2	Malaysia	1	1	14	13	2	no	1	yes	0	6	2	0	10	2	yes	1	1	10
+69	5	5	2	Malaysia	1	1	15	14	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+69	5	5	2	Malaysia	1	1	16	15	1	yes	1	yes	1	4	1	0	2	10	no	0	1	10
+69	5	5	2	Malaysia	1	1	18	17	1	yes	1	yes	1	3	1	0	4	8	no	0	1	8
+69	5	5	2	Malaysia	1	1	22	22	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+69	5	5	2	Malaysia	1	1	23	23	1	yes	1	yes	1	1	2	1	0	12	no	0	1	12
+70	5	4	1		1	2	4	1	1	yes	1	yes	1	5	1	0	0	12	no	0	1	12
+70	5	4	1		1	2	6	4	1	yes	2	no	0	3	1	0	0	12	no	1	1	12
+70	5	4	1		1	2	12	11	1	yes	1	yes	1	6	1	0	2	10	no	0	1	10
+70	5	4	1		1	2	14	13	1	yes	1	yes	1	4	1	0	4	8	no	0	1	8
+70	5	4	1		1	2	16	15	1	yes	1	yes	1	6	1	0	0	12	no	0	1	12
+70	5	4	1		1	2	18	17	1	yes	1	yes	1	5	1	0	4	8	no	0	1	8
+70	5	4	1		1	2	19	19	1	yes	1	yes	1	6	1	0	0	12	no	0	1	12
+70	5	4	1		1	2	24	24	2	no	2	no	1	5	2	0	8	4	yes	0	1	8
+71	5	4	1		1	1	2	8	1	yes	2	no	0	3	2	1	0	12	no	1	1	12
+71	5	4	1		1	1	7	5	1	yes	1	yes	1	4	1	0	0	12	no	0	1	12
+71	5	4	1		1	1	10	9	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+71	5	4	1		1	1	14	13	2	no	1	yes	0	2	1	1	12	0	yes	1	1	12
+71	5	4	1		1	1	15	14	2	no	2	no	1	4	2	0	8	4	yes	0	1	8
+71	5	4	1		1	1	16	15	1	yes	1	yes	1	2	2	1	0	12	no	0	1	12
+71	5	4	1		1	1	21	21	1	yes	1	yes	1	6	1	0	0	12	no	0	1	12
+71	5	4	1		1	1	22	22	2	no	2	no	1	4	2	0	8	4	yes	0	1	8
+72	5	4	1		1	1	2	8	1	yes	2	no	0	4	2	1	0	12	no	1	1	12
+72	5	4	1		1	1	3	18	1	yes	2	no	0	3	1	0	4	8	no	1	1	8
+72	5	4	1		1	1	4	1	1	yes	1	yes	1	4	2	1	2	10	no	0	1	10
+72	5	4	1		1	1	6	4	2	no	2	no	1	4	2	0	12	0	yes	0	1	12
+72	5	4	1		1	1	9	7	1	yes	1	yes	1	3	1	0	0	12	no	0	1	12
+72	5	4	1		1	1	12	11	2	no	1	yes	0	6	2	0	12	0	yes	1	1	12
+72	5	4	1		1	1	13	12	1	yes	2	no	0	5	1	0	2	10	no	1	1	10
+72	5	4	1		1	1	16	15	1	yes	1	yes	1	3	2	1	4	8	no	0	1	8
+72	5	4	1		1	1	18	17	2	no	1	yes	0	4	2	0	8	4	yes	1	1	8
+72	5	4	1		1	1	19	19	1	yes	1	yes	1	3	1	0	4	8	no	0	1	8
+72	5	4	1		1	1	20	20	2	no	2	no	1	4	2	0	10	2	yes	0	1	10
+73	5	4	1		1	2	2	8	1	yes	2	no	0	5	1	0	0	12	no	1	1	12
+73	5	4	1		1	2	5	2	2	no	2	no	1	5	1	1	8	4	yes	0	1	8
+73	5	4	1		1	2	6	4	2	no	2	no	1	6	1	1	8	4	yes	0	1	8
+73	5	4	1		1	2	7	5	1	yes	1	yes	1	4	1	0	4	8	no	0	1	8
+73	5	4	1		1	2	8	6	2	no	2	no	1	5	2	0	12	0	yes	0	1	12
+73	5	4	1		1	2	10	9	1	yes	1	yes	1	4	1	0	0	12	no	0	1	12
+73	5	4	1		1	2	11	10	2	no	2	no	1	5	2	0	8	4	yes	0	1	8
+73	5	4	1		1	2	13	12	1	yes	2	no	0	0	2	1	0	12	no	1	1	12
+73	5	4	1		1	2	14	13	1	yes	1	yes	1	2	1	0	4	8	no	0	1	8
+73	5	4	1		1	2	17	16	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+73	5	4	1		1	2	21	21	1	yes	1	yes	1	4	1	0	2	10	no	0	1	10
+73	5	4	1		1	2	23	23	2	no	1	yes	0	5	2	0	10	2	yes	1	1	10
+73	5	4	1		1	2	24	24	2	no	2	no	1	5	2	0	12	0	yes	0	1	12
+74	5	4	2	USA	1	2	3	18	1	yes	2	no	0	5	1	0	4	8	no	1	1	8
+74	5	4	2	USA	1	2	8	6	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+74	5	4	2	USA	1	2	9	7	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+74	5	4	2	USA	1	2	12	11	1	yes	1	yes	1	5	1	0	2	10	no	0	1	10
+74	5	4	2	USA	1	2	13	12	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+74	5	4	2	USA	1	2	14	13	1	yes	1	yes	1	6	1	0	0	12	no	0	1	12
+74	5	4	2	USA	1	2	19	19	1	yes	1	yes	1	6	1	0	2	10	no	0	1	10
+74	5	4	2	USA	1	2	20	20	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+74	5	4	2	USA	1	2	22	22	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+74	5	4	2	USA	1	2	23	23	1	yes	1	yes	1	6	1	0	2	10	no	0	1	10
+75	5	4	1		1	1	1	3	2	no	1	yes	0	5	1	1	10	2	yes	1	1	10
+75	5	4	1		1	1	3	18	1	yes	2	no	0	6	1	0	4	8	no	1	1	8
+75	5	4	1		1	1	5	2	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+75	5	4	1		1	1	8	6	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+75	5	4	1		1	1	10	9	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+75	5	4	1		1	1	12	11	1	yes	1	yes	1	6	1	0	0	12	no	0	1	12
+75	5	4	1		1	1	16	15	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+75	5	4	1		1	1	17	16	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+75	5	4	1		1	1	18	17	1	yes	1	yes	1	6	1	0	2	10	no	0	1	10
+75	5	4	1		1	1	19	19	2	no	1	yes	0	4	1	1	10	2	yes	1	1	10
+75	5	4	1		1	1	23	23	1	yes	1	yes	1	6	1	0	0	12	no	0	1	12
+76	5	6	2	Germany	1	1	2	8	1	yes	2	no	0	4	1	0	0	12	no	1	1	12
+76	5	6	2	Germany	1	1	6	4	1	yes	2	no	0	4	1	0	2	10	no	1	1	10
+76	5	6	2	Germany	1	1	7	5	1	yes	1	yes	1	4	2	1	2	10	no	0	1	10
+76	5	6	2	Germany	1	1	9	7	2	no	1	yes	0	3	2	0	12	0	yes	1	1	12
+76	5	6	2	Germany	1	1	10	9	1	yes	1	yes	1	4	1	0	2	10	no	0	1	10
+76	5	6	2	Germany	1	1	12	11	1	yes	1	yes	1	4	1	0	4	8	no	0	1	8
+76	5	6	2	Germany	1	1	13	12	2	no	2	no	1	5	2	0	10	2	yes	0	1	10
+76	5	6	2	Germany	1	1	15	14	2	no	2	no	1	5	2	0	8	4	yes	0	1	8
+76	5	6	2	Germany	1	1	17	16	2	no	2	no	1	5	2	0	8	4	yes	0	1	8
+76	5	6	2	Germany	1	1	22	22	2	no	2	no	1	4	2	0	8	4	yes	0	1	8
+76	5	6	2	Germany	1	1	23	23	2	no	1	yes	0	4	2	0	12	0	yes	1	1	12
+76	5	6	2	Germany	1	1	24	24	2	no	2	no	1	4	2	0	8	4	yes	0	1	8
+77	5	6	2	Lithuania	1	2	5	2	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+77	5	6	2	Lithuania	1	2	6	4	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+77	5	6	2	Lithuania	1	2	13	12	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+77	5	6	2	Lithuania	1	2	14	13	1	yes	1	yes	1	6	1	0	2	10	no	0	1	10
+77	5	6	2	Lithuania	1	2	15	14	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+77	5	6	2	Lithuania	1	2	19	19	1	yes	1	yes	1	5	1	0	0	12	no	0	1	12
+77	5	6	2	Lithuania	1	2	21	21	1	yes	1	yes	1	6	1	0	0	12	no	0	1	12
+77	5	6	2	Lithuania	1	2	22	22	2	no	2	no	1	4	2	0	12	0	yes	0	1	12
+77	5	6	2	Lithuania	1	2	23	23	2	no	1	yes	0	4	2	0	8	4	yes	1	1	8
+77	5	6	2	Lithuania	1	2	24	24	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+78	2	6	2	hungary	1	1	3	18	1	yes	2	no	0	6	1	0	4	8	no	1	1	8
+78	2	6	2	hungary	1	1	4	1	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+78	2	6	2	hungary	1	1	5	2	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+78	2	6	2	hungary	1	1	6	4	1	yes	2	no	0	6	1	0	2	10	no	1	1	10
+78	2	6	2	hungary	1	1	8	6	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+78	2	6	2	hungary	1	1	10	9	1	yes	1	yes	1	6	1	0	2	10	no	0	1	10
+78	2	6	2	hungary	1	1	12	11	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+78	2	6	2	hungary	1	1	14	13	1	yes	1	yes	1	6	1	0	2	10	no	0	1	10
+78	2	6	2	hungary	1	1	17	16	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+78	2	6	2	hungary	1	1	19	19	1	yes	1	yes	1	6	1	0	0	12	no	0	1	12
+78	2	6	2	hungary	1	1	20	20	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+78	2	6	2	hungary	1	1	23	23	1	yes	1	yes	1	3	1	0	4	8	no	0	1	8
+78	2	6	2	hungary	1	1	24	24	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+79	2	4	1		1	1	2	8	1	yes	2	no	0	4	1	0	0	12	no	1	1	12
+79	2	4	1		1	1	6	4	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+79	2	4	1		1	1	10	9	1	yes	1	yes	1	6	1	0	0	12	no	0	1	12
+79	2	4	1		1	1	11	10	1	yes	2	no	0	4	2	1	2	10	no	1	1	10
+79	2	4	1		1	1	15	14	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+79	2	4	1		1	1	17	16	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+79	2	4	1		1	1	20	20	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+79	2	4	1		1	1	21	21	1	yes	1	yes	1	6	1	0	2	10	no	0	1	10
+79	2	4	1		1	1	24	24	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+80	5	4	2	Australia	1	2	1	3	2	no	1	yes	0	0	2	0	10	2	yes	1	1	10
+80	5	4	2	Australia	1	2	2	8	1	yes	2	no	0	2	1	0	0	12	no	1	1	12
+80	5	4	2	Australia	1	2	3	18	1	yes	2	no	0	0	1	0	4	8	no	1	1	8
+80	5	4	2	Australia	1	2	5	2	1	yes	2	no	0	3	1	0	0	12	no	1	1	12
+80	5	4	2	Australia	1	2	6	4	1	yes	2	no	0	4	1	0	0	12	no	1	1	12
+80	5	4	2	Australia	1	2	9	7	1	yes	1	yes	1	5	1	0	2	10	no	0	1	10
+80	5	4	2	Australia	1	2	13	12	1	yes	2	no	0	5	1	0	2	10	no	1	1	10
+80	5	4	2	Australia	1	2	14	13	2	no	1	yes	0	5	2	0	12	0	yes	1	1	12
+80	5	4	2	Australia	1	2	16	15	1	yes	1	yes	1	4	1	0	4	8	no	0	1	8
+80	5	4	2	Australia	1	2	17	16	1	yes	2	no	0	2	1	0	4	8	no	1	1	8
+80	5	4	2	Australia	1	2	18	17	1	yes	1	yes	1	4	1	0	2	10	no	0	1	10
+80	5	4	2	Australia	1	2	21	21	1	yes	1	yes	1	5	1	0	0	12	no	0	1	12
+80	5	4	2	Australia	1	2	22	22	1	yes	2	no	0	5	1	0	4	8	no	1	1	8
+80	5	4	2	Australia	1	2	23	23	2	no	1	yes	0	6	2	0	12	0	yes	1	1	12
+81	5	6	2	Italy	1	2	1	3	2	no	1	yes	0	3	2	0	10	2	yes	1	1	10
+81	5	6	2	Italy	1	2	4	1	1	yes	1	yes	1	1	2	1	2	10	no	0	1	10
+81	5	6	2	Italy	1	2	6	4	2	no	2	no	1	5	2	0	12	0	yes	0	1	12
+81	5	6	2	Italy	1	2	7	5	1	yes	1	yes	1	6	1	0	2	10	no	0	1	10
+81	5	6	2	Italy	1	2	9	7	2	no	1	yes	0	5	2	0	10	2	yes	1	1	10
+81	5	6	2	Italy	1	2	11	10	1	yes	2	no	0	5	1	0	0	12	no	1	1	12
+81	5	6	2	Italy	1	2	12	11	2	no	1	yes	0	1	2	0	10	2	yes	1	1	10
+81	5	6	2	Italy	1	2	14	13	1	yes	1	yes	1	1	2	1	0	12	no	0	1	12
+81	5	6	2	Italy	1	2	15	14	2	no	2	no	1	5	2	0	12	0	yes	0	1	12
+81	5	6	2	Italy	1	2	17	16	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+81	5	6	2	Italy	1	2	18	17	1	yes	1	yes	1	5	1	0	4	8	no	0	1	8
+81	5	6	2	Italy	1	2	22	22	2	no	2	no	1	5	2	0	10	2	yes	0	1	10
+81	5	6	2	Italy	1	2	23	23	1	yes	1	yes	1	3	2	1	0	12	no	0	1	12
+81	5	6	2	Italy	1	2	24	24	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+82	5	4	1		1	2	2	8	1	yes	2	no	0	3	2	1	0	12	no	1	1	12
+82	5	4	1		1	2	5	2	2	no	2	no	1	3	1	1	12	0	yes	0	1	12
+82	5	4	1		1	2	9	7	2	no	1	yes	0	4	2	0	8	4	yes	1	1	8
+82	5	4	1		1	2	12	11	2	no	1	yes	0	4	2	0	8	4	yes	1	1	8
+82	5	4	1		1	2	16	15	1	yes	1	yes	1	1	2	1	0	12	no	0	1	12
+82	5	4	1		1	2	18	17	1	yes	1	yes	1	4	1	0	2	10	no	0	1	10
+82	5	4	1		1	2	19	19	1	yes	1	yes	1	2	1	0	2	10	no	0	1	10
+82	5	4	1		1	2	21	21	1	yes	1	yes	1	4	1	0	4	8	no	0	1	8
+82	5	4	1		1	2	22	22	2	no	2	no	1	3	2	0	10	2	yes	0	1	10
+82	5	4	1		1	2	23	23	2	no	1	yes	0	2	2	0	10	2	yes	1	1	10
+83	5	6	2	Hungary	1	2	2	8	1	yes	2	no	0	4	1	0	0	12	no	1	1	12
+83	5	6	2	Hungary	1	2	6	4	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+83	5	6	2	Hungary	1	2	7	5	1	yes	1	yes	1	6	1	0	0	12	no	0	1	12
+83	5	6	2	Hungary	1	2	8	6	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+83	5	6	2	Hungary	1	2	9	7	1	yes	1	yes	1	5	1	0	0	12	no	0	1	12
+83	5	6	2	Hungary	1	2	14	13	1	yes	1	yes	1	6	1	0	0	12	no	0	1	12
+83	5	6	2	Hungary	1	2	19	19	1	yes	1	yes	1	4	1	0	2	10	no	0	1	10
+83	5	6	2	Hungary	1	2	20	20	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+83	5	6	2	Hungary	1	2	21	21	1	yes	1	yes	1	5	1	0	0	12	no	0	1	12
+83	5	6	2	Hungary	1	2	22	22	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+84	5	5	2	South Korea	1	1	7	5	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+84	5	5	2	South Korea	1	1	11	10	2	no	2	no	1	4	2	0	10	2	yes	0	1	10
+84	5	5	2	South Korea	1	1	12	11	1	yes	1	yes	1	5	1	0	2	10	no	0	1	10
+84	5	5	2	South Korea	1	1	13	12	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+84	5	5	2	South Korea	1	1	14	13	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+84	5	5	2	South Korea	1	1	15	14	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+84	5	5	2	South Korea	1	1	18	17	1	yes	1	yes	1	5	1	0	4	8	no	0	1	8
+84	5	5	2	South Korea	1	1	20	20	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+84	5	5	2	South Korea	1	1	21	21	1	yes	1	yes	1	4	1	0	2	10	no	0	1	10
+85	5	4	1		1	1	4	1	1	yes	1	yes	1	0	2	1	0	12	no	0	1	12
+85	5	4	1		1	1	5	2	2	no	2	no	1	5	2	0	10	2	yes	0	1	10
+85	5	4	1		1	1	6	4	2	no	2	no	1	5	2	0	8	4	yes	0	1	8
+85	5	4	1		1	1	7	5	1	yes	1	yes	1	5	1	0	4	8	no	0	1	8
+85	5	4	1		1	1	8	6	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+85	5	4	1		1	1	10	9	1	yes	1	yes	1	5	1	0	4	8	no	0	1	8
+85	5	4	1		1	1	12	11	1	yes	1	yes	1	4	2	1	0	12	no	0	1	12
+85	5	4	1		1	1	13	12	2	no	2	no	1	3	2	0	10	2	yes	0	1	10
+85	5	4	1		1	1	15	14	2	no	2	no	1	5	2	0	8	4	yes	0	1	8
+85	5	4	1		1	1	17	16	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+85	5	4	1		1	1	19	19	1	yes	1	yes	1	3	1	0	4	8	no	0	1	8
+86	5	6	2	Hungary	1	2	4	1	1	yes	1	yes	1	4	1	0	2	10	no	0	1	10
+86	5	6	2	Hungary	1	2	5	2	1	yes	2	no	0	5	1	0	2	10	no	1	1	10
+86	5	6	2	Hungary	1	2	6	4	1	yes	2	no	0	6	1	0	0	12	no	1	1	12
+86	5	6	2	Hungary	1	2	9	7	1	yes	1	yes	1	6	1	0	2	10	no	0	1	10
+86	5	6	2	Hungary	1	2	10	9	1	yes	1	yes	1	6	1	0	2	10	no	0	1	10
+86	5	6	2	Hungary	1	2	11	10	1	yes	2	no	0	5	2	1	0	12	no	1	1	12
+86	5	6	2	Hungary	1	2	20	20	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+86	5	6	2	Hungary	1	2	22	22	2	no	2	no	1	5	1	1	12	0	yes	0	1	12
+87	5	5	2	Cameroon	1	1	4	1	1	yes	1	yes	1	4	1	0	4	8	no	0	1	8
+87	5	5	2	Cameroon	1	1	7	5	1	yes	1	yes	1	5	1	0	0	12	no	0	1	12
+87	5	5	2	Cameroon	1	1	8	6	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+87	5	5	2	Cameroon	1	1	11	10	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+87	5	5	2	Cameroon	1	1	12	11	1	yes	1	yes	1	5	1	0	4	8	no	0	1	8
+87	5	5	2	Cameroon	1	1	13	12	2	no	2	no	1	4	2	0	10	2	yes	0	1	10
+87	5	5	2	Cameroon	1	1	15	14	2	no	2	no	1	5	2	0	10	2	yes	0	1	10
+87	5	5	2	Cameroon	1	1	16	15	1	yes	1	yes	1	5	1	0	2	10	no	0	1	10
+87	5	5	2	Cameroon	1	1	17	16	2	no	2	no	1	5	2	0	10	2	yes	0	1	10
+87	5	5	2	Cameroon	1	1	19	19	1	yes	1	yes	1	6	1	0	0	12	no	0	1	12
+87	5	5	2	Cameroon	1	1	24	24	2	no	2	no	1	5	2	0	10	2	yes	0	1	10
+88	5	4	1		1	1	1	3	2	no	1	yes	0	3	1	1	10	2	yes	1	1	10
+88	5	4	1		1	1	2	8	1	yes	2	no	0	0	2	1	0	12	no	1	1	12
+88	5	4	1		1	1	4	1	2	no	1	yes	0	1	1	1	10	2	yes	1	1	10
+88	5	4	1		1	1	5	2	2	no	2	no	1	2	2	0	8	4	yes	0	1	8
+88	5	4	1		1	1	6	4	1	yes	2	no	0	1	2	1	4	8	no	1	1	8
+88	5	4	1		1	1	8	6	2	no	2	no	1	4	2	0	12	0	yes	0	1	12
+88	5	4	1		1	1	10	9	1	yes	1	yes	1	4	1	0	0	12	no	0	1	12
+88	5	4	1		1	1	13	12	1	yes	2	no	0	3	1	0	0	12	no	1	1	12
+88	5	4	1		1	1	15	14	2	no	2	no	1	4	2	0	12	0	yes	0	1	12
+88	5	4	1		1	1	17	16	2	no	2	no	1	5	2	0	8	4	yes	0	1	8
+88	5	4	1		1	1	18	17	1	yes	1	yes	1	3	1	0	0	12	no	0	1	12
+88	5	4	1		1	1	23	23	1	yes	1	yes	1	3	2	1	4	8	no	0	1	8
+88	5	4	1		1	1	24	24	2	no	2	no	1	3	2	0	12	0	yes	0	1	12
+89	5	4	2	Ireland	1	1	8	6	1	yes	2	no	0	6	1	0	4	8	no	1	1	8
+89	5	4	2	Ireland	1	1	9	7	1	yes	1	yes	1	5	1	0	0	12	no	0	1	12
+89	5	4	2	Ireland	1	1	10	9	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+89	5	4	2	Ireland	1	1	12	11	1	yes	1	yes	1	6	1	0	0	12	no	0	1	12
+89	5	4	2	Ireland	1	1	15	14	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+89	5	4	2	Ireland	1	1	16	15	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+89	5	4	2	Ireland	1	1	19	19	1	yes	1	yes	1	5	1	0	4	8	no	0	1	8
+89	5	4	2	Ireland	1	1	23	23	1	yes	1	yes	1	4	1	0	4	8	no	0	1	8
+90	5	4	1		1	2	4	1	1	yes	1	yes	1	0	1	0	2	10	no	0	1	10
+90	5	4	1		1	2	6	4	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+90	5	4	1		1	2	7	5	1	yes	1	yes	1	4	1	0	2	10	no	0	1	10
+90	5	4	1		1	2	9	7	1	yes	1	yes	1	6	1	0	0	12	no	0	1	12
+90	5	4	1		1	2	10	9	1	yes	1	yes	1	4	1	0	0	12	no	0	1	12
+90	5	4	1		1	2	11	10	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+90	5	4	1		1	2	13	12	2	no	2	no	1	2	2	0	12	0	yes	0	1	12
+90	5	4	1		1	2	15	14	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+90	5	4	1		1	2	17	16	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+90	5	4	1		1	2	19	19	1	yes	1	yes	1	5	1	0	4	8	no	0	1	8
+90	5	4	1		1	2	20	20	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+90	5	4	1		1	2	21	21	1	yes	1	yes	1	5	1	0	4	8	no	0	1	8
+90	5	4	1		1	2	24	24	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+91	5	4	1		1	2	4	1	2	no	1	yes	0	0	1	1	8	4	yes	1	1	8
+91	5	4	1		1	2	8	6	2	no	2	no	1	5	2	0	12	0	yes	0	1	12
+91	5	4	1		1	2	9	7	1	yes	1	yes	1	2	2	1	2	10	no	0	1	10
+91	5	4	1		1	2	19	19	1	yes	1	yes	1	5	2	1	0	12	no	0	1	12
+92	2	4	2	Ireland	1	2	2	8	1	yes	2	no	0	5	1	0	0	12	no	1	1	12
+92	2	4	2	Ireland	1	2	3	18	1	yes	2	no	0	3	1	0	4	8	no	1	1	8
+92	2	4	2	Ireland	1	2	5	2	2	no	2	no	1	6	1	1	12	0	yes	0	1	12
+92	2	4	2	Ireland	1	2	6	4	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+92	2	4	2	Ireland	1	2	7	5	2	no	1	yes	0	5	2	0	10	2	yes	1	1	10
+92	2	4	2	Ireland	1	2	10	9	1	yes	1	yes	1	5	1	0	4	8	no	0	1	8
+92	2	4	2	Ireland	1	2	12	11	1	yes	1	yes	1	4	1	0	4	8	no	0	1	8
+92	2	4	2	Ireland	1	2	17	16	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+92	2	4	2	Ireland	1	2	20	20	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+92	2	4	2	Ireland	1	2	21	21	1	yes	1	yes	1	2	2	1	2	10	no	0	1	10
+92	2	4	2	Ireland	1	2	22	22	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+93	5	6	2	Germany	1	2	2	8	1	yes	2	no	0	0	2	1	0	12	no	1	1	12
+93	5	6	2	Germany	1	2	4	1	1	yes	1	yes	1	6	1	0	0	12	no	0	1	12
+93	5	6	2	Germany	1	2	6	4	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+93	5	6	2	Germany	1	2	7	5	1	yes	1	yes	1	2	1	0	0	12	no	0	1	12
+93	5	6	2	Germany	1	2	9	7	2	no	1	yes	0	6	2	0	10	2	yes	1	1	10
+93	5	6	2	Germany	1	2	10	9	1	yes	1	yes	1	5	1	0	2	10	no	0	1	10
+93	5	6	2	Germany	1	2	11	10	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+93	5	6	2	Germany	1	2	13	12	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+93	5	6	2	Germany	1	2	16	15	1	yes	1	yes	1	5	1	0	0	12	no	0	1	12
+93	5	6	2	Germany	1	2	18	17	1	yes	1	yes	1	3	1	0	2	10	no	0	1	10
+93	5	6	2	Germany	1	2	19	19	1	yes	1	yes	1	5	1	0	2	10	no	0	1	10
+93	5	6	2	Germany	1	2	20	20	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+94	5	4	1		1	2	2	8	1	yes	2	no	0	5	2	1	0	12	no	1	1	12
+94	5	4	1		1	2	5	2	1	yes	2	no	0	4	2	1	0	12	no	1	1	12
+94	5	4	1		1	2	6	4	2	no	2	no	1	4	1	1	8	4	yes	0	1	8
+94	5	4	1		1	2	7	5	1	yes	1	yes	1	4	2	1	4	8	no	0	1	8
+94	5	4	1		1	2	9	7	1	yes	1	yes	1	3	2	1	0	12	no	0	1	12
+94	5	4	1		1	2	11	10	1	yes	2	no	0	3	2	1	2	10	no	1	1	10
+94	5	4	1		1	2	12	11	1	yes	1	yes	1	4	2	1	2	10	no	0	1	10
+94	5	4	1		1	2	15	14	1	yes	2	no	0	4	2	1	4	8	no	1	1	8
+94	5	4	1		1	2	16	15	1	yes	1	yes	1	5	2	1	4	8	no	0	1	8
+94	5	4	1		1	2	18	17	1	yes	1	yes	1	3	2	1	2	10	no	0	1	10
+94	5	4	1		1	2	20	20	1	yes	2	no	0	5	2	1	0	12	no	1	1	12
+94	5	4	1		1	2	22	22	2	no	2	no	1	5	2	0	8	4	yes	0	1	8
+94	5	4	1		1	2	23	23	1	yes	1	yes	1	4	2	1	0	12	no	0	1	12
+94	5	4	1		1	2	24	24	1	yes	2	no	0	4	2	1	4	8	no	1	1	8
+95	5	4	1		1	1	5	2	2	no	2	no	1	3	1	1	10	2	yes	0	1	10
+95	5	4	1		1	1	7	5	1	yes	1	yes	1	2	1	0	0	12	no	0	1	12
+95	5	4	1		1	1	9	7	2	no	1	yes	0	4	2	0	10	2	yes	1	1	10
+95	5	4	1		1	1	10	9	1	yes	1	yes	1	3	1	0	0	12	no	0	1	12
+95	5	4	1		1	1	11	10	1	yes	2	no	0	5	1	0	4	8	no	1	1	8
+95	5	4	1		1	1	12	11	1	yes	1	yes	1	5	1	0	4	8	no	0	1	8
+95	5	4	1		1	1	13	12	1	yes	2	no	0	4	1	0	2	10	no	1	1	10
+95	5	4	1		1	1	15	14	2	no	2	no	1	5	2	0	12	0	yes	0	1	12
+95	5	4	1		1	1	18	17	1	yes	1	yes	1	5	1	0	4	8	no	0	1	8
+95	5	4	1		1	1	19	19	1	yes	1	yes	1	4	1	0	4	8	no	0	1	8
+95	5	4	1		1	1	20	20	2	no	2	no	1	5	2	0	12	0	yes	0	1	12
+96	5	4	1		1	1	2	8	1	yes	2	no	0	0	2	1	0	12	no	1	1	12
+96	5	4	1		1	1	3	18	1	yes	2	no	0	5	1	0	4	8	no	1	1	8
+96	5	4	1		1	1	5	2	1	yes	2	no	0	3	1	0	4	8	no	1	1	8
+96	5	4	1		1	1	6	4	2	no	2	no	1	3	1	1	10	2	yes	0	1	10
+96	5	4	1		1	1	8	6	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+96	5	4	1		1	1	11	10	2	no	2	no	1	0	1	1	12	0	yes	0	1	12
+96	5	4	1		1	1	14	13	1	yes	1	yes	1	2	2	1	0	12	no	0	1	12
+96	5	4	1		1	1	16	15	1	yes	1	yes	1	1	2	1	2	10	no	0	1	10
+96	5	4	1		1	1	17	16	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+96	5	4	1		1	1	19	19	1	yes	1	yes	1	2	2	1	2	10	no	0	1	10
+96	5	4	1		1	1	22	22	1	yes	2	no	0	5	1	0	0	12	no	1	1	12
+96	5	4	1		1	1	23	23	2	no	1	yes	0	1	2	0	8	4	yes	1	1	8
+97	5	4	2	United States	1	2	1	3	2	no	1	yes	0	5	2	0	10	2	yes	1	1	10
+97	5	4	2	United States	1	2	4	1	1	yes	1	yes	1	3	1	0	0	12	no	0	1	12
+97	5	4	2	United States	1	2	6	4	1	yes	2	no	0	3	1	0	4	8	no	1	1	8
+97	5	4	2	United States	1	2	7	5	1	yes	1	yes	1	4	1	0	2	10	no	0	1	10
+97	5	4	2	United States	1	2	11	10	2	no	2	no	1	2	2	0	10	2	yes	0	1	10
+97	5	4	2	United States	1	2	13	12	1	yes	2	no	0	2	1	0	4	8	no	1	1	8
+97	5	4	2	United States	1	2	15	14	1	yes	2	no	0	1	2	1	0	12	no	1	1	12
+97	5	4	2	United States	1	2	18	17	2	no	1	yes	0	3	2	0	8	4	yes	1	1	8
+97	5	4	2	United States	1	2	21	21	2	no	1	yes	0	2	1	1	12	0	yes	1	1	12
+98	5	4	2	United States	1	1	5	2	2	no	2	no	1	5	2	0	12	0	yes	0	1	12
+98	5	4	2	United States	1	1	6	4	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+98	5	4	2	United States	1	1	9	7	1	yes	1	yes	1	5	1	0	2	10	no	0	1	10
+98	5	4	2	United States	1	1	10	9	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+98	5	4	2	United States	1	1	11	10	1	yes	2	no	0	6	1	0	0	12	no	1	1	12
+98	5	4	2	United States	1	1	13	12	2	no	2	no	1	3	2	0	12	0	yes	0	1	12
+98	5	4	2	United States	1	1	14	13	1	yes	1	yes	1	5	1	0	2	10	no	0	1	10
+98	5	4	2	United States	1	1	15	14	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+98	5	4	2	United States	1	1	16	15	1	yes	1	yes	1	4	1	0	0	12	no	0	1	12
+98	5	4	2	United States	1	1	18	17	1	yes	1	yes	1	5	1	0	0	12	no	0	1	12
+98	5	4	2	United States	1	1	20	20	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+98	5	4	2	United States	1	1	21	21	1	yes	1	yes	1	5	1	0	0	12	no	0	1	12
+98	5	4	2	United States	1	1	24	24	2	no	2	no	1	5	2	0	8	4	yes	0	1	8
+99	5	6	2	Lithuania	1	2	4	1	1	yes	1	yes	1	3	1	0	4	8	no	0	1	8
+99	5	6	2	Lithuania	1	2	8	6	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+99	5	6	2	Lithuania	1	2	9	7	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+99	5	6	2	Lithuania	1	2	12	11	1	yes	1	yes	1	4	1	0	0	12	no	0	1	12
+99	5	6	2	Lithuania	1	2	16	15	2	no	1	yes	0	2	1	1	10	2	yes	1	1	10
+99	5	6	2	Lithuania	1	2	17	16	2	no	2	no	1	6	2	0	8	4	yes	0	1	8
+99	5	6	2	Lithuania	1	2	21	21	1	yes	1	yes	1	3	1	0	4	8	no	0	1	8
+99	5	6	2	Lithuania	1	2	23	23	1	yes	1	yes	1	2	2	1	4	8	no	0	1	8
+99	5	6	2	Lithuania	1	2	24	24	2	no	2	no	1	6	2	0	12	0	yes	0	1	12
+100	5	4	2	Malaysia	1	2	2	8	1	yes	2	no	0	3	1	0	0	12	no	1	1	12
+100	5	4	2	Malaysia	1	2	3	18	1	yes	2	no	0	4	1	0	4	8	no	1	1	8
+100	5	4	2	Malaysia	1	2	4	1	1	yes	1	yes	1	6	1	0	4	8	no	0	1	8
+100	5	4	2	Malaysia	1	2	6	4	1	yes	2	no	0	6	1	0	2	10	no	1	1	10
+100	5	4	2	Malaysia	1	2	9	7	1	yes	1	yes	1	3	1	0	2	10	no	0	1	10
+100	5	4	2	Malaysia	1	2	12	11	1	yes	1	yes	1	4	1	0	0	12	no	0	1	12
+100	5	4	2	Malaysia	1	2	13	12	1	yes	2	no	0	4	1	0	0	12	no	1	1	12
+100	5	4	2	Malaysia	1	2	14	13	1	yes	1	yes	1	3	1	0	0	12	no	0	1	12
+100	5	4	2	Malaysia	1	2	15	14	2	no	2	no	1	3	2	0	12	0	yes	0	1	12
+100	5	4	2	Malaysia	1	2	16	15	1	yes	1	yes	1	4	1	0	0	12	no	0	1	12
+100	5	4	2	Malaysia	1	2	17	16	2	no	2	no	1	3	2	0	8	4	yes	0	1	8
+100	5	4	2	Malaysia	1	2	20	20	2	no	2	no	1	2	2	0	12	0	yes	0	1	12
+100	5	4	2	Malaysia	1	2	21	21	1	yes	1	yes	1	3	2	1	0	12	no	0	1	12
+100	5	4	2	Malaysia	1	2	22	22	1	yes	2	no	0	3	1	0	4	8	no	1	1	8
+100	5	4	2	Malaysia	1	2	23	23	1	yes	1	yes	1	4	1	0	4	8	no	0	1	8
+100	5	4	2	Malaysia	1	2	24	24	1	yes	2	no	0	4	1	0	4	8	no	1	1	8
+101	5	5	2	Malaysia	1	1	4	1	1	yes	1	yes	1	5	1	0	0	12	no	0	1	12
+101	5	5	2	Malaysia	1	1	5	2	2	no	2	no	1	4	2	0	12	0	yes	0	1	12
+101	5	5	2	Malaysia	1	1	10	9	1	yes	1	yes	1	4	1	0	0	12	no	0	1	12
+101	5	5	2	Malaysia	1	1	11	10	2	no	2	no	1	2	2	0	12	0	yes	0	1	12
+101	5	5	2	Malaysia	1	1	13	12	2	no	2	no	1	4	2	0	10	2	yes	0	1	10
+101	5	5	2	Malaysia	1	1	14	13	1	yes	1	yes	1	4	1	0	4	8	no	0	1	8
+101	5	5	2	Malaysia	1	1	17	16	2	no	2	no	1	5	2	0	10	2	yes	0	1	10
+101	5	5	2	Malaysia	1	1	21	21	1	yes	1	yes	1	3	1	0	4	8	no	0	1	8
+101	5	5	2	Malaysia	1	1	22	22	2	no	2	no	1	6	2	0	10	2	yes	0	1	10
+101	5	5	2	Malaysia	1	1	24	24	2	no	2	no	1	3	2	0	10	2	yes	0	1	10

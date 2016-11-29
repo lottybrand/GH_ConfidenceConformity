@@ -1,0 +1,105 @@
+# Jags model definition, data values here
+# must match those in the data declaration
+
+# Parameters, don't need to do this really
+#var x[NObservations],z[NObservations],b_participant[NParticipants], b_question[NQuestions];
+
+# Model is defined as follows
+model{
+  # Some notes from the jags manual
+  # Nodes
+  #   Each relation defines a node in the model in terms of other nodes that appear on the right
+  #   hand side. These are referred to as the parent nodes. Taken together, the nodes in the model
+  #   (together with the parent/child relationships represented as directed edges) form a directed
+  #   acyclic graph. The very top-level nodes in the graph, with no parents, are constant nodes,
+  #   which are defined either in the model definition (e.g. 1.0E-3), or in the data file ( e.g.x[1])
+  
+  #   Relations can be of two types. A stochastic relation ( ~ ) defines a stochastic node, repre
+  #   senting a random
+  #   variable in the model. A deterministic relation ( <- ) defines a
+  #   deterministic node, the value of which is determined exactly by the values
+  #   of its parents
+  
+  #   Deterministic nodes do not need to be embedded in node arrays.  
+  
+  # Order does not matter here, but lets do it sensibly?  
+  
+  
+  # Priors  
+  
+  # Priors for the switching model
+  # sd = 1/(0.1)^2 = 100 ~ not very informative
+  b_Swintercept ~ dnorm(0,0.1)
+  b_SwSex ~ dnorm(0,0.1)
+  b_SwNoDisagreed ~ dnorm(0,0.1)
+  b_SwConf ~ dnorm(0,0.1)
+  
+  # Priors for the confidence model
+  b_Cintercept ~ dnorm(0,0.1)
+  b_CSex ~ dnorm(0,0.1)
+  b_CCond ~ dnorm(0,0.1)
+  b_Ccorrect ~ dnorm(0,0.1)
+ 
+  
+  # Use the half cauchy for the sd parameters
+  # Cauchy is dt with df = 1
+  sigma_CP ~ dt(0,2,1) # Confidence model Participant random effect
+  sigma_CQ ~ dt(0,2,1)  # Confidence model Question random effect
+  sigma_SwP ~ dt(0,2,1) # Switching model Participant random effect
+  sigma_SwQ ~ dt(0,2,1) # Switching model Question random effect
+  # Get the half cauchy
+  sigma_CP_abs <- abs(sigma_CP)
+  sigma_CQ_abs <- abs(sigma_CQ)
+  sigma_SwP_abs <- abs(sigma_SwP)        
+  sigma_SwQ_abs <- abs(sigma_SwQ)
+  
+  # Convert to precision for norm dist
+  tau_CP <- pow(sigma_CP_abs, -2)
+  tau_CQ <- pow(sigma_CQ_abs, -2)
+  tau_SwP <- pow(sigma_SwP_abs, -2)                
+  tau_SwQ <- pow(sigma_SwQ_abs, -2)
+  
+  # Generate priors for random effects
+  for(i in 1:NParticipants){
+    b_CParticipant[i] ~ dnorm(0,tau_CP)
+    b_SwParticipant[i] ~ dnorm(0,tau_SwP)
+  }
+  
+  for(i in 1:NQuestions){
+    b_CQuestion[i] ~ dnorm(0,tau_CQ)
+    b_SwQuestion[i] ~ dnorm(0, tau_SwQ)
+  } 
+  
+  
+  
+  # The model 
+  # Iterate over every data point we have
+  
+  for(i in 1:NObservations){
+    
+    # The confidence model
+    y[i] <- b_Cintercept + b_CSex*Sex[i] + 
+            b_CCond*Condition[i] +  
+            b_Ccorrect*Correct[i] +
+            b_CParticipant[ParticipantID[i]] + b_CQuestion[QuestionID[i]]
+    
+    # The switching model
+    z[i] <- b_Swintercept + b_SwSex*Sex[i] + 
+            b_SwConf*Confidence[i] + 
+            b_SwNoDisagreed*NoDisagreed[i] + 
+            b_SwParticipant[ParticipantID[i]] + 
+            b_SwQuestion[QuestionID[i]]
+    
+    
+    # The link function - note we need to use the inverse with jags
+    
+    x[i] <- ilogit(y[i]) 
+    w[i] <- ilogit(z[i])   
+    
+    Confidence[i] ~ dbin(x[i],6)
+    Switching[i] ~ dbin(w[i],1)
+    
+    
+  } # End for i in 1:NObservations
+  theta <- b_SwConf * b_CSex
+}
