@@ -1,7 +1,7 @@
 
 
 # Read the data
-tempData = read.delim('../Data/bodyGameSocial_FULL_2.txt')
+tempData = read.delim('./Data/bodyGameSocial.txt')
 # Remove the rows with 'NA's
 tempData = na.omit(tempData)
 

@@ -3,7 +3,7 @@
 #first pilot data:
 
 #from pilotData folder
-source("./data/loadData.R")
+source("../loadData_pilotData.R")
 library(MASS)
 library(Hmisc)
 library(ggplot2)
@@ -70,11 +70,11 @@ confCorrect
 ######################################################################################
 ### ************** now for conformity data: *******************************
 ### ************LOAD BODY GAME SOCIAL FILE BEFORE RUNNING BELOW ********** 
-### *********** need to change working directory to bodygame social folder in Conformity****
+### *********** ******************************************************************
 ###################################################################################### 
 
-#from Conformity folder
-source("./Data/loadData.R")
+#from loadData_bgSocial.... run file below directly instead
+#source("../loadData_bgSocial.R")
 
 #line added 13.11.16 for prop_disagreed
 tempData$prop_disagreed <- tempData$noDisagreed/12
@@ -142,16 +142,36 @@ densitySwitch <- ggplot(tempData, aes(Switching, fill = Sex)) +
   xlab("\nSwitching") + ylab("Density") 
 densitySwitch
 
+###############Looking at Critical Trials ################
 #playing with data for "critical trials" 
-switched_and_Critical <- ifelse(tempData$MajDiffered==1 & tempData$Switched ==1, 1, 0)
-table(switched_and_Critical)
+#switched_and_Critical <- ifelse(tempData$MajDiffered==1 & tempData$Switched ==1, 1, 0)
+#table(switched_and_Critical)
 
 #create data of just critical trials and re-set names for plotting
 tempDataCritical <- tempData[tempData$MajDiffered==1,]
-Switched <- tempDataCritical$Switched
+CriticalSwitched <- tempDataCritical$Switched
 Sex <- tempDataCritical$Sex
 Confidence <- tempDataCritical$Confidence
+table(CriticalSwitched)
+table(Switching)
 
+#critical trials and maj correct
+critical_and_correct <- tempDataCritical[tempDataCritical$MajCorrect==1,]
+table(critical_and_correct$Switched)
+
+#critical trials and maj incorrect
+critical_and_INcorrect <- tempDataCritical[tempDataCritical$MajCorrect==0,]
+table(critical_and_INcorrect$Switched)
+
+#table of social info breakdown
+Trialtype <- c("All", "Critical","MajorityCorrect" )  
+totalTrials <- c(2419, 1138, 260)
+totalSwitched <- c(204, 194, 75)
+PropSwitched <- c(0.08, 0.17, 0.29)
+SocInfo <- (data.frame(Trialtype, totalTrials, totalSwitched, PropSwitched))
+
+
+  
 #density plot for switching critical 
 densitySwitchCritical <- ggplot(tempDataCritical, aes(Switched, fill = Sex)) +
   geom_density(alpha = 0.2) + theme_bw() + 
@@ -168,6 +188,25 @@ switchingPlotCritical <- ggplot(tempDataCritical, aes(Confidence, Switched, colo
   theme_bw() +
   scale_y_continuous(limits=c(0,1)) 
 switchingPlotCritical
+
+#switching per prop disagreed
+switchingPropPlot <- ggplot(qData, aes(Prop.Disagreed, Switching, color= Sex)) +
+  stat_summary(fun.y = mean, geom = "point", size = 2.8) +
+  stat_summary(fun.data = mean_cl_normal, geom = "errorbar", width = 0.2) +
+  theme_bw() +
+  scale_y_continuous(limits=c(0,1)) 
+switchingPropPlot
+
+#switching per no.disagreed
+switchingnoDisagreedPlot <- ggplot(tempData, aes(noDisagreed, Switching, color= Sex)) +
+  stat_summary(fun.y = mean, geom = "point", size = 2.5) +
+  stat_summary(fun.data = mean_cl_normal, geom = "errorbar", width = 0.6) +
+  theme_bw() +
+  scale_x_discrete(limits = c(0,2,4,8,10,12)) +
+  scale_y_continuous(limits=c(0,1)) +
+  xlab("Number Disagreed") + ylab("Proportion Switched")
+switchingnoDisagreedPlot
+
 
 #spaceships plot for comparison
 #limits <- aes(ymax = 1-d.pred$PI.U, ymin = 1-d.pred$PI.L)

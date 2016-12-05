@@ -6,10 +6,10 @@ library(coda)
 library(R2jags)
 
 # Read in the data and construct the jags objects
-source('../Data/loadData_latest.R')
+source('../loadData_pilotData.R')
 
 
-modelNumber = 1
+modelNumber = 2
 n.chains = 3
 n.cluster = n.chains
 
@@ -85,13 +85,13 @@ n.cluster = n.chains
     relPars = c('b_intercept','b_sex','b_correct','sigma_p_abs','sigma_q_abs')
     
     # Save plots
-    pdf('tracePlots_confidenceSex.pdf',width = 8.27,height=11.02)
+    pdf('pilot_tracePlots_confidenceSex.pdf',width = 8.27,height=11.02)
     plot(my.samples[,relPars])
     dev.off()
     
     # Save summary statistics
     my.summary = summary(my.samples[,relPars])
-    sink('confidenceSex_results.txt')
+    sink('pilot_confidenceSex_results.txt')
     my.summary
     sink()
     

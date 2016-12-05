@@ -2,7 +2,7 @@
 
 
 # Read the data
-tempData = read.delim('Data/pilotData_19.08.15.txt')
+tempData = read.delim('../Data/pilotData_19.08.15.txt')
 # Remove the rows with 'NA's
 tempData = na.omit(tempData)
 

@@ -4,7 +4,7 @@ library(Hmisc)
 library(ggplot2)
 
 #organising data
-qDataL = read.delim('./Data/Qualtrics_RAW_21.11.16.txt')
+qDataL = read.delim('../Data/Qualtrics_RAW_21.11.16.txt')
 # Remove the rows with 'NA's
 qDataL = na.omit(qDataL)
 
@@ -42,6 +42,9 @@ qData$noDisagreed <- ifelse(qData$pAnswer=="no", qData$pSaw, 12-qData$pSaw)
 
 qData$CONDITION <- ifelse((qData$CondName=="Control Group"),2,
                           ifelse((qData$CondName=="Condition 1"),1,3))
+
+qData$MajCorrect <- ifelse((qData$Correct==0 & qData$majDisagreed==1),1,
+                           ifelse((qData$Correct==1 & qData$majDisagreed==0),1,0))
 
 #line added 13.11.16 for prop_disagreed
 qData$prop_disagreed <- qData$noDisagreed/12
@@ -115,11 +118,12 @@ switchingPropPlot
 
 #switching per no.disagreed
 switchingnoDisagreedPlot <- ggplot(qData, aes(noDisagreed, Switching, color= Sex)) +
-  stat_summary(fun.y = mean, geom = "point", size = 2.8) +
-  stat_summary(fun.data = mean_cl_normal, geom = "errorbar", width = 0.2) +
-  geom_smooth(method= "lm", se= FALSE,  colour= "red", formula=y ~ poly(x, 3, raw=TRUE)) +
+  stat_summary(fun.y = mean, geom = "point", size = 2.5) +
+  stat_summary(fun.data = mean_cl_normal, geom = "errorbar", width = 0.6) +
   theme_bw() +
-  scale_y_continuous(limits=c(0,1)) 
+  scale_y_continuous(limits=c(0,1)) +
+  scale_x_discrete(limits=c(0,2,4,8,10,12)) +
+  xlab("Number Disagreed") + ylab("Proportion Switched")
 switchingnoDisagreedPlot
 
 #add stat_smooth?
@@ -133,16 +137,20 @@ SmoothSwitchingPropPlot
 
 #stat smooth per Conf? Can't seem to get it for all conf levels...
 #try confidence as factor?
-#Confidence <- as.factor(Confidence) nope doesn't work
+Confidence <- as.factor(Confidence) #nope doesn't work
+
 #try for no.disagreed as factor
 noDisagreed <- as.factor(noDisagreed)
 
-SmoothConfPropPlot <- ggplot(qData, aes(Prop.Disagreed, Switching, group = Confidence)) +
+SmoothConfPropPlot <- ggplot(qData, aes(Prop.Disagreed, Switching, colour= factor(Confidence))) +
   stat_summary(fun.y = mean, geom = "point", size = 2.8) +
-  stat_summary(fun.data = mean_cl_normal, geom = "errorbar", width = 0.2) +
-  geom_smooth(method= "lm", se= FALSE,  colour= "pink", formula=y ~ poly(x, 3, raw=TRUE)) +
-  theme_bw() +
-  scale_y_continuous(limits=c(0,1)) 
+  stat_summary(fun.data = mean_cl_normal, geom = "errorbar", width = 0.1) +
+  geom_smooth(method= "lm", se= FALSE, formula=y ~ poly(x, 3, raw=TRUE)) +
+  theme_bw()+
+  scale_y_continuous(limits=c(0,1)) +
+  scale_fill_discrete(name = "Confidence") +
+  xlab("Proportion Disagreed") + ylab("Proportion Switched")
+  
 SmoothConfPropPlot
 
 
@@ -194,6 +202,31 @@ FsampleSize <- sampleSize[(sampleSize$SEX==2),]
 table(FsampleSize$CONDITION)
 MsampleSize <- sampleSize[(sampleSize$SEX==1),]
 table(MsampleSize$CONDITION)
+
+####################CRITICAL TRIALS#############################
+#create data of just critical trials and re-set names for plotting
+qDataCritical <- qData[qData$majDisagreed==1,]
+
+#critical trials and maj correct
+critical_and_correct <- qDataCritical[qDataCritical$MajCorrect==1,]
+
+#critical trials and maj incorrect
+critical_and_INcorrect <- qDataCritical[qDataCritical$MajCorrect==0,]
+
+table(qData$Switched)
+table(qDataCritical$Switched)
+table(critical_and_correct$Switched)
+table(critical_and_INcorrect$Switched)
+
+
+#table of social info breakdown
+Trialtype <- c("All", "Critical","MajorityCorrect","MajorityIncorrect")  
+totalTrials <- c(3120, 1524, 706, 818)
+totalSwitched <- c(462, 428, 241, 187)
+PropSwitched <- c(0.15, 0.28, 0.34, 0.23)
+SocInfo <- (data.frame(Trialtype, totalTrials, totalSwitched, PropSwitched))
+
+
 
 #trying an ordinal logistic model from the web
 

@@ -2,7 +2,7 @@
 
 
 # Read the data
-qDataL = read.delim('Qualtrics_RAW_21.11.16.txt')
+qDataL = read.delim('./Data/Qualtrics_RAW_21.11.16.txt')
 # Remove the rows with 'NA's
 qDataL = na.omit(qDataL)
 
