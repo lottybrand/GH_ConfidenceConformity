@@ -1,0 +1,82 @@
+# Jags model definition, data values here
+# must match those in the data declaration
+
+# Parameters, don't need to do this really
+#var x[NObservations],z[NObservations],b_participant[NParticipants], b_question[NQuestions];
+
+# Model is defined as follows
+model{
+  # Some notes from the jags manual
+  # Nodes
+  #   Each relation defines a node in the model in terms of other nodes that appear on the  right
+  #   hand side. These are referred to as the parent nodes. Taken together, the nodes in the model
+  #   (together with the parent/child relationships represented as directed edges) form a directed
+  #   acyclic graph. The very top-level nodes in the graph, with no parents, are constant nodes,
+  #   which are defined either in the model definition (e.g. 1.0E-3), or in the data file ( e.g.x[1])
+
+  #   Relations can be of two types. A stochastic relation ( ~ ) defines a stochastic node, repre
+  #   senting a random
+  #   variable in the model. A deterministic relation ( <- ) defines a
+  #   deterministic node, the value of which is determined exactly by the values
+  #   of its parents
+  
+  #   Deterministic nodes do not need to be embedded in node arrays.  
+
+  # Order does not matter here, but lets do it sensibly?
+  
+  
+  
+ 
+  # Priors  
+  b_sex ~ dnorm(0,0.1)
+  b_cond ~ dnorm(0,0.1)
+  b_sex_cond ~ dnorm(0,0.1)
+
+  
+  # Precision (1/sd) of random effects due to particpant and question
+  
+  # Gamma distribution with shape parameter 0.01 and rate parameter 0.01?
+  # Conjugate prior of poisson?
+  #tau_p ~ dgamma(0.01,0.01)
+  #tau_q ~ dgamma(0.01,0.01)
+  
+  #tau_p <- pow(sigma_p, -2)
+  #sigma_p ~ dunif(0, 100)
+  
+  
+  #tau_q <- pow(sigma_q, -2)
+  #sigma_q ~ dunif(0, 100)
+  
+  #for(i in 1:NParticipants){
+  #  b_participant[i] ~ dnorm(0,tau_p)
+  #}
+  
+  #for(i in 1:NQuestions){
+  #  b_question[i] ~ dnorm(0,tau_q)
+  #} 
+
+  # The model 
+  # Iterate over every data point we have
+  for(i in 1:NObservations){
+      # Correct has a bernoullis distribution, with a probablility
+      # x that the correctly answer the question
+            
+      # A deterministic node      
+      z[i] <- b_sex*Sex[i] + b_cond*Condition[i] + b_sex_cond*Sex[i]*Condition[i]
+
+      # The link function - note we need to use the inverse with jags
+      x[i] <- ilogit(z[i])   
+     
+
+      # A stochastic node 
+      Remember[i] ~ dbin(x[i],1)
+  }
+
+  # Lets work out the likelihood
+  # We need to define the binomial distribution
+  # n! / k!(n-k)! = c
+  # c p^k(1-p)^(n-k)
+  c <- logfact(1) - logfact(Remember) - logfact(1-Remember)
+  logLike <- sum(c + Remember*log(x) + (1-Remember)*log(1-x))
+}
+
