@@ -152,6 +152,8 @@ tempDataCritical <- tempData[tempData$MajDiffered==1,]
 CriticalSwitched <- tempDataCritical$Switched
 Sex <- tempDataCritical$Sex
 Confidence <- tempDataCritical$Confidence
+Sex <- as.factor(Sex)
+noDisagreed <- tempDataCritical$noDisagreed
 table(CriticalSwitched)
 table(Switching)
 
@@ -182,7 +184,7 @@ densitySwitchCritical
 
 #switching per confidence plot for Critical Trials 
 
-switchingPlotCritical <- ggplot(tempDataCritical, aes(Confidence, Switched, color= Sex)) +
+switchingPlotCritical <- ggplot(tempDataCritical, aes(Confidence, CriticalSwitched, group= Sex)) +
   stat_summary(fun.y = mean, geom = "point", size = 2.8) +
   stat_summary(fun.data = mean_cl_boot, geom = "errorbar", width = 0.2) +
   theme_bw() +
@@ -198,7 +200,7 @@ switchingPropPlot <- ggplot(qData, aes(Prop.Disagreed, Switching, color= Sex)) +
 switchingPropPlot
 
 #switching per no.disagreed
-switchingnoDisagreedPlot <- ggplot(tempData, aes(noDisagreed, Switching, color= Sex)) +
+switchingnoDisagreedPlot <- ggplot(tempDataCritical, aes(noDisagreed, CriticalSwitched, color= Sex)) +
   stat_summary(fun.y = mean, geom = "point", size = 2.5) +
   stat_summary(fun.data = mean_cl_normal, geom = "errorbar", width = 0.6) +
   theme_bw() +

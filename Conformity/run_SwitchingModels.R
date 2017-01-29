@@ -6,7 +6,9 @@ library(coda)
 library(R2jags)
 
 # Read in the data and construct the jags objects
-source('../Data/loadData_latest.R')
+#source('../Data/loadData_latest.R')
+
+
 
 
 
@@ -56,7 +58,7 @@ n.cluster = n.chains
   
   # Save summary statistics
   my.summary = summary(my.samples[,relPars])
-  sink('latest_fullSwitching.txt')
+  sink('bgSocial_fullSwitching.txt')
   my.summary
   sink()
   

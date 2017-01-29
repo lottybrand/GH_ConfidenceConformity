@@ -2,7 +2,7 @@
 
 
 # Read the data
-qDataL = read.delim('./Data/Qualtrics_RAW_21.11.16.txt')
+qDataL = read.delim('../Data/Qualtrics_RAW_21.11.16.txt')
 # Remove the rows with 'NA's
 qDataL = na.omit(qDataL)
 
@@ -38,6 +38,10 @@ qData$CONDITION <- ifelse((qData$CondName=="Control Group"),2,
 
 #line added 13.11.16 for prop_disagreed
 qData$prop_disagreed <- qData$noDisagreed/12
+
+#for testing with just critical trials:
+qDataCritical <- qData[qData$majDisagreed==1,]
+qData <- qDataCritical
 
 # Set up the data object
 # The independent variables
