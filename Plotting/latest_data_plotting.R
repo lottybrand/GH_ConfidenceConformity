@@ -205,7 +205,12 @@ table(MsampleSize$CONDITION)
 
 ####################CRITICAL TRIALS#############################
 #create data of just critical trials and re-set names for plotting
-qDataCritical <- qData[qData$majDisagreed==1,]
+
+#need to load bodyGame social for study 2, qdata for study 3. 
+#also sex == SEX and MajDiffered == MajDisagreed
+qData = read.delim('../Data/bodyGameSocial.txt')
+
+qDataCritical <- qData[qData$MajDiffered==1,]
 
 #critical trials and maj correct
 critical_and_correct <- qDataCritical[qDataCritical$MajCorrect==1,]
@@ -218,6 +223,10 @@ table(qDataCritical$Switched)
 table(critical_and_correct$Switched)
 table(critical_and_INcorrect$Switched)
 
+sS_cC <- critical_and_correct[!duplicated(critical_and_correct$ID),]
+table(sS_cC$Sex, sS_cC$Switched)
+sS_cI <- critical_and_INcorrect[!duplicated(critical_and_INcorrect$ID),]
+table(sS_cI$Sex, sS_cI$Switched)
 
 #table of social info breakdown
 Trialtype <- c("All", "Critical","MajorityCorrect","MajorityIncorrect")  
