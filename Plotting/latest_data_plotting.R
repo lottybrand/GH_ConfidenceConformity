@@ -212,6 +212,10 @@ qData = read.delim('../Data/bodyGameSocial.txt')
 
 qDataCritical <- qData[qData$MajDiffered==1,]
 
+SsqDataCritical <-qDataCritical[!duplicated(qDataCritical$ID),]
+
+table(SsqDataCritical$Sex, SsqDataCritical$Switched)
+
 #critical trials and maj correct
 critical_and_correct <- qDataCritical[qDataCritical$MajCorrect==1,]
 
